@@ -1,0 +1,3470 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.16.27045.0 (4d0b3c52).
+//
+// d:\重要文件\状态机示例\debug\aa328496536.tlh
+//
+// C++ source equivalent of Win32 type library D:\\重要文件\\xsj\\xsj\\aa328496536.dll
+// compiler-generated file created 11/15/21 at 00:58:15 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("978faa1a-e724-b8de-e7dd-c4f2abd9f056"))
+/* LIBID */ __dz;
+struct /* coclass */ qwert;
+struct __declspec(uuid("c7023d37-156c-cc84-2fb8-daddb10e9235"))
+/* dual interface */ Iqwert;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(Iqwert, __uuidof(Iqwert));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("5c877f74-bad2-bb58-d0a5-1b9263d91a96"))
+qwert;
+    // [ default ] interface Iqwert
+
+struct __declspec(uuid("c7023d37-156c-cc84-2fb8-daddb10e9235"))
+Iqwert : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    long gCKdPAaIxYM ( );
+    __int64 pLwQvUeF (
+        long zHWb_Ynfoms_24,
+        __int64 vYVyv_PmdieH,
+        long LMyXuI_fRWbFG_20,
+        long OUxMp_lFlp_upGjVb );
+    _bstr_t FindPicSimMemE (
+        long x1,
+        long y1,
+        long x2,
+        long y2,
+        _bstr_t pic_info,
+        _bstr_t delta_color,
+        long sim,
+        long dir );
+    long XYKEYjHtnBYwLlL (
+        long QTQwQuN_AmhqU_45,
+        _bstr_t sOfWjj_QlnmG );
+    long lZrcjRXCTyBTn (
+        long OjEKJm_duzsdo,
+        _bstr_t tGUV_YEoJjMS_55,
+        _bstr_t nrbjHrN_iKGRcXH_07 );
+    _bstr_t rblHUdKgfHeB (
+        long zgpumu_DabGZA_52,
+        long GdbJ_GWGMQkh_57,
+        long fjnB37,
+        long FapwsE_helKqU_26,
+        _bstr_t HKAZAP67,
+        _bstr_t IFcG_eJIoA,
+        double eIsqTiW_VCQvh,
+        long kqhAa_ngFB_GvNNYh );
+    _bstr_t VCaEmQVYycL ( );
+    long qItKHDfIuLus ( );
+    long aYjEUNTfe (
+        long SmsGy_rryFzv_72,
+        long GhKVBN10,
+        long jaqN48,
+        long gqpL_fnqJdJa_fgsmgh,
+        _bstr_t qDxpfn_ECLdu,
+        _bstr_t aoHAfF_usVhu_23,
+        double bACYuKy24,
+        VARIANT * sNPst06,
+        VARIANT * NapGZi_fbwxB );
+    long QPYAryBPP (
+        _bstr_t kKztR_Egja );
+    _bstr_t MudsayYht (
+        _bstr_t hVsvDoD_aUuBtHV_FRcmWto,
+        long NCPBkVD_uWoO_TeaPYlI );
+    long FBXGAfHSvE (
+        long qraHnSJ_zecqW,
+        long PZpcQij_QmdRXd_mhtFS,
+        long iOGvWI_pVlU_NvgzHD,
+        _bstr_t zIDtl_XkrGQ_GhjkVcZ );
+    _bstr_t fuSubQatonRcf (
+        long mgoxCZ_mUUSBZ_83,
+        long YCQhrV_mMpT_18,
+        long Xycw_dlJvdgq_97,
+        long jIatAF_WOFZ_LqUiR,
+        _bstr_t WOjZVLn88,
+        _bstr_t kYVdbOB11,
+        double NjMb_UEJSdu );
+    _bstr_t jYgmPEgAlnok (
+        long fjZIPX_AAzCxW,
+        long bCQv_ebqRe_ZVUb,
+        long SanV_YxCmWeQ_64,
+        long GGRsFhn75,
+        _bstr_t DOyYe_fHXtoB,
+        _bstr_t dkjDNm_xPCWxU_11,
+        double TLRRAD_QHLZly );
+    long tNCWajNzRr (
+        long MObnb_BySaAE );
+    long fqDeQhArTYlI (
+        _bstr_t XxIuT_NiNBjg,
+        long bHtt_XNpiOE_85,
+        VARIANT * UCtdr_typbYS,
+        VARIANT * DrYHv33 );
+    long lFwR ( );
+    long ZcvgPaznKe (
+        long sxOgahS_pvDPq_wSMOam,
+        _bstr_t Jsojlb55 );
+    _bstr_t eCaQKCwzJYVgqvj (
+        _bstr_t XHkUs_ydPoJx_59,
+        long UxAfwt_oNjtrm_WqZJAK );
+    _bstr_t UvDc (
+        _bstr_t uxLPjWS_uiCDG_78,
+        _bstr_t uWpSKT_mKNaIwp_LTqrsQ );
+    long PcaI (
+        long RsAM_FBsOz_94,
+        _bstr_t rlnWfo_CsgsXP_51,
+        double NnBCF59 );
+    long PWStm (
+        _bstr_t ACOlt97 );
+    long FindPicSim (
+        long x1,
+        long y1,
+        long x2,
+        long y2,
+        _bstr_t pic_name,
+        _bstr_t delta_color,
+        long sim,
+        long dir,
+        VARIANT * x,
+        VARIANT * y );
+    long LWBQehxziRwt (
+        _bstr_t QMfqwz_ErMloYE_22 );
+    long tvqajshk (
+        _bstr_t UUTq_Ldbi_31,
+        _bstr_t rVztCZ_IkHi_16 );
+    long nRLF ( );
+    _bstr_t nkimLutGhGaNnH (
+        _bstr_t bZTFnd74 );
+    long PhERsrClpBgzI (
+        long HrfHvpD_qAQb_twtDbX,
+        VARIANT * zxTuQzn_HDXBQSm,
+        VARIANT * ggVX_KkBuQVy_PTQd,
+        VARIANT * pMBm_YoAPA_Tsexl,
+        VARIANT * IjfiX_NifT_mQoOgY );
+    _bstr_t mGXZAKzmDhbv ( );
+    _bstr_t nTAI (
+        _bstr_t mDXYCYN_fZqkh_ZKucAgn );
+    long opvdnxmrrLoU (
+        long oQLO_dHIyk_xpHU,
+        long HYnst_ZMCrNGZ_Qzumv );
+    long EYGvZ ( );
+    long AJdPJJGeB (
+        long lYWu_qPqqa,
+        _bstr_t drjSxeO43 );
+    long KmoGRVBufLs ( );
+    long phPXi (
+        _bstr_t VbOWia_rjwu_32 );
+    long LVLSWHlB ( );
+    long calc ( );
+    long cvmvoQAYn (
+        long IcILvj_zZCu );
+    long BqiJACLXdqkyQAT ( );
+    _bstr_t wRQmXvipGLoBZRl (
+        long XtwMvUq20 );
+    long LlXA (
+        _bstr_t ilEFam_HCqM,
+        long xLBtm_ynWDwRJ_ebHY );
+    long gjsPx (
+        long onmEsh_HVXvbP_mFCKxr );
+    _bstr_t yWkp (
+        long BlIQTnC_lQqBpt_72,
+        long ZcDde_uOKULjB_36,
+        long JQDx_tAony,
+        long Qdhv_MMtM_BMzUygw,
+        _bstr_t zsbuYx_efPDYd,
+        _bstr_t gRRSTYB_lpMGv,
+        double sKgU_yRfTT_jsHGa,
+        long qYbr_WCprrQ_58 );
+    long LkYIDRkVfJTJ (
+        _bstr_t QOuheX93 );
+    long YjsBVcVT (
+        _bstr_t sgNDUR79,
+        _bstr_t UqMAIv_vSCZxn,
+        _bstr_t KNYXfvh_WqRRam_QvQCVhV,
+        _bstr_t KzUd_hLeN );
+    long DmGuardExtract (
+        _bstr_t type,
+        _bstr_t path );
+    long mrbYLFr (
+        long czryFrl_dWpV_fRfxQgq );
+    long mbkgovzNQ (
+        long GSJtYE_oYciW );
+    long UaoDzUnJmg (
+        _bstr_t ujJJ_UFEOo_24,
+        _bstr_t uwVX_IpGDp_23 );
+    long PwYZbewpeQ ( );
+    long XvqGbY (
+        long eLMYf01,
+        long qPNUw_jpwgy_xEssy,
+        long ZVCsuEM_RXsvpRd_psZj,
+        long FxwZNBS15 );
+    long AsqXYdNqBMPUUv (
+        long hyZysVq_nSCI_05,
+        long TAwLZs_ShkFTr_91,
+        long VKTg22,
+        long NYgk_jozJBEd_NvjoOR,
+        _bstr_t bAomoKz_oYehwvl,
+        _bstr_t IwxTZf_WyhYgeK_12,
+        double EkltSR_WWSORJz,
+        VARIANT * kaThlX80,
+        VARIANT * ONsuEh_fGNc );
+    _bstr_t xyADnWX (
+        _bstr_t GsqJCm_tIMRK,
+        _bstr_t HBzyIQX_sQgz_84,
+        _bstr_t pYRWcJ37 );
+    long bXUUrf (
+        long sWNAMb_zdUw_17,
+        _bstr_t rRKV_WRDew );
+    long zQXWK (
+        long qEXnSN58,
+        long RChM_YfkGokM );
+    long lpnyHvPvKkNph (
+        long YgYCGQI_LHasTM_61,
+        long KonZk_mdIOxm_QadRhx,
+        long eMain36,
+        long WINeGKt_UetBW,
+        long SnJF_gUenxd,
+        _bstr_t FMwzRwL_GvwTR_27 );
+    long tvfKfFLkzD (
+        long rFIqpM_HPqX,
+        long nHsK_oXhraXK_47,
+        long RAGyY_EoYghgC,
+        long gpGVnG_babPC,
+        long FUSV_GHbtf_RdtyIGf,
+        _bstr_t eFAqO_GlneF_SPwu,
+        long HsTawq_AFZNE_aaLS,
+        long FXtH_kbmPcnC_51 );
+    long gkvLMvxu (
+        long llyQm_lbNg_54,
+        __int64 bLQs_icKsm,
+        _bstr_t kgJJKE_kqrGOfp );
+    long jxyZF (
+        long aZtb_LGgbQjB,
+        _bstr_t AheddQ_mnurq_62 );
+    long CHZSLUWHe (
+        _bstr_t cQbn_qXgWj_eoUlKX );
+    _bstr_t nPiwyuqkweb (
+        _bstr_t QMnz_NMMt_lojqa,
+        _bstr_t PDVayC63,
+        long vRlBRGw_XfYgVQ );
+    _bstr_t ePkg (
+        long rsRuBk_RWHpTH,
+        __int64 EBJBf_vRxLfR_58,
+        long eRxvWu92,
+        long QhfnOL_EMdjL_85 );
+    long FZIqkVPxGiCqCcv (
+        _bstr_t sEsmpk35,
+        _bstr_t OiyPLt_yVAj );
+    long WYWNzbmXJmNwRgx (
+        long yYxl_RpIw_TGoXi,
+        long pjpMa_YStPrEg,
+        long EXnkIL_XiwOmJL,
+        long bdWDldO_TFvIvJ,
+        long LbCFqun06 );
+    _bstr_t aqEuKSfPGmn (
+        long iJNLVT_HSxV,
+        _bstr_t yeae_gPRVNF,
+        __int64 IMzCk_QkUrDiW_ZUPTDVl,
+        __int64 PAAV_ZVbif,
+        long wzvgk_KeXdRL_heXAHD,
+        long NjlAud05,
+        long xSmJSRL57,
+        long EIvt_DTGd_38 );
+    long QwujUAA (
+        _bstr_t mUHhh_ORoe );
+    long zIgsdPEoEI (
+        long XujJ59,
+        long srkvi19,
+        long roMkDSr_GTTRK );
+    long DSVQG (
+        long ldFSR71 );
+    long TlvMzLDwvyeAz (
+        long CmZh_DTHAb_gYkBWE );
+    _bstr_t jUFxBUEZ (
+        long vSnFErf20,
+        long Pnyp_JyyGvWc_YqMC,
+        long NNyc_fiqwPz_oNuX,
+        long EdFc_TkGhRZr );
+    _bstr_t Lpml (
+        _bstr_t bXOARJ_FtfFuFk,
+        _bstr_t kkxw_wyINsa_45,
+        long FTSmOuY_oiEcMdR_lJfp,
+        long SNIvfMA_MYOChz );
+    long xQWnKEHP (
+        long vQkA_VzlKaWy_69,
+        long NtFu_naMr_73,
+        long exKZrOP_lSrcTMk_dbObWb,
+        long dvvPzK_dfjYND,
+        _bstr_t TcBlXZw_rFCH_51,
+        _bstr_t GOcZm_tnUX_nCpLv,
+        double zfMjNT_OKmx_18,
+        long KUAfU81,
+        VARIANT * YbUMfUP08,
+        VARIANT * oJwSWNJ_NqXGOpg_66 );
+    long bSIUPh (
+        long ZTmTWz_XoxGtN,
+        long neqXIy_uKMzqD_mVKD,
+        long reeE_POFtJSM_SqmO,
+        long EANwccX03,
+        long qZxrZzA_LUgai_NXzQ,
+        _bstr_t gEWE39,
+        _bstr_t bPIP_BrQHiG_59,
+        long NXxSw_EDheNV_84 );
+    long UxvlDakLtmsxMy (
+        long NCozXjN40,
+        _bstr_t FzvAZB76 );
+    long RiWTlLsGxXAxbW ( );
+    long XbJciA ( );
+    long HaGFFdseCWZGCW (
+        long gJoiIB_HShcu_OFOvP );
+    long JTjEhkf (
+        _bstr_t saUZk_DWcXOb_essThaa );
+    long TqdmPKYXFYXhru (
+        long WiWDovx52,
+        long nSxLku_ADXli_59,
+        long yTmHB_pXSqo_AFeTcK,
+        long pQYPbVv50,
+        long Neci96 );
+    long zkLnwF ( );
+    long uSxmXqKibgcD (
+        _bstr_t dBUTuJo_CpJref_jNvfcQ );
+    long GetWindowThreadId (
+        long hwnd );
+    long XuLWpyRitE (
+        long OvPfK_XNIJozW_muKR );
+    long hcPuRv (
+        long kOzxhO89,
+        _bstr_t nVYW25,
+        long nlIpm_YgBrZV,
+        long xwydV_bMiC );
+    long CnmxDmquAfr (
+        long fFVSG05 );
+    long dSvMbY (
+        long yiPnox20 );
+    _bstr_t sjhGfLBrc (
+        long alhUPfy_JsNYA_YUtpx );
+    _bstr_t kLBPNsgwPWCRw (
+        _bstr_t Gxqa18 );
+    long DMWZyvEfdqUBkQc (
+        long xdtLi31 );
+    long bNgZhspo ( );
+    long Whbb (
+        long FVkWClI_dGCzvVz_dlIygly,
+        __int64 ChLX_zfzhf_NwKJZvI );
+    long SetInputDm (
+        long input_dm,
+        long rx,
+        long ry );
+    _bstr_t SrlzcX ( );
+    long aqbmCT (
+        long mXdKv_hGDzF );
+    _bstr_t ComD (
+        __int64 tCMmSD_GrFY );
+    _bstr_t IwHboMKYlchpwy (
+        _bstr_t yExOXu04,
+        long qSkWwEy_NiQfU,
+        long IQIR37 );
+    long cnAxnKjNW (
+        long fynTkHE_LbwcrSV,
+        long YIUdHS_ixSY,
+        long rOGLZq64 );
+    long UXyouylDwrvAQQv (
+        long mFIF_DNmO_Muqt );
+    _bstr_t xRyQpNxpaZoqANG (
+        long ZgIMgkO_AAtxjO_JLKQCCq,
+        long GXJjYBP66,
+        long SQMC_yObYa,
+        long eVLWkO58 );
+    long KWwenShd (
+        long Vxqnvqx_imqQeYO_muSBc );
+    _bstr_t QNioHz (
+        long WhZYxnQ_enqjRx_61,
+        long mEJjS_nUHGNj_fOmZp,
+        long iUZXh02,
+        long aAQIBhx_hwDEIYZ_99,
+        _bstr_t ixTSppe_ryzIMOY_tQps,
+        double jlnhlL84,
+        long kmgrCSo14 );
+    _bstr_t SFhHk (
+        long qnFJ82,
+        long ZhLrv62,
+        long aUHj_qfUHbv_ofsze,
+        long CXWLVA_hoCWxG_89 );
+    long UowMQbYJZJrKZ (
+        long iFKLjx_SRcn_59,
+        _bstr_t nvCCCZ80,
+        long EfRMfa21 );
+    long TLavoUI (
+        long lHXjUR_wYiKMa_NAZgKR,
+        long nKXsHed_JXtaF );
+    long oYUqDbbJjCCGo (
+        _bstr_t Cytyquw_aLHCkx );
+    long VBRQeCVrSABgWZ ( );
+    long aruzfQXo (
+        long yQvLxjT_uxZpwqq_18 );
+    long yZUhUYWrza (
+        long bYHbcrP_HPEBzx,
+        VARIANT * TKGBHz_STyvZY_qtTQ,
+        VARIANT * FCcih_FyRWKH );
+    long RrCe (
+        long aOLPQe_OjSfR,
+        long HsFwiCz_iGhnBGb,
+        long OKXBd_lpmZhu_32,
+        long qhluCJu25,
+        long GmCfALn16,
+        long yixB73,
+        long kAasjtM75 );
+    long vCyabL (
+        long QUVK89,
+        long ZHNMEJk_TIgS_15 );
+    long gqBERsF (
+        _bstr_t WKTZrl22,
+        _bstr_t Ghqan_Lgky_ktyLXb,
+        long vAJCKz_bbzFllr_57 );
+    long JpbEH ( );
+    _bstr_t RUBGaZRklERNf ( );
+    long GPqaYvqbVzalp ( );
+    _bstr_t cWqRmDfhELIFfr ( );
+    _bstr_t fpSgglsjIS ( );
+    long cbah (
+        long HZfcFv16 );
+    long TxiWbuTuF ( );
+    long knTVUHdzhop (
+        long gBrd96,
+        __int64 VNNs55,
+        double VApIImd_dNoLp_22 );
+    long bIPxtRSe (
+        long elWsKJ_FOXZDm_57 );
+    long yBmvEr (
+        long jRZEKN_mpxL_93,
+        VARIANT * eoayGP03,
+        VARIANT * rFRHxu_YxEdYEh_GRRxfX,
+        VARIANT * PEkYvBg_pGWbxG_06,
+        VARIANT * paamzmg_pkPEMk_09 );
+    long QeYklc (
+        long uZNE_IFSul );
+    long RdKafntkNN (
+        long DQYyp_lylGw_95,
+        long ugXUqd_JDDL );
+    long CtuXEae (
+        _bstr_t OllKs_TVTS_10,
+        _bstr_t tUGLVyd_BVJXvk_91 );
+    _bstr_t nukpnpta (
+        long bDDEmP40 );
+    long KbwbsoUcJnVj (
+        long RcsebV_DYeK_16 );
+    long JUqDlI (
+        _bstr_t cmaDxH_ssOk );
+    long KWAlkMegfztet (
+        long vigdSow_GHIAKx_Jfdv );
+    long IKQAKSFTXLCx (
+        long wOObarr84 );
+    long LrQz (
+        long Iwvz_gueoex,
+        long tgWHQj_zdgT_46 );
+    long qcTNuVEAnbckYY (
+        long eAbbvR32 );
+    long VkxdXwMcBFo (
+        long iBVoo_zfjJJda,
+        long TgOA_abGUoiM_68,
+        long KYctDSB_pMmlo,
+        long qZpt_INiMBq_07,
+        _bstr_t vpdYvQG_CaMFiIj_WXEmw );
+    long FqYFenBYaAZnUPQ (
+        long wqVsa00,
+        _bstr_t IBMsscu_oLtH_foUSU,
+        _bstr_t ndRNg_trBddfI_06,
+        _bstr_t AMkAQ_kIax_10,
+        long riHun_gMvn_10 );
+    _bstr_t QRwCTv (
+        long rJOB_URvkSIi_JIgO,
+        long sUwMi_oqKQPr_CFghgt,
+        long ghfpu61,
+        long LEAdGTb_SpFHXs_14,
+        _bstr_t IDUNLkH_BrnzVng_FiCPquh,
+        _bstr_t AVTq_VpsdI_tDAy,
+        double XvlwlC_jZtC_12,
+        long wDFZv_unQBl );
+    long KSkajYuh (
+        long yVlWAN_siAa_FnQu,
+        _bstr_t jsKUYDV70 );
+    long jVkb (
+        long ccFXXOX_NcmN_72,
+        _bstr_t OPwx_FMJcc_78 );
+    long wuJIGnNUjMBaP (
+        long iGjau_AcUkU,
+        long vptMvF_gMMSJa );
+    long ueWMluyylll (
+        long Ovwa_ZwFPWY_tgPw );
+    _bstr_t trRSuIfTy (
+        long cdpxaXE_gPKNi_zXQA,
+        long GBAHTQ_rnIiSv_RUFf,
+        long gHmt_irdd_01,
+        long zrBd_DLOzn_IlfQbK,
+        _bstr_t KcyQDGd62,
+        double OijD_MnTqK,
+        long vcMR_YVee,
+        long tJEWq72,
+        long uMIL74 );
+    _bstr_t mEukRUpBhMk (
+        long slBUoZD_ahQBsgO_48,
+        long tVqBPx49,
+        long fXgOoDO_VBIO_OyyGg,
+        long rsLBV_dhsNHMt_zkMuvb,
+        _bstr_t pySG37,
+        double rKTXUH97 );
+    long pyRMWmA (
+        long EmhQ_mJKab_YhSHVH,
+        long WwiL82,
+        long sqDdMh57 );
+    long jHJvjrbkwhy (
+        long prejp_wPsy_MKjbqnl );
+    long lelxiTTDu (
+        _bstr_t WGYb11 );
+    _bstr_t szmUcVJmhynCqGx ( );
+    long vNcLi (
+        long YoqTpH_JylmF_44 );
+    __int64 gcKS (
+        long eJHevpQ15,
+        long yGneA_foTN,
+        _bstr_t Lumirj_AdQzzI_hFrrQvS );
+    long uLIcjerEI (
+        _bstr_t leQatS_axNrF );
+    long LKEkLvHmkq (
+        long TJuMz_sBZvmF_11 );
+    double FoEHMtHxoZS (
+        long IuEV_tPxs_tYRIkdI,
+        _bstr_t wKPPjni96 );
+    long jBlpncAgA (
+        long fZvP_ufUnLA_klaZcFQ );
+    _bstr_t SvPBFqxW (
+        long lLXLNbP_xOlRMph_80,
+        long CNWcDG_hLMK_30,
+        long RdQySG_YRlR,
+        long dwwuP_eHlIbgW_dWyVys,
+        _bstr_t oxwTW_taINulF,
+        _bstr_t dlnbzh_LuMbRcg_EYwVCrv,
+        double Pvqff_bNlT_bCQdKYB );
+    _bstr_t HVpkJ (
+        _bstr_t TqtCW_aiSaQM,
+        _bstr_t MwPlVxg_fzZFQ,
+        _bstr_t palWP_oMUtN_ZCaE );
+    long RTzeQLYgZbFmLE (
+        _bstr_t PxmZM_ZtObXQn_25 );
+    long DmGuardLoadCustom (
+        _bstr_t type,
+        _bstr_t path );
+    long XsDLBt ( );
+    long hMDHgMJwwUKIXD (
+        _bstr_t JzRtpvJ_NzAR,
+        _bstr_t xEJLkKy38 );
+    long XRqKMHmJzbBAF (
+        _bstr_t SHYhUS_xwfbicH,
+        long Ahxt_ittPCp );
+    long LqIhxRYPuhwct (
+        long chnf_EOvgv_31 );
+    long jqHygYjq (
+        _bstr_t IJKBdI_wObGWE_yXKa,
+        long IYwviNF_qGlI_CcNoF );
+    long iBlikUQt ( );
+    _bstr_t TuDSKX (
+        long SiKFTjM_OCCiQO,
+        long hsdeUDM58,
+        long sdDNN_LCjFBkD_96,
+        long phLKYIK43,
+        _bstr_t RQOv_zsOaulf,
+        _bstr_t OjtWGq65,
+        double QpMKx82,
+        long pqzbyB_VzSxya_90 );
+    long Zwvr ( );
+    _bstr_t mCdMp (
+        _bstr_t QOai96,
+        _bstr_t pCOkDeB_jdelJQ,
+        _bstr_t okyH_ocYp_34,
+        long ArCMPf_rNvjPdi_KYhDBuv );
+    long yCzXp (
+        long gRjyJBo_ntyNof_agqgUT );
+    float QejxZ (
+        long QIFfu_PYLjM,
+        __int64 glHQW_vqbL );
+    long zekVPxatol (
+        long bHlbm_SFkVSr_bvcf,
+        _bstr_t LtTy49,
+        float MssfvT24 );
+    long gVzzyUpecE (
+        long OwmiLR_VZdvLs_IQoa,
+        long PFyP_TmnlhlS_24,
+        long MEvhjoF_Inblw_LBUHDUP,
+        long CNKOiVr_SAvCnYK );
+    long CLvHYQPPzpyWZA (
+        long SQWEPHv_hSvdmW_GiLfvwr,
+        long cPoIXbJ74,
+        long wFsLj_hvqg_84,
+        long hNQTS_wwzgVMp,
+        _bstr_t CKrEyk70,
+        _bstr_t lLfUoo_IllF_fSZgw );
+    long xLruz (
+        long YIZUaY_OJDfaX );
+    long BiZrdA (
+        long NfQg_LwnvSsq_hCFWsN );
+    long AQcbwm (
+        long fqPMv_mqwX );
+    _bstr_t plhqvBxvoLSu (
+        long YAQYA_YlcoWpI_39,
+        _bstr_t CaxYKdp_VeXC,
+        _bstr_t dsYaLz_drBaNg,
+        long PSOK_nPrVJmC_kpyJIoe,
+        long IshSuf_oSap_38,
+        long byrv_bYCpT,
+        long wMMgTra49 );
+    _bstr_t lfnqiBdcBegUyWA (
+        long IdNuOx_rtwCtWO_ZoqhS,
+        __int64 smLWDVP_bDanh,
+        long XmPQ_nvYnne );
+    long qBihDy ( );
+    long ufgApm (
+        long xOAiDo_IpXsbn_51,
+        long SnhYJe_xuoiV,
+        long ltxISZ_qyRDHIu_78,
+        long XbSByoe56,
+        VARIANT * gervhct_xowRV_zIdKnq,
+        VARIANT * hLCJY96 );
+    long raXNoHJFLLJ (
+        long ZkZiX53,
+        long XyiGQ27,
+        long iqPAZjq18,
+        long oNNxI_VeGxu_16,
+        long OZHZT_FQynF,
+        long XeMjWc81,
+        long ePJAO18 );
+    long aTThJgbPmH ( );
+    long qaCqehfQdTvXA (
+        long bOZsrW36,
+        __int64 sPPmo_FMJv_vAbDM,
+        long VoTVXdV_Acpyw );
+    long ZcpibzwTg ( );
+    long oHSixRcpoY (
+        long prgRv_NvFLp );
+    long TLEIxQifgMo (
+        long sokjb_vLEZx_yxcgrvZ );
+    _bstr_t ffWovea (
+        long UQZWlG_MpPnoxc_HIRbu,
+        long hcKMvpQ_GMHulUE,
+        long ihloG_vujI_FjHq,
+        long BFtED_bXioMG,
+        _bstr_t CrKJtD99,
+        double CbrnH_ukOiRem_44 );
+    long XLLudf (
+        _bstr_t OSPn_qnCp_rpPblpG,
+        long iIjzxOF_DiHF_kkzaC,
+        long MddJ_Whztok_24,
+        _bstr_t vGYROY27,
+        long atcQa_cPNGoUF,
+        long NnDjd_fOgRpz_97 );
+    long lwpawver (
+        long UJeep88 );
+    long kSwZckyM (
+        _bstr_t tpdna48 );
+    long xvmALnf (
+        long YoWUgC_rbMg,
+        _bstr_t NGcZWQ_ztisd_85 );
+    long eztP ( );
+    long aMcAZwRjeDU (
+        long knIJV38 );
+    _bstr_t flNhAq (
+        _bstr_t szojs_cVJfbao_RNNH );
+    long ITYH (
+        long eXTUArN_OtDeMk_03,
+        long vwbf_dYMj_FnDhw,
+        long Xblk65 );
+    _bstr_t UxMLBxTZ (
+        long nRAE39,
+        long bNuA_IPogIUK_44,
+        long pyoQ_WpqQqw_EixD,
+        long akYXnsv72,
+        _bstr_t teSq_WlyhWUF,
+        _bstr_t RqNq_UOuEx_42,
+        double TXqA_FbLwAyP_70,
+        long uNdMF19 );
+    _bstr_t YAznrkaZJMMSfH (
+        long ajyY49,
+        _bstr_t GeZh12,
+        long wedxWYl_lEDw );
+    long JyDrxiqoq (
+        _bstr_t tOEV_CKEOhs );
+    _bstr_t WZJVXHywF (
+        long rZejtw_BecmDDk_yFKqJp,
+        long otLDCBh_jhkknA_TSQsDiE,
+        long xmvQlJ_EzVBoqB_IIOBrzX,
+        long fWMkF95,
+        _bstr_t fkDuBe_Ncyi_15,
+        _bstr_t wUMrO07,
+        double YVZHo22,
+        _bstr_t MABpCNz25,
+        long UdeiQTI_eeeKf,
+        long PCze_Omoy_07 );
+    long BealRiQUQ ( );
+    long LTwgDTet (
+        long RJrvR_AlPxspI,
+        __int64 psoR_aEirK,
+        long xReVBwr19,
+        long CARFCf68,
+        long sRIhqtn_WwKFTGm );
+    __int64 fGgDBtzu (
+        long vbHvb_rmcdIU_cNHgVB,
+        _bstr_t dLCZ_VdnSyBc_84,
+        long qqLcnYR_kLwQ_57 );
+    long PRJbceVmW (
+        _bstr_t nzSjRD64 );
+    _bstr_t LlGmkYK (
+        _bstr_t vQvL_CAiMVzl_wSuksN,
+        long oQEF_POQo_46,
+        long LmNLQGA_buKO_geeya,
+        _bstr_t NTsakA_jOWS,
+        long Sbvn05,
+        long zIgwHq_roSJCTb_65,
+        long bRci_JYaI_18 );
+    long dbuhdNExsjNT (
+        long AIuJna_uUZqO );
+    long lxuEJXyCimyiN ( );
+    long fdhQaabRCNg ( );
+    _bstr_t vWjr (
+        _bstr_t eerg_DeJD_cvltQl,
+        long sGDH_YoeqTKM_85,
+        long OZXa_fmeV_qzrsxsx,
+        long liUPS_BTMZVP_LfPT );
+    long cpkSoEyPCgvgllb (
+        _bstr_t UVbpjpy_BuugNFX,
+        _bstr_t IZtpaa_nQgYgX_14 );
+    long vxUarjDejQQe (
+        long UCBIU_KAtxXH,
+        long yyOra_GliGqHv_41 );
+    long PZGbqQer (
+        long esyuDZ_pUCp,
+        long sPlo_aQnrvV_qEyhy,
+        long Gogv_Ordmg_wIcqATq,
+        long bYcW_jGBce_68,
+        _bstr_t tSlRS_TiHyga_DJKF,
+        double LUMHj_fmOGmzB_51,
+        long tOWWY13,
+        VARIANT * zIIWpJI_PlFd_44,
+        VARIANT * jZeLN59 );
+    long QuPQh (
+        long NmJJV_XRFTZ_29,
+        long rxvZ_gnZH,
+        long TwjaUom67,
+        long gTEtub05,
+        long ccme_hdzgJt );
+    _bstr_t pWuwoLHxYHvjfaL (
+        long SmCK_atOAnE_tEHA,
+        long ClVpHCh49,
+        long WiuWI_hPIxxcs_DjkoSci,
+        long TQpUiYL28,
+        _bstr_t cNSwp_ipAiVWU,
+        double iUetNx94 );
+    long sameV (
+        _bstr_t Nlsyj09,
+        long ZzvIlcS_FWeZUf_BUWAIX,
+        long fePMWp_uppGg,
+        long YaktwG90 );
+    _bstr_t wwpazmfsd (
+        long cyTVNA_yOwm,
+        long KkKhi_GntCr_VNdMZqA,
+        long GxmE_McxEAHq_wRtSW,
+        long FCwW61,
+        _bstr_t PjGoA_HhljHN_66,
+        double TSNXtJ_Geyuz_76,
+        long Skko74 );
+    long UHzuJgmES (
+        long hqAYd_ilUMJCa_52,
+        long uBAYBPc_aFODlsX,
+        long dZjTmL_DaCOg_erRu,
+        long qDYFgQl_kWmI,
+        _bstr_t RIpInS_VQUXlib );
+    long NxVEvWnmN (
+        _bstr_t QjVDS_QTPPBl,
+        _bstr_t wxHrD96,
+        _bstr_t tgwZ_GSSdA,
+        _bstr_t prtcTSF_aqmy_67 );
+    _bstr_t plLLgTvNAYexMED (
+        _bstr_t hErpBxo11,
+        long yeabiH93,
+        long BuauW_eyTA_69,
+        long QUxfm_MsMxq_VNTCuw );
+    _bstr_t XMjakaDGQhjKmm (
+        long AinG87,
+        long HcpBzRh_yLewY_23,
+        long JiUeoB_eWuYO_xuMWzLn,
+        long QTBbKK_AQoraNz_STAO,
+        _bstr_t LLFmIZ50,
+        _bstr_t YdRqJQ_CShMf_07,
+        double ihGcAkj35 );
+    long ZpCGZYdL (
+        long izmT95 );
+    _bstr_t QwwI (
+        long Xdtu17 );
+    long EsdmPyjsW (
+        long BcrW_ceNHl_xsrTWmp,
+        long CIOwILp65 );
+    _bstr_t aQWLUjcfic (
+        long hxwMvU_tKeVmh_42,
+        long WeHgSA_kkOEs,
+        long kRNkzR_qAjiHj,
+        long ONRtUPm_mPjZo_VUDqSkO,
+        _bstr_t NhZYl_qtXzy_CMxspDB );
+    _bstr_t lsHvILCRipdRbwY (
+        __int64 Gjax_qxBsH_sJHrb,
+        long zvATAn62 );
+    long hFzJaqJoFNVwn (
+        long kBoWmq_kuXLZlv_XLyDs,
+        long JLbc_HMohvd,
+        long POmOqt_AGoYCr_72,
+        long SPfWn_lGamp,
+        _bstr_t pEHLDDN_uEMhW_42,
+        long yfduE_uPyX_jDhm,
+        long EsmGNtW70 );
+    _bstr_t does (
+        long VNTKQKB88,
+        long TveIZYW_puovXap_SUuke,
+        long ipLjq_xwlbdJ_56,
+        long dfte_eiwmM_24,
+        _bstr_t XLphk_qgHrk_nMUU,
+        _bstr_t gUbja_ZamS_kzulC,
+        double lekAVaK_RVxvQ );
+    _bstr_t rFmflJSLPqT (
+        long SpTbKxA_qNDe_00,
+        _bstr_t lQkAlST_WsomrCW,
+        _bstr_t ShGwGx_yyyVizW,
+        long MHeU_kCuEE_lmGF,
+        long KbXAr_OKGtyR_59,
+        long HDBOLMm26 );
+    long swSYMprj (
+        long sEyy_wesbnd_43,
+        __int64 hVgcoL65,
+        long rriVh57,
+        long qNsWVy_Ylpqhh_75 );
+    _bstr_t juGjyUbaeWSScKM (
+        _bstr_t XZVoTY_Btinr );
+    long HQHDGzrdCCZAhxP (
+        long zTaT_FbeRRk,
+        long dORas44,
+        long KIMimN_lvqrE,
+        long gAOuO_jqZSo_94,
+        _bstr_t HLmIxl_hDwnbU,
+        _bstr_t qywewa_COebSw_67,
+        double PeVa_CRTBt,
+        long uNXA_uWgFY_83,
+        VARIANT * uFMcJYH_tdcyn_23,
+        VARIANT * yjmJ_wBbFYw_iNYGkn );
+    _bstr_t eeGrQ (
+        long zXPEcn_VLYE_fbwb,
+        _bstr_t ertc33,
+        _bstr_t WnnLYf_XDccGu_13,
+        long SpbT38 );
+    long EQTrkp ( );
+    long FZVqn (
+        long xNZz_ckBi,
+        VARIANT * Uxob_AyLha_85,
+        VARIANT * zcjlgCV_ampU_FlgU );
+    long ovDxiHqADPx (
+        _bstr_t vMKZKUh_RUDvlfO_80,
+        long iIRnKIq23,
+        VARIANT * vBlfQEG37,
+        VARIANT * vsXVgEX_pJlnDZ );
+    long AjlqjuCxplcXw (
+        long xveCV_VBnD,
+        long DdUGdNU_UIPh_PCUvT,
+        long bFGl93,
+        long RZCcuKb_TKZFL_67,
+        _bstr_t JvLfOy_ugNzg,
+        double ClkNEz72 );
+    long IcZSWurtMpjdcLY ( );
+    long ErorwhaWKjWUvB ( );
+    long EReanb (
+        long TxttlV_sQIWV_lHoRmbz );
+    long vYIIqQEFAZT (
+        long MmqhW_TzwjjT,
+        VARIANT * xDyYN_YsiRer_36,
+        VARIANT * pjzNA_Wsxx_kgTZXL );
+    _bstr_t DcmAzJo ( );
+    long SlgA (
+        long hVPcAq_aKlM,
+        long ZKToO_tDeaG_tEOraye );
+    _bstr_t uwRHnzkIEHxvxl (
+        long NLsEZY_AfEoma_tSPI,
+        _bstr_t fpdpxrs_LhQA,
+        double tEyuIMY_bUhJr_ftexIBO,
+        double DJAaq_iNUSht_jKhBil );
+    _bstr_t cSRXxqjJECxKf (
+        long RIsFVb_nTgxk_75,
+        _bstr_t jHrXz_gxKm_rqwX,
+        _bstr_t zyvQuAw_UqGLkC,
+        long fSCy_jENDEmb_82 );
+    long xdXD (
+        long nWrLlN_sHEtzAG_CpTi,
+        __int64 GqigEM_GagCk_ClbRQcQ,
+        long ALaWJrF_hhCr_LTUgbSU,
+        _bstr_t NHjO_FPdq_pDhH );
+    long IMoGiWXYku (
+        long bahKjGg_NbVsPF,
+        _bstr_t jhCXV_cXoZIQQ_38 );
+    long ZVoluwPhx ( );
+    long hNYBtURZ (
+        long qrKF_MIZG_96 );
+    _bstr_t EWhFiCWBPWKAqFF (
+        _bstr_t BtXwMNu_reAvv_IixtANy );
+    _bstr_t fYZbwlDneftr (
+        long vYjrVol_uQJoYX_13,
+        _bstr_t mafP_mLSoCP_17,
+        float ncmMJVO42,
+        float WqYN85,
+        long CkTOPVU45,
+        long IdEUX90,
+        long PczZR94 );
+    long hhsrEjeZCGe (
+        long aRZkQ_CTWjEoL );
+    _bstr_t QKET (
+        _bstr_t DgcpHs_Ablsl_Fiqoq,
+        _bstr_t oAWuk66 );
+    long ahVXyENNWKM (
+        long hjUJ_ovXTcL,
+        _bstr_t swwh_RILTmGQ_DVnJlwj,
+        _bstr_t mLSo74 );
+    long PHEgPGkALuMaohq (
+        long AeXQI_zYMWAjr,
+        long llZs_YdWIb_43,
+        long bVPJVc_DdwU );
+    long tBKDH ( );
+    _bstr_t oFSZ (
+        _bstr_t BTiHd18 );
+    _bstr_t WdJkfLwzCzEtWjl (
+        long gtDicHk_CnUi_92,
+        long aAtTj_tvdKSkb_Nkpw,
+        long mkVO_Khvbu_30,
+        long jURZxqX_desYlb,
+        _bstr_t VOBHuza63,
+        double yCrtlM_nydPv,
+        long cHHlt_ACbQrk_qooJ );
+    _bstr_t vETpyTLbBwsy ( );
+    long WIHHriD (
+        long LlmeGUu_juti_TRsDS,
+        long GgFxE_NKJARp );
+    long nTTlX (
+        long DUivSf65,
+        long wfdf40 );
+    _bstr_t WcLEEkgjNRDUU (
+        _bstr_t ldaZ_sUqmM_YpqEd );
+    long jLiarF (
+        VARIANT * XsraN_JwCmwlz_84,
+        VARIANT * dRtze_zzEGK_64 );
+    long pqMreVBG (
+        long OISQFEJ_kuuUVFO_yajzHXV,
+        _bstr_t QCSkFX_JpMMl,
+        long Ieev_NsIKlNZ_CIzW,
+        long DDzq_cRcxw_AmEpTok );
+    long mCYsDXySxSCndsS (
+        long IVzWbD_fvvzQG_JqtQ );
+    long dhnTKr ( );
+    long VDtUvsScaUD (
+        long eVTgd_LpVDbq_03 );
+    long xbgUHKy (
+        long rnXSrb_QQQj_18,
+        _bstr_t AbxaZ33,
+        _bstr_t UpByHYv_Zvtyko );
+    long lPhqNuWoXN (
+        long XpfoS_XdlHSz_ufksX );
+    long FroREZ (
+        long TvoXQ_eQPRv,
+        long eHubO_ILNGj_BkNV,
+        long uBnOvOU_XOcnOiS_EFNyY,
+        long VHGpVw_nukEWze,
+        _bstr_t YkCN10,
+        double OdHJOS_iaZuJUu_PZQTB );
+    _bstr_t nHwe (
+        long TYTtI_uzpBsc,
+        _bstr_t maKR18,
+        float SNBW_NWoJHs_91,
+        float eHjCOQw_qfHBRTC );
+    _bstr_t QIBmIcaHRQ (
+        long eAJL91,
+        long lwyh_hbQEJaB,
+        long hxZJL_dwOFt_OktNGYQ,
+        long amab38,
+        _bstr_t ZowstC37,
+        _bstr_t uSCkDb_ZhUpnQC_bMOz,
+        double GsLUY79,
+        long cGQXspa78 );
+    long IoaJ (
+        long mJIx03 );
+    long zIdLME (
+        _bstr_t bYfZf_yUbwZoI_56,
+        _bstr_t wmNTIX_pEyc_tOrH,
+        _bstr_t HguU_HTydaPC_hfCsb );
+    long icdUl (
+        long GwGM_FKzknO );
+    _bstr_t emsGNqRVRITMY ( );
+    _bstr_t fqzCPQrbsuhhDK ( );
+    long WJwW (
+        double VkBdq_CcQpRy_01 );
+    long iLGCtKjHrS (
+        _bstr_t HckQG_ZajSS_bVdpJim );
+    long HZYGMnjyMA (
+        long kyXfHTo96 );
+    float ofoEcnebatya (
+        long lDbit87,
+        _bstr_t dhzzbQ_dyuja_OIbrlzh );
+    long GGVUTR (
+        long ETKUO_agnZqV_NURd );
+    long azEuAfQSLd ( );
+    long ZaqDnHRUfnST (
+        long maudTY_TNmiu_kHtR,
+        long SqiHd_TzOgEIz_80,
+        long SFWC_zabcL_76,
+        long LYSiMj53,
+        _bstr_t jkXZs_OEUeF_21,
+        double FvCGaAI_ZtZZIk_clvqCTi,
+        long xLuV_pMSSDg_enHKNK,
+        long Sedwv17,
+        long eXJmhX39,
+        VARIANT * UZLTUou_QzNxW_97,
+        VARIANT * gsnqZ_dqYVpc_93 );
+    _bstr_t NRMLBTk (
+        _bstr_t AYTcCyy_amPd,
+        __int64 fITj_zhohXtY_16,
+        long rnudSKJ_VXySVYI_FKTXX );
+    long eWGSsDYMxx (
+        long iPQEAbn_pgIag );
+    long yyYrZU (
+        long KqvSCu_zSbKOT_98,
+        long LxYS_IoYGBN_pwVQY );
+    __int64 EPfPdMZluUQ (
+        long lThBxQd_hmgN_pHjgLsc,
+        __int64 jBAB00,
+        _bstr_t nKym_FxquI_ungb );
+    long QPwLaLXE (
+        long iVvMbyi_kMwk,
+        long dHzxRA_teHvyaq_pswwd );
+    long frMuFKMxt (
+        long UlSXL93 );
+    long ejaWvYDLIa (
+        _bstr_t JLWVxU_VEeJG_CCzKKt );
+    long gHhUtP (
+        long aKbQPY04,
+        _bstr_t nDgp_dRUb_53 );
+    long wutdDQyrIDfLa ( );
+    long SetFindPicMultithreadCount (
+        long count );
+    _bstr_t ubTYbvQcAhRhJG (
+        long qrlFm_RovVJ,
+        _bstr_t HardcJ85,
+        __int64 GQVyAy_wJzG_60,
+        __int64 LKFqcMJ_YBNoI_95,
+        long kaMT20 );
+    _bstr_t GetSystemInfo (
+        _bstr_t type,
+        long method );
+    long omFlDljKXBzr (
+        long OoglwAj_beSfmbP_27,
+        long QCNL93 );
+    long vJsM (
+        long CEDvvp79,
+        long vkvJ_rTkkyLl_56,
+        _bstr_t QsoVxM_wnAex_35,
+        double BxNJ94 );
+    long lnsVQyQXtN (
+        _bstr_t lsAg_ToIuQ_hufxIc,
+        _bstr_t UbLN_yDop_PGtqq,
+        _bstr_t nkmlHz_GSec_47,
+        _bstr_t rSgJZdF_YRTg_pGMUrNr,
+        _bstr_t AnhKW63 );
+    _bstr_t rRboNbaYp (
+        long HvdxD_uQMbWPJ_eEiQfKK,
+        long nqvc_FHDWvSq_53,
+        long vunhVG_IjEf_28,
+        long AZBHAG_YMHKQbO_42,
+        _bstr_t bMdz_BcLo_19,
+        _bstr_t vQZaY_McVRks_07,
+        double evsc78,
+        VARIANT * bspygG_GWjH_ZWgS,
+        VARIANT * yijxP_BQuEzKn );
+    long ylmrWTewlkPVA ( );
+    long YnVceKVtCXUgG (
+        long HIZHKRe_jsdaAhZ_liNP );
+    long apSGYruRgRHSdc ( );
+    long sxkMdn (
+        long ABjvfJo_VEqvJL,
+        __int64 sExkgq_pJEx,
+        float TtqXko54 );
+    _bstr_t wTagaJRrLC (
+        long TeWw_mbDpZVO_09,
+        long Ikxj97,
+        long pKvOqKf_nRBQyLV_vxhFn,
+        long OdgPN56,
+        _bstr_t ACBnu_eDoqRTM_Qvqu,
+        double dUtcNmn_GiiHMr );
+    long ibKGEhIW ( );
+    _bstr_t JeugaNIMyZHzNT (
+        long iWkBMxb_pAEw_rFNbk,
+        _bstr_t bQsC_tVSrrnF,
+        double sFWWbDA_tkQfxZ_82,
+        double cImV_hkXXx,
+        long LbeswoI_XLbCyDq_46,
+        long oOscN_AHARuSs_94,
+        long wWoL_ZhADcTN );
+    _bstr_t FindPicSimMemEx (
+        long x1,
+        long y1,
+        long x2,
+        long y2,
+        _bstr_t pic_info,
+        _bstr_t delta_color,
+        long sim,
+        long dir );
+    long AyPxFeIA (
+        long TrPO_nQjzQ_66,
+        long GUjIFMs_AjEKZ_30,
+        _bstr_t ZABpqM_IRkq_oeJln );
+    long ylWvyRZCpUBqh (
+        long BQEDg_LEMUle,
+        _bstr_t XOdxU_auCu_eWiLx );
+    long iUiXNQIAu (
+        long qTIpt_jdwyGc_33,
+        _bstr_t ZMbndrg69,
+        long CTLnlq_Vwcu );
+    long AfAp (
+        _bstr_t NHvfCGP_siBuAeK_pTLi );
+    double ErpTTmowuFpLgSo (
+        long hitKFOj_ZBjw_76,
+        __int64 rTBq_EaTEH_02 );
+    _bstr_t mLgYfViL (
+        long shLW61,
+        long JMFP_pQWUvmJ_28 );
+    _bstr_t xkVxZM (
+        long HlwHuPb_OpnObkh_73,
+        long gqHBx_tIske_wfPViJI,
+        long uxWTW12,
+        long DAaw_oahjoIC_02,
+        _bstr_t byktgYl_bzeBQbr_FgOf,
+        _bstr_t IOob_FaSYomi_76,
+        double AtDe_uyuLW,
+        long iLlUSY24 );
+    long rFugGCYhsYL (
+        long jKnfXB_vxIBo );
+    long dIHVAmWAaQtQmZo (
+        long CmDl_hTxT_96,
+        long PLRYCfk_LrlJAPn,
+        long WxBsAXT_lfpz_MFbnDpf,
+        long rFVvJ_KDwYg_lGIgvu,
+        _bstr_t pAPYd71,
+        long dfGB92 );
+    _bstr_t AXHPt (
+        long dvuxW13,
+        long slYLhYO21,
+        long SftUnAf_xAhBZnx_aTeWtsP,
+        long hAira_MbDW,
+        _bstr_t SpAi_Vxbtdun_73,
+        _bstr_t sJvaIB14,
+        double kdsJwN52,
+        _bstr_t PQdGwL_zwEXK,
+        long tsrPxqv_Xkmm_qlhmU,
+        long FMJj_QmRJgqc_06 );
+    long FWyUw ( );
+    long cqxWB (
+        _bstr_t pwxQ08,
+        _bstr_t Jndoe_JwCeXo,
+        long ChDvvi_xbVty_ykrDn );
+    _bstr_t kkhgiY (
+        __int64 BScO_eLKtX_44,
+        long sFxqszX_lXEo_GNpzUy );
+    long SetShowAsmErrorMsg (
+        long show );
+    long ClVaaaQqDk (
+        long JsyMACN_uZadR,
+        long qGbw_WFQeal_09 );
+    long gcsWIzpk (
+        __int64 SPNJz_UfIO_81 );
+    long fLzmTra (
+        long Usnle15 );
+    long gcXn (
+        long nonzSW_ZUwoB_99,
+        long ipPrgSd_mmrMpNo_QBZceJ,
+        long pzfVZl_PVAfw_70,
+        long kEVG_kplbfF_98,
+        _bstr_t IYgflVE_NKsikTg_GSkEa,
+        _bstr_t mgDv_YjHI_PCqic,
+        double ikSlF_nrHYEPk_52,
+        long nRmaNhF79,
+        VARIANT * ZBNUA_CqfpW_DgJnB,
+        VARIANT * wmzVs_dfNjQUe_KjItQb );
+    long CgcQEv (
+        long mvnL_JtcCPN_knxUsK,
+        _bstr_t qSueuLD_FnVE_HtfHcTk,
+        long qpLQQfA_tEICu,
+        _bstr_t mVosscC_gyUv_99 );
+    long mgDcnde (
+        long AXFHA_HRNcUZ_zLepwZD,
+        __int64 gScEKfa_rLpa_39,
+        long tifXYBz_uZsquH_56,
+        __int64 hQMXxX_ZEXE );
+    long mvyy (
+        long gTIdAc_OtRqeum_58 );
+    _bstr_t JIewozgKML (
+        _bstr_t FSABR_mZxtIl_SeVJuV,
+        long SNxsfXC33,
+        long sNvcx_pUqHFU_70 );
+    long QYMmvGPJRWkAli (
+        long zIJp28,
+        long Jdclm23 );
+    __int64 AmCT (
+        long HjcVzzK_JkSks_82,
+        __int64 vNwYWs55,
+        long KYSF74 );
+    long iqycmha (
+        _bstr_t EqemY_IRAKj_yrXupQw );
+    long aUdX (
+        long gsbuS79 );
+    __int64 EmizmgUgWLnqosC (
+        long QrAXRQ85,
+        long SVPkhN_WSsq_jJqLnzN );
+    _bstr_t eeatxMaIrNbef ( );
+    long cddmICJHrzjQW ( );
+    long hWlQBRflJ ( );
+    long FindPicSimMem (
+        long x1,
+        long y1,
+        long x2,
+        long y2,
+        _bstr_t pic_info,
+        _bstr_t delta_color,
+        long sim,
+        long dir,
+        VARIANT * x,
+        VARIANT * y );
+    _bstr_t EfQWlTRACvG (
+        long EnamjRx_hZVYoKn,
+        long PgDOpE_crZv_15,
+        long RjrM_NNMV_92,
+        long BqEaGPg_jPjVCh,
+        _bstr_t zhUed_Covju,
+        _bstr_t XZwK_QvknXFG_62,
+        double dNEDk67 );
+    _bstr_t CrSpXMQvVHSKr (
+        _bstr_t XzvqJuP_HQdhSmz_50,
+        _bstr_t EHyImT_uKGOlk,
+        _bstr_t pqWR_Fpfb,
+        _bstr_t PXjLq_SsQQPlY );
+    long tNwQulLDoACupE (
+        long yBuyEI_dlkwAe_lrIQ );
+    _bstr_t Zawhddc (
+        float NmCDZN_LjvnwQw_44 );
+    long vfcha (
+        _bstr_t YjrXJx_yCwUqx_gVCP );
+    _bstr_t ZMzHRYyWJBKjzD (
+        long ThiH84,
+        _bstr_t NOdg_Jtvi,
+        _bstr_t NzzCEZ_mTmxeeh_30,
+        long rsuUe_MQvEVdA_69 );
+    _bstr_t GIRCDKww (
+        long qHWO_JCshe_77,
+        long lyEmH26,
+        long IHkdbfX_Rxod_32,
+        long KfjAkB_DFSUSv_LdhkGRW,
+        _bstr_t oSZts_yspql_uSunuxj,
+        _bstr_t cBkBgV_xAwvX );
+    _bstr_t ybUknvZFjA (
+        long jzMrj57,
+        _bstr_t RSnQaq12,
+        _bstr_t wyrHAA_uhjO_69 );
+    _bstr_t InHZIkxJxkBMqi ( );
+    long neQPkrq ( );
+    long vJjM ( );
+    _bstr_t jDBKzdeQaJGfsc ( );
+    _bstr_t bMjJ (
+        long ExFPe24,
+        __int64 PMkvGP_VjEaip_msGxeE,
+        long AWNjHeu_EQfDT );
+    long gkIkisUS ( );
+    long uGiFqltIWjMoLFw (
+        long sErrVy_fzvYJX,
+        long VBQdI78,
+        long hNWC_OSWGb_cEvag,
+        long hyowyeR_Jasx,
+        _bstr_t AhFiVl_XFttb_WkTL,
+        _bstr_t FNeBHz_UVLR_24,
+        double AieFetY_roQzRKe_00,
+        _bstr_t lueR_dDtcte,
+        long QYHV_jFRL_53,
+        long yrwpAWe25,
+        VARIANT * NzaMulK_GLRVW_fjkm,
+        VARIANT * ArjYjz_RXYVDu_qvmGDgv );
+    long oKjgMpYpMlwRxYh (
+        long bsrF_KmOSRqs_08 );
+    _bstr_t tBjSdvlP (
+        long lwqW09 );
+    _bstr_t FindPicSimEx (
+        long x1,
+        long y1,
+        long x2,
+        long y2,
+        _bstr_t pic_name,
+        _bstr_t delta_color,
+        long sim,
+        long dir );
+    long LbeqQKf (
+        long jnaSIUY_sAsn_92,
+        long xATY80,
+        long oHTgZh54,
+        long sTMq_WMooc_fTNNHO,
+        long AXgHB69 );
+    long wKCvPQdZSluXTfK (
+        _bstr_t apgKy_EQWOTmM_SulH );
+    long fpojRfrBFgTXqm (
+        long AvaFSl_ZYiwYd_BcBkVw,
+        _bstr_t qHVDn35,
+        long SBYIuuV_EKit,
+        _bstr_t imhnqrm_qipNqR_24 );
+    _bstr_t erQE (
+        long bdJWF_pGQSg_21 );
+    long tvHQxoTUfo (
+        long Dxzre_yznZ_QSCLECg );
+    long vMDetXF (
+        long LutUDe_FdizA );
+    long gyzqtup (
+        long OYUl_FlYIFcQ,
+        long ingUxDt31,
+        long elJjve33,
+        long ipmHGGK_DIPMh_NExLqp,
+        _bstr_t PvmKS_PWhusjN_jjbCGj,
+        double hSAIHm_zkyUyUE_NEyRG,
+        long hERB_rvCM_97,
+        VARIANT * NUhRSY54,
+        VARIANT * zXrQo_PPRIH_57 );
+    long HcIblEajpY (
+        long ivpXPu_KTpoyK_DBbnpY,
+        _bstr_t vlWTwXK_BMxXg_61,
+        long xdYq_XzERWBL,
+        __int64 lnBO63 );
+    _bstr_t GGnTCVFsG (
+        long oMDpmeE_ykYbRk );
+    long lKZNLLekQMAV (
+        _bstr_t Biob_Vsxcpm_egiyyy,
+        _bstr_t HaDUWvu_oLyVric_UwPvy );
+    long sntzttkZ ( );
+    long VFmJKysQ (
+        _bstr_t eXwYIB_QfSubz_40,
+        _bstr_t cCyyOn_pDBJNya_10,
+        _bstr_t eCGTS_JCSokwZ_CPjCKV );
+    long CXhsKTVP (
+        long ClOXPu53,
+        long Aocki_aeYE,
+        long BmHs_aQtRtnP_22,
+        _bstr_t SsZpRnw_dsonB_QZOMEK,
+        _bstr_t JTgb_BCSgrGf_50,
+        double qQscEz_QPHfu_jaUtXhF );
+    long KlrglrBvLekD ( );
+    _bstr_t EvtzSIpcmPyJKP (
+        long plOM_jSflIc,
+        long kOtNh_UQHKK,
+        long mPcM_ZOxGr_wBYf,
+        long Ihbs_KVyUtx_cMNilj,
+        _bstr_t jxlEbEH_qqdS,
+        _bstr_t NCnIQkQ_YfcW_45,
+        double hJWUI_tZLml_50,
+        long AONW_XDUGeUC,
+        VARIANT * yGhNg_Embues_ikTWG,
+        VARIANT * jZlzrJ81 );
+    _bstr_t UJBla (
+        _bstr_t jpUIk_yOMM_16 );
+    long xgJoHeJfu ( );
+    _bstr_t AuwdPQL (
+        long TRSimD_IiklV_35,
+        long eraFdR_EVkNBB,
+        long UOwFYPx_OKvRUJu_71,
+        long veKpMFQ_ZGgVD_54,
+        _bstr_t TqUL03,
+        double uQwm_kHQr_oqhe,
+        long WFzHnU_qcdK_RsEF );
+    long JkgbWQCpeyoZS (
+        long bqKmoo_HyRfJ );
+    _bstr_t onhkPtfHoDZRQYR ( );
+    _bstr_t pynkVVjezQytB (
+        long GGhv_KHzFB_hJIifek,
+        long wvSxF_PANox_jUMsqgk );
+    long wAIvgnQkFJwVlnm (
+        _bstr_t ArbO_SstLm_KonZ,
+        _bstr_t BsTdM_evulUxd_JJAprSz );
+    _bstr_t FindPicSimE (
+        long x1,
+        long y1,
+        long x2,
+        long y2,
+        _bstr_t pic_name,
+        _bstr_t delta_color,
+        long sim,
+        long dir );
+    _bstr_t GoiXUXFgrCcYsb (
+        _bstr_t XtMo74,
+        long ecuBtj_sghKxY_20,
+        long uyoJRCU_GpIy_80,
+        long XSKV_UDeDs_hxxObGh,
+        long QdVpeSj_wnNKCd,
+        long hddaF90 );
+    long FcrZhzlM ( );
+    long QuJVmQN (
+        long ardTDp16,
+        long VxqMr_CsYYqI,
+        long bfVH_zKXm_YuTxP,
+        long dBaJ_ymAOI,
+        _bstr_t bJSrjNj_lHxd_22,
+        long CjCTZ84 );
+    _bstr_t NUdeKeBp (
+        long ypTi97,
+        long jgHCWSF88,
+        long uSmUqr_umoVp,
+        long UdfyCM_KlFEAu_xxrB,
+        _bstr_t rpPJPd_aQwgYW,
+        _bstr_t dxpdK06,
+        double ZXNJKB74,
+        VARIANT * odGdfR_CubOD,
+        VARIANT * cBIPorx_uPwrdgs_45 );
+    _bstr_t yFszcrWL (
+        _bstr_t UanuM_hOTHsx_20 );
+    long JYql (
+        long QKxLUNG_LRVRD_hMOBx,
+        _bstr_t KvfBqH_iAWLm_XvOfKPI,
+        _bstr_t TWRmq12 );
+    long kKYEIQpvNZzai (
+        long cplq_llHpdSg_Pcec );
+    long VSiZCsrDA (
+        long iNjOOL_gEFqeQ_UfLBarD,
+        long XMeM_MAfyaC_73,
+        long QYBizB40,
+        _bstr_t gxtGLcS_HZyTn_SGRTzFY,
+        long aHNgFUN_weBjm_olMjtQH,
+        long sPLsR_dTlrjA );
+    long MmySBfQuBqI ( );
+    long qWgKzCkrMIo (
+        long xFSW_ELTqMAh_84,
+        _bstr_t RDeg_ajtaJ_exPnLi,
+        _bstr_t nMvecCi_zMLOzP_NRPMTp,
+        _bstr_t VyQjAEg19,
+        _bstr_t ftEeLn_BeTuK,
+        long mYFOm_zEeGw_40 );
+    _bstr_t DnsBaJFsMyNFb (
+        long DLleUql_UVUS_34 );
+    long KseSTrzeDD (
+        _bstr_t AkXzqqZ05,
+        _bstr_t ruSMBip_CSNQG,
+        _bstr_t lOMXdp_omvBm_bMJFXhR );
+    _bstr_t WRatR (
+        long FOMB59,
+        _bstr_t rtiwM_iaIZ,
+        long ImWj10,
+        long hQidy_xeRi_XDoXrie );
+    long enavVASTnso (
+        long CYMmKhH_yyCC_itZq,
+        long uDZcA_btfzd,
+        long uymwNS_OSJEC );
+    _bstr_t ahrtFMyYfx (
+        long CTkLaXW98 );
+    long GFVIhbXE ( );
+    long VvZZwvQCIIq ( );
+    long ZTKmlwzwBuQr (
+        _bstr_t MGEMEp59 );
+    _bstr_t GMTwNFDtSehjFc (
+        double CVjsA84 );
+    _bstr_t bqFBeRg (
+        long OhFUyd_QKPf_43,
+        long ZBxu_syvJb_REBA,
+        long puIxsj19,
+        long pskb13,
+        _bstr_t RYiWpLH90,
+        _bstr_t lAAG97,
+        double vuhicr_bSzC_LwrHpdq );
+    __int64 stHJCFYxrMM (
+        long WLgmi_Lzmmjp,
+        _bstr_t iarS_iyTTwQ_Tllf );
+    _bstr_t wcfiln (
+        long hoxseLf_vnReKN_mDBrec );
+    long NbjGVNpEU (
+        long jiWZorr67,
+        long dQWb_AcjRISu,
+        long kIiA_FpFsbkW,
+        _bstr_t wruBA99,
+        _bstr_t GgBAdn_RWdpWd_NHiJlc );
+    long CxpFENSLixLZvAu (
+        long OVln_uTXaZu_95,
+        long aRSiCde67 );
+    _bstr_t UiZNNyxN (
+        long ajUB_LQTeWql_12,
+        long ILeNC86 );
+    long GYyLlbjoLralAK (
+        _bstr_t RBMDG39,
+        _bstr_t tHMchps_ioTE_38,
+        _bstr_t nmQQ_WOIlC );
+    long WUnrRHdLCwwrqJ (
+        _bstr_t OODAKAb_NuvVdh_claJ,
+        long juaT_HbpEeeP );
+    long crviiDaZLoxjsT (
+        _bstr_t MgZUzM98 );
+    _bstr_t PvWElJYsVc (
+        long czDABu35,
+        long Topf_Bxxomn_87 );
+    long xZnVFahBPEA ( );
+    _bstr_t QtagrsQ (
+        _bstr_t Fiurl15,
+        _bstr_t dOpP78,
+        _bstr_t HMrFL_IzayXj_62 );
+    _bstr_t xtrsiLJa (
+        _bstr_t VrBTxgR_hcov_fkMJ,
+        long rpjjjYH_TsfUP_lSehFo,
+        long GoXM_VgCGHhC_69,
+        long Bjeqy65 );
+    long azjxdrKS (
+        long ftUeDk_qAVeeiJ_gszx,
+        long jPyN_Bcgztb,
+        _bstr_t JZTAQT_wyXs_39,
+        double hfYNXUe_XqgRNf );
+    _bstr_t RHzJfGeMKNJRdcr (
+        long XQJx_whEN_PSMA );
+
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall raw_gCKdPAaIxYM (
+        /*[out,retval]*/ long * FhGQXHa_iwwhnKA ) = 0;
+      virtual HRESULT __stdcall raw_pLwQvUeF (
+        /*[in]*/ long zHWb_Ynfoms_24,
+        /*[in]*/ __int64 vYVyv_PmdieH,
+        /*[in]*/ long LMyXuI_fRWbFG_20,
+        /*[in]*/ long OUxMp_lFlp_upGjVb,
+        /*[out,retval]*/ __int64 * BivF78 ) = 0;
+      virtual HRESULT __stdcall raw_FindPicSimMemE (
+        /*[in]*/ long x1,
+        /*[in]*/ long y1,
+        /*[in]*/ long x2,
+        /*[in]*/ long y2,
+        /*[in]*/ BSTR pic_info,
+        /*[in]*/ BSTR delta_color,
+        /*[in]*/ long sim,
+        /*[in]*/ long dir,
+        /*[out,retval]*/ BSTR * ret ) = 0;
+      virtual HRESULT __stdcall raw_XYKEYjHtnBYwLlL (
+        /*[in]*/ long QTQwQuN_AmhqU_45,
+        /*[in]*/ BSTR sOfWjj_QlnmG,
+        /*[out,retval]*/ long * oLRtySN_TGAEpe_57 ) = 0;
+      virtual HRESULT __stdcall raw_lZrcjRXCTyBTn (
+        /*[in]*/ long OjEKJm_duzsdo,
+        /*[in]*/ BSTR tGUV_YEoJjMS_55,
+        /*[in]*/ BSTR nrbjHrN_iKGRcXH_07,
+        /*[out,retval]*/ long * TWkg_Pnbco_64 ) = 0;
+      virtual HRESULT __stdcall raw_rblHUdKgfHeB (
+        /*[in]*/ long zgpumu_DabGZA_52,
+        /*[in]*/ long GdbJ_GWGMQkh_57,
+        /*[in]*/ long fjnB37,
+        /*[in]*/ long FapwsE_helKqU_26,
+        /*[in]*/ BSTR HKAZAP67,
+        /*[in]*/ BSTR IFcG_eJIoA,
+        /*[in]*/ double eIsqTiW_VCQvh,
+        /*[in]*/ long kqhAa_ngFB_GvNNYh,
+        /*[out,retval]*/ BSTR * srFNq00 ) = 0;
+      virtual HRESULT __stdcall raw_VCaEmQVYycL (
+        /*[out,retval]*/ BSTR * oLlHjaE13 ) = 0;
+      virtual HRESULT __stdcall raw_qItKHDfIuLus (
+        /*[out,retval]*/ long * przIO_RoZL_cOLOv ) = 0;
+      virtual HRESULT __stdcall raw_aYjEUNTfe (
+        /*[in]*/ long SmsGy_rryFzv_72,
+        /*[in]*/ long GhKVBN10,
+        /*[in]*/ long jaqN48,
+        /*[in]*/ long gqpL_fnqJdJa_fgsmgh,
+        /*[in]*/ BSTR qDxpfn_ECLdu,
+        /*[in]*/ BSTR aoHAfF_usVhu_23,
+        /*[in]*/ double bACYuKy24,
+        /*[out]*/ VARIANT * sNPst06,
+        /*[out]*/ VARIANT * NapGZi_fbwxB,
+        /*[out,retval]*/ long * KCruV12 ) = 0;
+      virtual HRESULT __stdcall raw_QPYAryBPP (
+        /*[in]*/ BSTR kKztR_Egja,
+        /*[out,retval]*/ long * KIpm_iZaMDsq ) = 0;
+      virtual HRESULT __stdcall raw_MudsayYht (
+        /*[in]*/ BSTR hVsvDoD_aUuBtHV_FRcmWto,
+        /*[in]*/ long NCPBkVD_uWoO_TeaPYlI,
+        /*[out,retval]*/ BSTR * fRDju_EDRhCiL_45 ) = 0;
+      virtual HRESULT __stdcall raw_FBXGAfHSvE (
+        /*[in]*/ long qraHnSJ_zecqW,
+        /*[in]*/ long PZpcQij_QmdRXd_mhtFS,
+        /*[in]*/ long iOGvWI_pVlU_NvgzHD,
+        /*[in]*/ BSTR zIDtl_XkrGQ_GhjkVcZ,
+        /*[out,retval]*/ long * VWgJmVc_JeFZfYR_81 ) = 0;
+      virtual HRESULT __stdcall raw_fuSubQatonRcf (
+        /*[in]*/ long mgoxCZ_mUUSBZ_83,
+        /*[in]*/ long YCQhrV_mMpT_18,
+        /*[in]*/ long Xycw_dlJvdgq_97,
+        /*[in]*/ long jIatAF_WOFZ_LqUiR,
+        /*[in]*/ BSTR WOjZVLn88,
+        /*[in]*/ BSTR kYVdbOB11,
+        /*[in]*/ double NjMb_UEJSdu,
+        /*[out,retval]*/ BSTR * JMEweb_aNZCkR ) = 0;
+      virtual HRESULT __stdcall raw_jYgmPEgAlnok (
+        /*[in]*/ long fjZIPX_AAzCxW,
+        /*[in]*/ long bCQv_ebqRe_ZVUb,
+        /*[in]*/ long SanV_YxCmWeQ_64,
+        /*[in]*/ long GGRsFhn75,
+        /*[in]*/ BSTR DOyYe_fHXtoB,
+        /*[in]*/ BSTR dkjDNm_xPCWxU_11,
+        /*[in]*/ double TLRRAD_QHLZly,
+        /*[out,retval]*/ BSTR * BhYu_QIKuvh ) = 0;
+      virtual HRESULT __stdcall raw_tNCWajNzRr (
+        /*[in]*/ long MObnb_BySaAE,
+        /*[out,retval]*/ long * OIJr_IyJEK ) = 0;
+      virtual HRESULT __stdcall raw_fqDeQhArTYlI (
+        /*[in]*/ BSTR XxIuT_NiNBjg,
+        /*[in]*/ long bHtt_XNpiOE_85,
+        /*[out]*/ VARIANT * UCtdr_typbYS,
+        /*[out]*/ VARIANT * DrYHv33,
+        /*[out,retval]*/ long * sjNpMf_gxrqJ_llLtR ) = 0;
+      virtual HRESULT __stdcall raw_lFwR (
+        /*[out,retval]*/ long * WeeNMqI_zSwXVnZ_RTHjWVx ) = 0;
+      virtual HRESULT __stdcall raw_ZcvgPaznKe (
+        /*[in]*/ long sxOgahS_pvDPq_wSMOam,
+        /*[in]*/ BSTR Jsojlb55,
+        /*[out,retval]*/ long * NKPn_YWfGKr_87 ) = 0;
+      virtual HRESULT __stdcall raw_eCaQKCwzJYVgqvj (
+        /*[in]*/ BSTR XHkUs_ydPoJx_59,
+        /*[in]*/ long UxAfwt_oNjtrm_WqZJAK,
+        /*[out,retval]*/ BSTR * bxoJonr_TsKonS ) = 0;
+      virtual HRESULT __stdcall raw_UvDc (
+        /*[in]*/ BSTR uxLPjWS_uiCDG_78,
+        /*[in]*/ BSTR uWpSKT_mKNaIwp_LTqrsQ,
+        /*[out,retval]*/ BSTR * qNJA_QLeFo_81 ) = 0;
+      virtual HRESULT __stdcall raw_PcaI (
+        /*[in]*/ long RsAM_FBsOz_94,
+        /*[in]*/ BSTR rlnWfo_CsgsXP_51,
+        /*[in]*/ double NnBCF59,
+        /*[out,retval]*/ long * oEqvxm_dZUq_57 ) = 0;
+      virtual HRESULT __stdcall raw_PWStm (
+        /*[in]*/ BSTR ACOlt97,
+        /*[out,retval]*/ long * term81 ) = 0;
+      virtual HRESULT __stdcall raw_FindPicSim (
+        /*[in]*/ long x1,
+        /*[in]*/ long y1,
+        /*[in]*/ long x2,
+        /*[in]*/ long y2,
+        /*[in]*/ BSTR pic_name,
+        /*[in]*/ BSTR delta_color,
+        /*[in]*/ long sim,
+        /*[in]*/ long dir,
+        /*[out]*/ VARIANT * x,
+        /*[out]*/ VARIANT * y,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_LWBQehxziRwt (
+        /*[in]*/ BSTR QMfqwz_ErMloYE_22,
+        /*[out,retval]*/ long * nGqy_qEtAhO ) = 0;
+      virtual HRESULT __stdcall raw_tvqajshk (
+        /*[in]*/ BSTR UUTq_Ldbi_31,
+        /*[in]*/ BSTR rVztCZ_IkHi_16,
+        /*[out,retval]*/ long * LGOD_fkndRTq_69 ) = 0;
+      virtual HRESULT __stdcall raw_nRLF (
+        /*[out,retval]*/ long * pTfrdC57 ) = 0;
+      virtual HRESULT __stdcall raw_nkimLutGhGaNnH (
+        /*[in]*/ BSTR bZTFnd74,
+        /*[out,retval]*/ BSTR * zGux_EgZXJ_51 ) = 0;
+      virtual HRESULT __stdcall raw_PhERsrClpBgzI (
+        /*[in]*/ long HrfHvpD_qAQb_twtDbX,
+        /*[out]*/ VARIANT * zxTuQzn_HDXBQSm,
+        /*[out]*/ VARIANT * ggVX_KkBuQVy_PTQd,
+        /*[out]*/ VARIANT * pMBm_YoAPA_Tsexl,
+        /*[out]*/ VARIANT * IjfiX_NifT_mQoOgY,
+        /*[out,retval]*/ long * SwvzJK_tFrKrYn_PwWCKn ) = 0;
+      virtual HRESULT __stdcall raw_mGXZAKzmDhbv (
+        /*[out,retval]*/ BSTR * obNTx_LyKqmFL_47 ) = 0;
+      virtual HRESULT __stdcall raw_nTAI (
+        /*[in]*/ BSTR mDXYCYN_fZqkh_ZKucAgn,
+        /*[out,retval]*/ BSTR * fkXOW72 ) = 0;
+      virtual HRESULT __stdcall raw_opvdnxmrrLoU (
+        /*[in]*/ long oQLO_dHIyk_xpHU,
+        /*[in]*/ long HYnst_ZMCrNGZ_Qzumv,
+        /*[out,retval]*/ long * UzFIj_CxGI_01 ) = 0;
+      virtual HRESULT __stdcall raw_EYGvZ (
+        /*[out,retval]*/ long * oCkR62 ) = 0;
+      virtual HRESULT __stdcall raw_AJdPJJGeB (
+        /*[in]*/ long lYWu_qPqqa,
+        /*[in]*/ BSTR drjSxeO43,
+        /*[out,retval]*/ long * oMGVPW41 ) = 0;
+      virtual HRESULT __stdcall raw_KmoGRVBufLs (
+        /*[out,retval]*/ long * RnsStr_dkSd_eExX ) = 0;
+      virtual HRESULT __stdcall raw_phPXi (
+        /*[in]*/ BSTR VbOWia_rjwu_32,
+        /*[out,retval]*/ long * iLuWA00 ) = 0;
+      virtual HRESULT __stdcall raw_LVLSWHlB (
+        /*[out,retval]*/ long * KDPQYm_cZFIpA_ISAYN ) = 0;
+      virtual HRESULT __stdcall raw_calc (
+        /*[out,retval]*/ long * XpcHc_vjeQ_58 ) = 0;
+      virtual HRESULT __stdcall raw_cvmvoQAYn (
+        /*[in]*/ long IcILvj_zZCu,
+        /*[out,retval]*/ long * kIxnBZ_dbmeJ_61 ) = 0;
+      virtual HRESULT __stdcall raw_BqiJACLXdqkyQAT (
+        /*[out,retval]*/ long * tEJDPdw_rZcdpNq_56 ) = 0;
+      virtual HRESULT __stdcall raw_wRQmXvipGLoBZRl (
+        /*[in]*/ long XtwMvUq20,
+        /*[out,retval]*/ BSTR * ynquwF81 ) = 0;
+      virtual HRESULT __stdcall raw_LlXA (
+        /*[in]*/ BSTR ilEFam_HCqM,
+        /*[in]*/ long xLBtm_ynWDwRJ_ebHY,
+        /*[out,retval]*/ long * VtNLWSF_Nkqyd_18 ) = 0;
+      virtual HRESULT __stdcall raw_gjsPx (
+        /*[in]*/ long onmEsh_HVXvbP_mFCKxr,
+        /*[out,retval]*/ long * WVDEDg_HzZgxw_Dayxb ) = 0;
+      virtual HRESULT __stdcall raw_yWkp (
+        /*[in]*/ long BlIQTnC_lQqBpt_72,
+        /*[in]*/ long ZcDde_uOKULjB_36,
+        /*[in]*/ long JQDx_tAony,
+        /*[in]*/ long Qdhv_MMtM_BMzUygw,
+        /*[in]*/ BSTR zsbuYx_efPDYd,
+        /*[in]*/ BSTR gRRSTYB_lpMGv,
+        /*[in]*/ double sKgU_yRfTT_jsHGa,
+        /*[in]*/ long qYbr_WCprrQ_58,
+        /*[out,retval]*/ BSTR * XIOTwWv80 ) = 0;
+      virtual HRESULT __stdcall raw_LkYIDRkVfJTJ (
+        /*[in]*/ BSTR QOuheX93,
+        /*[out,retval]*/ long * BSBGybe_qZIou_14 ) = 0;
+      virtual HRESULT __stdcall raw_YjsBVcVT (
+        /*[in]*/ BSTR sgNDUR79,
+        /*[in]*/ BSTR UqMAIv_vSCZxn,
+        /*[in]*/ BSTR KNYXfvh_WqRRam_QvQCVhV,
+        /*[in]*/ BSTR KzUd_hLeN,
+        /*[out,retval]*/ long * rQcDoL_fSlVBv_uTQAvs ) = 0;
+      virtual HRESULT __stdcall raw_DmGuardExtract (
+        /*[in]*/ BSTR type,
+        /*[in]*/ BSTR path,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_mrbYLFr (
+        /*[in]*/ long czryFrl_dWpV_fRfxQgq,
+        /*[out,retval]*/ long * ZnHx_fOrPJy_24 ) = 0;
+      virtual HRESULT __stdcall raw_mbkgovzNQ (
+        /*[in]*/ long GSJtYE_oYciW,
+        /*[out,retval]*/ long * djCawrd_EteFDIv_NthJnRA ) = 0;
+      virtual HRESULT __stdcall raw_UaoDzUnJmg (
+        /*[in]*/ BSTR ujJJ_UFEOo_24,
+        /*[in]*/ BSTR uwVX_IpGDp_23,
+        /*[out,retval]*/ long * DDtHFYW_fbKLEo_39 ) = 0;
+      virtual HRESULT __stdcall raw_PwYZbewpeQ (
+        /*[out,retval]*/ long * fDtfbQc_pBybYGC_79 ) = 0;
+      virtual HRESULT __stdcall raw_XvqGbY (
+        /*[in]*/ long eLMYf01,
+        /*[in]*/ long qPNUw_jpwgy_xEssy,
+        /*[in]*/ long ZVCsuEM_RXsvpRd_psZj,
+        /*[in]*/ long FxwZNBS15,
+        /*[out,retval]*/ long * hjmWpKk_duEOU_33 ) = 0;
+      virtual HRESULT __stdcall raw_AsqXYdNqBMPUUv (
+        /*[in]*/ long hyZysVq_nSCI_05,
+        /*[in]*/ long TAwLZs_ShkFTr_91,
+        /*[in]*/ long VKTg22,
+        /*[in]*/ long NYgk_jozJBEd_NvjoOR,
+        /*[in]*/ BSTR bAomoKz_oYehwvl,
+        /*[in]*/ BSTR IwxTZf_WyhYgeK_12,
+        /*[in]*/ double EkltSR_WWSORJz,
+        /*[out]*/ VARIANT * kaThlX80,
+        /*[out]*/ VARIANT * ONsuEh_fGNc,
+        /*[out,retval]*/ long * fLraP_LeeCp_97 ) = 0;
+      virtual HRESULT __stdcall raw_xyADnWX (
+        /*[in]*/ BSTR GsqJCm_tIMRK,
+        /*[in]*/ BSTR HBzyIQX_sQgz_84,
+        /*[in]*/ BSTR pYRWcJ37,
+        /*[out,retval]*/ BSTR * uucpPN_owwzb_GbHKB ) = 0;
+      virtual HRESULT __stdcall raw_bXUUrf (
+        /*[in]*/ long sWNAMb_zdUw_17,
+        /*[in]*/ BSTR rRKV_WRDew,
+        /*[out,retval]*/ long * czRxU94 ) = 0;
+      virtual HRESULT __stdcall raw_zQXWK (
+        /*[in]*/ long qEXnSN58,
+        /*[in]*/ long RChM_YfkGokM,
+        /*[out,retval]*/ long * XYjfOx_pVyJ_05 ) = 0;
+      virtual HRESULT __stdcall raw_lpnyHvPvKkNph (
+        /*[in]*/ long YgYCGQI_LHasTM_61,
+        /*[in]*/ long KonZk_mdIOxm_QadRhx,
+        /*[in]*/ long eMain36,
+        /*[in]*/ long WINeGKt_UetBW,
+        /*[in]*/ long SnJF_gUenxd,
+        /*[in]*/ BSTR FMwzRwL_GvwTR_27,
+        /*[out,retval]*/ long * iPumWCT_kjKatGC_63 ) = 0;
+      virtual HRESULT __stdcall raw_tvfKfFLkzD (
+        /*[in]*/ long rFIqpM_HPqX,
+        /*[in]*/ long nHsK_oXhraXK_47,
+        /*[in]*/ long RAGyY_EoYghgC,
+        /*[in]*/ long gpGVnG_babPC,
+        /*[in]*/ long FUSV_GHbtf_RdtyIGf,
+        /*[in]*/ BSTR eFAqO_GlneF_SPwu,
+        /*[in]*/ long HsTawq_AFZNE_aaLS,
+        /*[in]*/ long FXtH_kbmPcnC_51,
+        /*[out,retval]*/ long * vjKp_ALAqqeZ_60 ) = 0;
+      virtual HRESULT __stdcall raw_gkvLMvxu (
+        /*[in]*/ long llyQm_lbNg_54,
+        /*[in]*/ __int64 bLQs_icKsm,
+        /*[in]*/ BSTR kgJJKE_kqrGOfp,
+        /*[out,retval]*/ long * ogDU_vxGLeZd_97 ) = 0;
+      virtual HRESULT __stdcall raw_jxyZF (
+        /*[in]*/ long aZtb_LGgbQjB,
+        /*[in]*/ BSTR AheddQ_mnurq_62,
+        /*[out,retval]*/ long * QTYTGof20 ) = 0;
+      virtual HRESULT __stdcall raw_CHZSLUWHe (
+        /*[in]*/ BSTR cQbn_qXgWj_eoUlKX,
+        /*[out,retval]*/ long * mgAT_OxNc_14 ) = 0;
+      virtual HRESULT __stdcall raw_nPiwyuqkweb (
+        /*[in]*/ BSTR QMnz_NMMt_lojqa,
+        /*[in]*/ BSTR PDVayC63,
+        /*[in]*/ long vRlBRGw_XfYgVQ,
+        /*[out,retval]*/ BSTR * HNlxgBc_ojKZkL_30 ) = 0;
+      virtual HRESULT __stdcall raw_ePkg (
+        /*[in]*/ long rsRuBk_RWHpTH,
+        /*[in]*/ __int64 EBJBf_vRxLfR_58,
+        /*[in]*/ long eRxvWu92,
+        /*[in]*/ long QhfnOL_EMdjL_85,
+        /*[out,retval]*/ BSTR * StfKuB_apZP_XVNH ) = 0;
+      virtual HRESULT __stdcall raw_FZIqkVPxGiCqCcv (
+        /*[in]*/ BSTR sEsmpk35,
+        /*[in]*/ BSTR OiyPLt_yVAj,
+        /*[out,retval]*/ long * LSWanE_DSjxM_cUIVeh ) = 0;
+      virtual HRESULT __stdcall raw_WYWNzbmXJmNwRgx (
+        /*[in]*/ long yYxl_RpIw_TGoXi,
+        /*[in]*/ long pjpMa_YStPrEg,
+        /*[in]*/ long EXnkIL_XiwOmJL,
+        /*[in]*/ long bdWDldO_TFvIvJ,
+        /*[in]*/ long LbCFqun06,
+        /*[out,retval]*/ long * dRri_PQYOh ) = 0;
+      virtual HRESULT __stdcall raw_aqEuKSfPGmn (
+        /*[in]*/ long iJNLVT_HSxV,
+        /*[in]*/ BSTR yeae_gPRVNF,
+        /*[in]*/ __int64 IMzCk_QkUrDiW_ZUPTDVl,
+        /*[in]*/ __int64 PAAV_ZVbif,
+        /*[in]*/ long wzvgk_KeXdRL_heXAHD,
+        /*[in]*/ long NjlAud05,
+        /*[in]*/ long xSmJSRL57,
+        /*[in]*/ long EIvt_DTGd_38,
+        /*[out,retval]*/ BSTR * VOEX_KTLVA_NyOUyi ) = 0;
+      virtual HRESULT __stdcall raw_QwujUAA (
+        /*[in]*/ BSTR mUHhh_ORoe,
+        /*[out,retval]*/ long * WLWzn71 ) = 0;
+      virtual HRESULT __stdcall raw_zIgsdPEoEI (
+        /*[in]*/ long XujJ59,
+        /*[in]*/ long srkvi19,
+        /*[in]*/ long roMkDSr_GTTRK,
+        /*[out,retval]*/ long * xGxfgp_lqfbPIX ) = 0;
+      virtual HRESULT __stdcall raw_DSVQG (
+        /*[in]*/ long ldFSR71,
+        /*[out,retval]*/ long * lUWjWLO80 ) = 0;
+      virtual HRESULT __stdcall raw_TlvMzLDwvyeAz (
+        /*[in]*/ long CmZh_DTHAb_gYkBWE,
+        /*[out,retval]*/ long * fRzC55 ) = 0;
+      virtual HRESULT __stdcall raw_jUFxBUEZ (
+        /*[in]*/ long vSnFErf20,
+        /*[in]*/ long Pnyp_JyyGvWc_YqMC,
+        /*[in]*/ long NNyc_fiqwPz_oNuX,
+        /*[in]*/ long EdFc_TkGhRZr,
+        /*[out,retval]*/ BSTR * nOZd_RMemgEE_14 ) = 0;
+      virtual HRESULT __stdcall raw_Lpml (
+        /*[in]*/ BSTR bXOARJ_FtfFuFk,
+        /*[in]*/ BSTR kkxw_wyINsa_45,
+        /*[in]*/ long FTSmOuY_oiEcMdR_lJfp,
+        /*[in]*/ long SNIvfMA_MYOChz,
+        /*[out,retval]*/ BSTR * nOvV_AVRC ) = 0;
+      virtual HRESULT __stdcall raw_xQWnKEHP (
+        /*[in]*/ long vQkA_VzlKaWy_69,
+        /*[in]*/ long NtFu_naMr_73,
+        /*[in]*/ long exKZrOP_lSrcTMk_dbObWb,
+        /*[in]*/ long dvvPzK_dfjYND,
+        /*[in]*/ BSTR TcBlXZw_rFCH_51,
+        /*[in]*/ BSTR GOcZm_tnUX_nCpLv,
+        /*[in]*/ double zfMjNT_OKmx_18,
+        /*[in]*/ long KUAfU81,
+        /*[out]*/ VARIANT * YbUMfUP08,
+        /*[out]*/ VARIANT * oJwSWNJ_NqXGOpg_66,
+        /*[out,retval]*/ long * DApJMw_MfcD_JFZKSC ) = 0;
+      virtual HRESULT __stdcall raw_bSIUPh (
+        /*[in]*/ long ZTmTWz_XoxGtN,
+        /*[in]*/ long neqXIy_uKMzqD_mVKD,
+        /*[in]*/ long reeE_POFtJSM_SqmO,
+        /*[in]*/ long EANwccX03,
+        /*[in]*/ long qZxrZzA_LUgai_NXzQ,
+        /*[in]*/ BSTR gEWE39,
+        /*[in]*/ BSTR bPIP_BrQHiG_59,
+        /*[in]*/ long NXxSw_EDheNV_84,
+        /*[out,retval]*/ long * gYio94 ) = 0;
+      virtual HRESULT __stdcall raw_UxvlDakLtmsxMy (
+        /*[in]*/ long NCozXjN40,
+        /*[in]*/ BSTR FzvAZB76,
+        /*[out,retval]*/ long * PNCRm_XWYp_51 ) = 0;
+      virtual HRESULT __stdcall raw_RiWTlLsGxXAxbW (
+        /*[out,retval]*/ long * yiOoQnm_DqCAb_OhTQQm ) = 0;
+      virtual HRESULT __stdcall raw_XbJciA (
+        /*[out,retval]*/ long * sHcuR_eOmXv ) = 0;
+      virtual HRESULT __stdcall raw_HaGFFdseCWZGCW (
+        /*[in]*/ long gJoiIB_HShcu_OFOvP,
+        /*[out,retval]*/ long * dSkb_xwuos ) = 0;
+      virtual HRESULT __stdcall raw_JTjEhkf (
+        /*[in]*/ BSTR saUZk_DWcXOb_essThaa,
+        /*[out,retval]*/ long * YQpum_FCWZ_Kbsq ) = 0;
+      virtual HRESULT __stdcall raw_TqdmPKYXFYXhru (
+        /*[in]*/ long WiWDovx52,
+        /*[in]*/ long nSxLku_ADXli_59,
+        /*[in]*/ long yTmHB_pXSqo_AFeTcK,
+        /*[in]*/ long pQYPbVv50,
+        /*[in]*/ long Neci96,
+        /*[out,retval]*/ long * IBSlvjq42 ) = 0;
+      virtual HRESULT __stdcall raw_zkLnwF (
+        /*[out,retval]*/ long * IWQGHq_QQBI_19 ) = 0;
+      virtual HRESULT __stdcall raw_uSxmXqKibgcD (
+        /*[in]*/ BSTR dBUTuJo_CpJref_jNvfcQ,
+        /*[out,retval]*/ long * AAJWV_AancGy_veRGMp ) = 0;
+      virtual HRESULT __stdcall raw_GetWindowThreadId (
+        /*[in]*/ long hwnd,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_XuLWpyRitE (
+        /*[in]*/ long OvPfK_XNIJozW_muKR,
+        /*[out,retval]*/ long * ltWuaZ_vUOQz ) = 0;
+      virtual HRESULT __stdcall raw_hcPuRv (
+        /*[in]*/ long kOzxhO89,
+        /*[in]*/ BSTR nVYW25,
+        /*[in]*/ long nlIpm_YgBrZV,
+        /*[in]*/ long xwydV_bMiC,
+        /*[out,retval]*/ long * drfAOMu_pFuf ) = 0;
+      virtual HRESULT __stdcall raw_CnmxDmquAfr (
+        /*[in]*/ long fFVSG05,
+        /*[out,retval]*/ long * Hwou_bJFfx_duMO ) = 0;
+      virtual HRESULT __stdcall raw_dSvMbY (
+        /*[in]*/ long yiPnox20,
+        /*[out,retval]*/ long * TWNTuLo_ZjKG ) = 0;
+      virtual HRESULT __stdcall raw_sjhGfLBrc (
+        /*[in]*/ long alhUPfy_JsNYA_YUtpx,
+        /*[out,retval]*/ BSTR * pjoWH_gNVXaMG_DvTaLC ) = 0;
+      virtual HRESULT __stdcall raw_kLBPNsgwPWCRw (
+        /*[in]*/ BSTR Gxqa18,
+        /*[out,retval]*/ BSTR * aOSNM_aYLxJ ) = 0;
+      virtual HRESULT __stdcall raw_DMWZyvEfdqUBkQc (
+        /*[in]*/ long xdtLi31,
+        /*[out,retval]*/ long * zoTxZv55 ) = 0;
+      virtual HRESULT __stdcall raw_bNgZhspo (
+        /*[out,retval]*/ long * NuuQ_JCCnJ_YVcGip ) = 0;
+      virtual HRESULT __stdcall raw_Whbb (
+        /*[in]*/ long FVkWClI_dGCzvVz_dlIygly,
+        /*[in]*/ __int64 ChLX_zfzhf_NwKJZvI,
+        /*[out,retval]*/ long * GvmZ_PGSorO_48 ) = 0;
+      virtual HRESULT __stdcall raw_SetInputDm (
+        /*[in]*/ long input_dm,
+        /*[in]*/ long rx,
+        /*[in]*/ long ry,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_SrlzcX (
+        /*[out,retval]*/ BSTR * dyzzn01 ) = 0;
+      virtual HRESULT __stdcall raw_aqbmCT (
+        /*[in]*/ long mXdKv_hGDzF,
+        /*[out,retval]*/ long * dHKrKC47 ) = 0;
+      virtual HRESULT __stdcall raw_ComD (
+        /*[in]*/ __int64 tCMmSD_GrFY,
+        /*[out,retval]*/ BSTR * rqvws_ulje ) = 0;
+      virtual HRESULT __stdcall raw_IwHboMKYlchpwy (
+        /*[in]*/ BSTR yExOXu04,
+        /*[in]*/ long qSkWwEy_NiQfU,
+        /*[in]*/ long IQIR37,
+        /*[out,retval]*/ BSTR * EzTc_LEiKPB_19 ) = 0;
+      virtual HRESULT __stdcall raw_cnAxnKjNW (
+        /*[in]*/ long fynTkHE_LbwcrSV,
+        /*[in]*/ long YIUdHS_ixSY,
+        /*[in]*/ long rOGLZq64,
+        /*[out,retval]*/ long * ZukgYS_prRF_vzfxXi ) = 0;
+      virtual HRESULT __stdcall raw_UXyouylDwrvAQQv (
+        /*[in]*/ long mFIF_DNmO_Muqt,
+        /*[out,retval]*/ long * LrwYr_TlyB_61 ) = 0;
+      virtual HRESULT __stdcall raw_xRyQpNxpaZoqANG (
+        /*[in]*/ long ZgIMgkO_AAtxjO_JLKQCCq,
+        /*[in]*/ long GXJjYBP66,
+        /*[in]*/ long SQMC_yObYa,
+        /*[in]*/ long eVLWkO58,
+        /*[out,retval]*/ BSTR * FqZAc_TZYu_88 ) = 0;
+      virtual HRESULT __stdcall raw_KWwenShd (
+        /*[in]*/ long Vxqnvqx_imqQeYO_muSBc,
+        /*[out,retval]*/ long * sbDOg_ZzVAvNe_gypKIN ) = 0;
+      virtual HRESULT __stdcall raw_QNioHz (
+        /*[in]*/ long WhZYxnQ_enqjRx_61,
+        /*[in]*/ long mEJjS_nUHGNj_fOmZp,
+        /*[in]*/ long iUZXh02,
+        /*[in]*/ long aAQIBhx_hwDEIYZ_99,
+        /*[in]*/ BSTR ixTSppe_ryzIMOY_tQps,
+        /*[in]*/ double jlnhlL84,
+        /*[in]*/ long kmgrCSo14,
+        /*[out,retval]*/ BSTR * AdOyQi_Ktigv ) = 0;
+      virtual HRESULT __stdcall raw_SFhHk (
+        /*[in]*/ long qnFJ82,
+        /*[in]*/ long ZhLrv62,
+        /*[in]*/ long aUHj_qfUHbv_ofsze,
+        /*[in]*/ long CXWLVA_hoCWxG_89,
+        /*[out,retval]*/ BSTR * zeYn_pFSdoy_97 ) = 0;
+      virtual HRESULT __stdcall raw_UowMQbYJZJrKZ (
+        /*[in]*/ long iFKLjx_SRcn_59,
+        /*[in]*/ BSTR nvCCCZ80,
+        /*[in]*/ long EfRMfa21,
+        /*[out,retval]*/ long * DuBySQe_BHkakrc ) = 0;
+      virtual HRESULT __stdcall raw_TLavoUI (
+        /*[in]*/ long lHXjUR_wYiKMa_NAZgKR,
+        /*[in]*/ long nKXsHed_JXtaF,
+        /*[out,retval]*/ long * xTMY_FzDQvK ) = 0;
+      virtual HRESULT __stdcall raw_oYUqDbbJjCCGo (
+        /*[in]*/ BSTR Cytyquw_aLHCkx,
+        /*[out,retval]*/ long * PXmzKr73 ) = 0;
+      virtual HRESULT __stdcall raw_VBRQeCVrSABgWZ (
+        /*[out,retval]*/ long * FvUc_EUHObC_08 ) = 0;
+      virtual HRESULT __stdcall raw_aruzfQXo (
+        /*[in]*/ long yQvLxjT_uxZpwqq_18,
+        /*[out,retval]*/ long * bflluvM_bjgVQ_GyvCw ) = 0;
+      virtual HRESULT __stdcall raw_yZUhUYWrza (
+        /*[in]*/ long bYHbcrP_HPEBzx,
+        /*[in,out]*/ VARIANT * TKGBHz_STyvZY_qtTQ,
+        /*[in,out]*/ VARIANT * FCcih_FyRWKH,
+        /*[out,retval]*/ long * CVudx_KLdas_54 ) = 0;
+      virtual HRESULT __stdcall raw_RrCe (
+        /*[in]*/ long aOLPQe_OjSfR,
+        /*[in]*/ long HsFwiCz_iGhnBGb,
+        /*[in]*/ long OKXBd_lpmZhu_32,
+        /*[in]*/ long qhluCJu25,
+        /*[in]*/ long GmCfALn16,
+        /*[in]*/ long yixB73,
+        /*[in]*/ long kAasjtM75,
+        /*[out,retval]*/ long * srZUUwe_jpyC_84 ) = 0;
+      virtual HRESULT __stdcall raw_vCyabL (
+        /*[in]*/ long QUVK89,
+        /*[in]*/ long ZHNMEJk_TIgS_15,
+        /*[out,retval]*/ long * GvHLn_iCqGE ) = 0;
+      virtual HRESULT __stdcall raw_gqBERsF (
+        /*[in]*/ BSTR WKTZrl22,
+        /*[in]*/ BSTR Ghqan_Lgky_ktyLXb,
+        /*[in]*/ long vAJCKz_bbzFllr_57,
+        /*[out,retval]*/ long * VleO_eluwZc ) = 0;
+      virtual HRESULT __stdcall raw_JpbEH (
+        /*[out,retval]*/ long * IvIm14 ) = 0;
+      virtual HRESULT __stdcall raw_RUBGaZRklERNf (
+        /*[out,retval]*/ BSTR * UPQvAup_jVdv_21 ) = 0;
+      virtual HRESULT __stdcall raw_GPqaYvqbVzalp (
+        /*[out,retval]*/ long * BILfTmC_tfWgXYd ) = 0;
+      virtual HRESULT __stdcall raw_cWqRmDfhELIFfr (
+        /*[out,retval]*/ BSTR * gRNdx29 ) = 0;
+      virtual HRESULT __stdcall raw_fpSgglsjIS (
+        /*[out,retval]*/ BSTR * npFHcnl_EcALoBW_kfRKQ ) = 0;
+      virtual HRESULT __stdcall raw_cbah (
+        /*[in]*/ long HZfcFv16,
+        /*[out,retval]*/ long * pcBq_odRDFL ) = 0;
+      virtual HRESULT __stdcall raw_TxiWbuTuF (
+        /*[out,retval]*/ long * sHIE_AxNmvx ) = 0;
+      virtual HRESULT __stdcall raw_knTVUHdzhop (
+        /*[in]*/ long gBrd96,
+        /*[in]*/ __int64 VNNs55,
+        /*[in]*/ double VApIImd_dNoLp_22,
+        /*[out,retval]*/ long * sTsb81 ) = 0;
+      virtual HRESULT __stdcall raw_bIPxtRSe (
+        /*[in]*/ long elWsKJ_FOXZDm_57,
+        /*[out,retval]*/ long * mELyRl_IwBHpi_76 ) = 0;
+      virtual HRESULT __stdcall raw_yBmvEr (
+        /*[in]*/ long jRZEKN_mpxL_93,
+        /*[out]*/ VARIANT * eoayGP03,
+        /*[out]*/ VARIANT * rFRHxu_YxEdYEh_GRRxfX,
+        /*[out]*/ VARIANT * PEkYvBg_pGWbxG_06,
+        /*[out]*/ VARIANT * paamzmg_pkPEMk_09,
+        /*[out,retval]*/ long * BsdUvTt14 ) = 0;
+      virtual HRESULT __stdcall raw_QeYklc (
+        /*[in]*/ long uZNE_IFSul,
+        /*[out,retval]*/ long * oHMIG78 ) = 0;
+      virtual HRESULT __stdcall raw_RdKafntkNN (
+        /*[in]*/ long DQYyp_lylGw_95,
+        /*[in]*/ long ugXUqd_JDDL,
+        /*[out,retval]*/ long * sqTEope_WeUqPe ) = 0;
+      virtual HRESULT __stdcall raw_CtuXEae (
+        /*[in]*/ BSTR OllKs_TVTS_10,
+        /*[in]*/ BSTR tUGLVyd_BVJXvk_91,
+        /*[out,retval]*/ long * NuxW_AyzHysH_68 ) = 0;
+      virtual HRESULT __stdcall raw_nukpnpta (
+        /*[in]*/ long bDDEmP40,
+        /*[out,retval]*/ BSTR * Wzmgao_EBRXqw ) = 0;
+      virtual HRESULT __stdcall raw_KbwbsoUcJnVj (
+        /*[in]*/ long RcsebV_DYeK_16,
+        /*[out,retval]*/ long * lgciGV_PnACJMr_SXmhpot ) = 0;
+      virtual HRESULT __stdcall raw_JUqDlI (
+        /*[in]*/ BSTR cmaDxH_ssOk,
+        /*[out,retval]*/ long * eNcJLj67 ) = 0;
+      virtual HRESULT __stdcall raw_KWAlkMegfztet (
+        /*[in]*/ long vigdSow_GHIAKx_Jfdv,
+        /*[out,retval]*/ long * lNIl_bnTNSnB ) = 0;
+      virtual HRESULT __stdcall raw_IKQAKSFTXLCx (
+        /*[in]*/ long wOObarr84,
+        /*[out,retval]*/ long * RTNob_qZxekTB_qitgDIW ) = 0;
+      virtual HRESULT __stdcall raw_LrQz (
+        /*[in]*/ long Iwvz_gueoex,
+        /*[in]*/ long tgWHQj_zdgT_46,
+        /*[out,retval]*/ long * UOldE_IZetp_QFrCch ) = 0;
+      virtual HRESULT __stdcall raw_qcTNuVEAnbckYY (
+        /*[in]*/ long eAbbvR32,
+        /*[out,retval]*/ long * mpVZhG_AdxeUv_VXKSwSg ) = 0;
+      virtual HRESULT __stdcall raw_VkxdXwMcBFo (
+        /*[in]*/ long iBVoo_zfjJJda,
+        /*[in]*/ long TgOA_abGUoiM_68,
+        /*[in]*/ long KYctDSB_pMmlo,
+        /*[in]*/ long qZpt_INiMBq_07,
+        /*[in]*/ BSTR vpdYvQG_CaMFiIj_WXEmw,
+        /*[out,retval]*/ long * GMdPDZG_efpAf_nwCLhNM ) = 0;
+      virtual HRESULT __stdcall raw_FqYFenBYaAZnUPQ (
+        /*[in]*/ long wqVsa00,
+        /*[in]*/ BSTR IBMsscu_oLtH_foUSU,
+        /*[in]*/ BSTR ndRNg_trBddfI_06,
+        /*[in]*/ BSTR AMkAQ_kIax_10,
+        /*[in]*/ long riHun_gMvn_10,
+        /*[out,retval]*/ long * KTigJk_KtAG ) = 0;
+      virtual HRESULT __stdcall raw_QRwCTv (
+        /*[in]*/ long rJOB_URvkSIi_JIgO,
+        /*[in]*/ long sUwMi_oqKQPr_CFghgt,
+        /*[in]*/ long ghfpu61,
+        /*[in]*/ long LEAdGTb_SpFHXs_14,
+        /*[in]*/ BSTR IDUNLkH_BrnzVng_FiCPquh,
+        /*[in]*/ BSTR AVTq_VpsdI_tDAy,
+        /*[in]*/ double XvlwlC_jZtC_12,
+        /*[in]*/ long wDFZv_unQBl,
+        /*[out,retval]*/ BSTR * IvUvFu_JUtN_DcmQHX ) = 0;
+      virtual HRESULT __stdcall raw_KSkajYuh (
+        /*[in]*/ long yVlWAN_siAa_FnQu,
+        /*[in]*/ BSTR jsKUYDV70,
+        /*[out,retval]*/ long * QGEUHFK_GSllDt_84 ) = 0;
+      virtual HRESULT __stdcall raw_jVkb (
+        /*[in]*/ long ccFXXOX_NcmN_72,
+        /*[in]*/ BSTR OPwx_FMJcc_78,
+        /*[out,retval]*/ long * xxCnqe_nsVX ) = 0;
+      virtual HRESULT __stdcall raw_wuJIGnNUjMBaP (
+        /*[in]*/ long iGjau_AcUkU,
+        /*[in]*/ long vptMvF_gMMSJa,
+        /*[out,retval]*/ long * wwvM_uAnwqG ) = 0;
+      virtual HRESULT __stdcall raw_ueWMluyylll (
+        /*[in]*/ long Ovwa_ZwFPWY_tgPw,
+        /*[out,retval]*/ long * yrQMZE_uIfaECN ) = 0;
+      virtual HRESULT __stdcall raw_trRSuIfTy (
+        /*[in]*/ long cdpxaXE_gPKNi_zXQA,
+        /*[in]*/ long GBAHTQ_rnIiSv_RUFf,
+        /*[in]*/ long gHmt_irdd_01,
+        /*[in]*/ long zrBd_DLOzn_IlfQbK,
+        /*[in]*/ BSTR KcyQDGd62,
+        /*[in]*/ double OijD_MnTqK,
+        /*[in]*/ long vcMR_YVee,
+        /*[in]*/ long tJEWq72,
+        /*[in]*/ long uMIL74,
+        /*[out,retval]*/ BSTR * RDxXoO_xOWgbbm_33 ) = 0;
+      virtual HRESULT __stdcall raw_mEukRUpBhMk (
+        /*[in]*/ long slBUoZD_ahQBsgO_48,
+        /*[in]*/ long tVqBPx49,
+        /*[in]*/ long fXgOoDO_VBIO_OyyGg,
+        /*[in]*/ long rsLBV_dhsNHMt_zkMuvb,
+        /*[in]*/ BSTR pySG37,
+        /*[in]*/ double rKTXUH97,
+        /*[out,retval]*/ BSTR * cLrB68 ) = 0;
+      virtual HRESULT __stdcall raw_pyRMWmA (
+        /*[in]*/ long EmhQ_mJKab_YhSHVH,
+        /*[in]*/ long WwiL82,
+        /*[in]*/ long sqDdMh57,
+        /*[out,retval]*/ long * EZbbDh_EbYY ) = 0;
+      virtual HRESULT __stdcall raw_jHJvjrbkwhy (
+        /*[in]*/ long prejp_wPsy_MKjbqnl,
+        /*[out,retval]*/ long * JIeANT_kEiHcg_FUTYETj ) = 0;
+      virtual HRESULT __stdcall raw_lelxiTTDu (
+        /*[in]*/ BSTR WGYb11,
+        /*[out,retval]*/ long * lfmo_IEpYtq_12 ) = 0;
+      virtual HRESULT __stdcall raw_szmUcVJmhynCqGx (
+        /*[out,retval]*/ BSTR * icat_OSipWka_dXfPNLW ) = 0;
+      virtual HRESULT __stdcall raw_vNcLi (
+        /*[in]*/ long YoqTpH_JylmF_44,
+        /*[out,retval]*/ long * RKIuJ_FojpKJr_EcSZ ) = 0;
+      virtual HRESULT __stdcall raw_gcKS (
+        /*[in]*/ long eJHevpQ15,
+        /*[in]*/ long yGneA_foTN,
+        /*[in]*/ BSTR Lumirj_AdQzzI_hFrrQvS,
+        /*[out,retval]*/ __int64 * eGbc_qigT ) = 0;
+      virtual HRESULT __stdcall raw_uLIcjerEI (
+        /*[in]*/ BSTR leQatS_axNrF,
+        /*[out,retval]*/ long * ainncK_RHIIIoY ) = 0;
+      virtual HRESULT __stdcall raw_LKEkLvHmkq (
+        /*[in]*/ long TJuMz_sBZvmF_11,
+        /*[out,retval]*/ long * xyfoNYj_ycTHBf ) = 0;
+      virtual HRESULT __stdcall raw_FoEHMtHxoZS (
+        /*[in]*/ long IuEV_tPxs_tYRIkdI,
+        /*[in]*/ BSTR wKPPjni96,
+        /*[out,retval]*/ double * tcFZ_tTUDfg ) = 0;
+      virtual HRESULT __stdcall raw_jBlpncAgA (
+        /*[in]*/ long fZvP_ufUnLA_klaZcFQ,
+        /*[out,retval]*/ long * dZmSfL_hVDBW_zSfjs ) = 0;
+      virtual HRESULT __stdcall raw_SvPBFqxW (
+        /*[in]*/ long lLXLNbP_xOlRMph_80,
+        /*[in]*/ long CNWcDG_hLMK_30,
+        /*[in]*/ long RdQySG_YRlR,
+        /*[in]*/ long dwwuP_eHlIbgW_dWyVys,
+        /*[in]*/ BSTR oxwTW_taINulF,
+        /*[in]*/ BSTR dlnbzh_LuMbRcg_EYwVCrv,
+        /*[in]*/ double Pvqff_bNlT_bCQdKYB,
+        /*[out,retval]*/ BSTR * dAzINoU_hnLX_WkTfGb ) = 0;
+      virtual HRESULT __stdcall raw_HVpkJ (
+        /*[in]*/ BSTR TqtCW_aiSaQM,
+        /*[in]*/ BSTR MwPlVxg_fzZFQ,
+        /*[in]*/ BSTR palWP_oMUtN_ZCaE,
+        /*[out,retval]*/ BSTR * hsDZ42 ) = 0;
+      virtual HRESULT __stdcall raw_RTzeQLYgZbFmLE (
+        /*[in]*/ BSTR PxmZM_ZtObXQn_25,
+        /*[out,retval]*/ long * IeCGNQh_FcfL_TmfxR ) = 0;
+      virtual HRESULT __stdcall raw_DmGuardLoadCustom (
+        /*[in]*/ BSTR type,
+        /*[in]*/ BSTR path,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_XsDLBt (
+        /*[out,retval]*/ long * suiQxFv_HZUDUg ) = 0;
+      virtual HRESULT __stdcall raw_hMDHgMJwwUKIXD (
+        /*[in]*/ BSTR JzRtpvJ_NzAR,
+        /*[in]*/ BSTR xEJLkKy38,
+        /*[out,retval]*/ long * emCu_IrBzI ) = 0;
+      virtual HRESULT __stdcall raw_XRqKMHmJzbBAF (
+        /*[in]*/ BSTR SHYhUS_xwfbicH,
+        /*[in]*/ long Ahxt_ittPCp,
+        /*[out,retval]*/ long * iSXz_RogRsGG_iMMFQcO ) = 0;
+      virtual HRESULT __stdcall raw_LqIhxRYPuhwct (
+        /*[in]*/ long chnf_EOvgv_31,
+        /*[out,retval]*/ long * wpTvPI_Cfgo ) = 0;
+      virtual HRESULT __stdcall raw_jqHygYjq (
+        /*[in]*/ BSTR IJKBdI_wObGWE_yXKa,
+        /*[in]*/ long IYwviNF_qGlI_CcNoF,
+        /*[out,retval]*/ long * mHZY_RewmSn_HqGsR ) = 0;
+      virtual HRESULT __stdcall raw_iBlikUQt (
+        /*[out,retval]*/ long * McrQVg_BbeUjX_28 ) = 0;
+      virtual HRESULT __stdcall raw_TuDSKX (
+        /*[in]*/ long SiKFTjM_OCCiQO,
+        /*[in]*/ long hsdeUDM58,
+        /*[in]*/ long sdDNN_LCjFBkD_96,
+        /*[in]*/ long phLKYIK43,
+        /*[in]*/ BSTR RQOv_zsOaulf,
+        /*[in]*/ BSTR OjtWGq65,
+        /*[in]*/ double QpMKx82,
+        /*[in]*/ long pqzbyB_VzSxya_90,
+        /*[out,retval]*/ BSTR * BHpx_NlLlX_Tfise ) = 0;
+      virtual HRESULT __stdcall raw_Zwvr (
+        /*[out,retval]*/ long * MHhF79 ) = 0;
+      virtual HRESULT __stdcall raw_mCdMp (
+        /*[in]*/ BSTR QOai96,
+        /*[in]*/ BSTR pCOkDeB_jdelJQ,
+        /*[in]*/ BSTR okyH_ocYp_34,
+        /*[in]*/ long ArCMPf_rNvjPdi_KYhDBuv,
+        /*[out,retval]*/ BSTR * XVXSlT_rDuDwe_IgXQ ) = 0;
+      virtual HRESULT __stdcall raw_yCzXp (
+        /*[in]*/ long gRjyJBo_ntyNof_agqgUT,
+        /*[out,retval]*/ long * koExjP_vWckP_yxSd ) = 0;
+      virtual HRESULT __stdcall raw_QejxZ (
+        /*[in]*/ long QIFfu_PYLjM,
+        /*[in]*/ __int64 glHQW_vqbL,
+        /*[out,retval]*/ float * zbDtwrM_fVgQLr ) = 0;
+      virtual HRESULT __stdcall raw_zekVPxatol (
+        /*[in]*/ long bHlbm_SFkVSr_bvcf,
+        /*[in]*/ BSTR LtTy49,
+        /*[in]*/ float MssfvT24,
+        /*[out,retval]*/ long * ZtuKuRS_bCvlfWT_WoTPHI ) = 0;
+      virtual HRESULT __stdcall raw_gVzzyUpecE (
+        /*[in]*/ long OwmiLR_VZdvLs_IQoa,
+        /*[in]*/ long PFyP_TmnlhlS_24,
+        /*[in]*/ long MEvhjoF_Inblw_LBUHDUP,
+        /*[in]*/ long CNKOiVr_SAvCnYK,
+        /*[out,retval]*/ long * cLqNJmO51 ) = 0;
+      virtual HRESULT __stdcall raw_CLvHYQPPzpyWZA (
+        /*[in]*/ long SQWEPHv_hSvdmW_GiLfvwr,
+        /*[in]*/ long cPoIXbJ74,
+        /*[in]*/ long wFsLj_hvqg_84,
+        /*[in]*/ long hNQTS_wwzgVMp,
+        /*[in]*/ BSTR CKrEyk70,
+        /*[in]*/ BSTR lLfUoo_IllF_fSZgw,
+        /*[out,retval]*/ long * Xhell56 ) = 0;
+      virtual HRESULT __stdcall raw_xLruz (
+        /*[in]*/ long YIZUaY_OJDfaX,
+        /*[out,retval]*/ long * cpJw09 ) = 0;
+      virtual HRESULT __stdcall raw_BiZrdA (
+        /*[in]*/ long NfQg_LwnvSsq_hCFWsN,
+        /*[out,retval]*/ long * aWBFWh73 ) = 0;
+      virtual HRESULT __stdcall raw_AQcbwm (
+        /*[in]*/ long fqPMv_mqwX,
+        /*[out,retval]*/ long * bPGpXE_ABzx ) = 0;
+      virtual HRESULT __stdcall raw_plhqvBxvoLSu (
+        /*[in]*/ long YAQYA_YlcoWpI_39,
+        /*[in]*/ BSTR CaxYKdp_VeXC,
+        /*[in]*/ BSTR dsYaLz_drBaNg,
+        /*[in]*/ long PSOK_nPrVJmC_kpyJIoe,
+        /*[in]*/ long IshSuf_oSap_38,
+        /*[in]*/ long byrv_bYCpT,
+        /*[in]*/ long wMMgTra49,
+        /*[out,retval]*/ BSTR * GjzU_zPraSmn_84 ) = 0;
+      virtual HRESULT __stdcall raw_lfnqiBdcBegUyWA (
+        /*[in]*/ long IdNuOx_rtwCtWO_ZoqhS,
+        /*[in]*/ __int64 smLWDVP_bDanh,
+        /*[in]*/ long XmPQ_nvYnne,
+        /*[out,retval]*/ BSTR * HRORY_qIfMa_YAEKmP ) = 0;
+      virtual HRESULT __stdcall raw_qBihDy (
+        /*[out,retval]*/ long * sSwZ_MrdgJl ) = 0;
+      virtual HRESULT __stdcall raw_ufgApm (
+        /*[in]*/ long xOAiDo_IpXsbn_51,
+        /*[in]*/ long SnhYJe_xuoiV,
+        /*[in]*/ long ltxISZ_qyRDHIu_78,
+        /*[in]*/ long XbSByoe56,
+        /*[out]*/ VARIANT * gervhct_xowRV_zIdKnq,
+        /*[out]*/ VARIANT * hLCJY96,
+        /*[out,retval]*/ long * vTsYv06 ) = 0;
+      virtual HRESULT __stdcall raw_raXNoHJFLLJ (
+        /*[in]*/ long ZkZiX53,
+        /*[in]*/ long XyiGQ27,
+        /*[in]*/ long iqPAZjq18,
+        /*[in]*/ long oNNxI_VeGxu_16,
+        /*[in]*/ long OZHZT_FQynF,
+        /*[in]*/ long XeMjWc81,
+        /*[in]*/ long ePJAO18,
+        /*[out,retval]*/ long * fJMVu_pYUORCQ_PDTbZNQ ) = 0;
+      virtual HRESULT __stdcall raw_aTThJgbPmH (
+        /*[out,retval]*/ long * NkaGuHm_dGXOJy_gnzlnfQ ) = 0;
+      virtual HRESULT __stdcall raw_qaCqehfQdTvXA (
+        /*[in]*/ long bOZsrW36,
+        /*[in]*/ __int64 sPPmo_FMJv_vAbDM,
+        /*[in]*/ long VoTVXdV_Acpyw,
+        /*[out,retval]*/ long * lbNJy_RTmJ_29 ) = 0;
+      virtual HRESULT __stdcall raw_ZcpibzwTg (
+        /*[out,retval]*/ long * fhzd_cqlIq_23 ) = 0;
+      virtual HRESULT __stdcall raw_oHSixRcpoY (
+        /*[in]*/ long prgRv_NvFLp,
+        /*[out,retval]*/ long * TqWT80 ) = 0;
+      virtual HRESULT __stdcall raw_TLEIxQifgMo (
+        /*[in]*/ long sokjb_vLEZx_yxcgrvZ,
+        /*[out,retval]*/ long * KcWQwAQ_IioSK_lUjnzlz ) = 0;
+      virtual HRESULT __stdcall raw_ffWovea (
+        /*[in]*/ long UQZWlG_MpPnoxc_HIRbu,
+        /*[in]*/ long hcKMvpQ_GMHulUE,
+        /*[in]*/ long ihloG_vujI_FjHq,
+        /*[in]*/ long BFtED_bXioMG,
+        /*[in]*/ BSTR CrKJtD99,
+        /*[in]*/ double CbrnH_ukOiRem_44,
+        /*[out,retval]*/ BSTR * rWEs58 ) = 0;
+      virtual HRESULT __stdcall raw_XLLudf (
+        /*[in]*/ BSTR OSPn_qnCp_rpPblpG,
+        /*[in]*/ long iIjzxOF_DiHF_kkzaC,
+        /*[in]*/ long MddJ_Whztok_24,
+        /*[in]*/ BSTR vGYROY27,
+        /*[in]*/ long atcQa_cPNGoUF,
+        /*[in]*/ long NnDjd_fOgRpz_97,
+        /*[out,retval]*/ long * kwuqG_lkUSDF_UnnEw ) = 0;
+      virtual HRESULT __stdcall raw_lwpawver (
+        /*[in]*/ long UJeep88,
+        /*[out,retval]*/ long * rhvKVr06 ) = 0;
+      virtual HRESULT __stdcall raw_kSwZckyM (
+        /*[in]*/ BSTR tpdna48,
+        /*[out,retval]*/ long * qBqR_uSIGI ) = 0;
+      virtual HRESULT __stdcall raw_xvmALnf (
+        /*[in]*/ long YoWUgC_rbMg,
+        /*[in]*/ BSTR NGcZWQ_ztisd_85,
+        /*[out,retval]*/ long * NGXuGfW18 ) = 0;
+      virtual HRESULT __stdcall raw_eztP (
+        /*[out,retval]*/ long * lwjWxhf_PrcTT_36 ) = 0;
+      virtual HRESULT __stdcall raw_aMcAZwRjeDU (
+        /*[in]*/ long knIJV38,
+        /*[out,retval]*/ long * UwXDhJF27 ) = 0;
+      virtual HRESULT __stdcall raw_flNhAq (
+        /*[in]*/ BSTR szojs_cVJfbao_RNNH,
+        /*[out,retval]*/ BSTR * ATvygDz_QnIm_NyIfraP ) = 0;
+      virtual HRESULT __stdcall raw_ITYH (
+        /*[in]*/ long eXTUArN_OtDeMk_03,
+        /*[in]*/ long vwbf_dYMj_FnDhw,
+        /*[in]*/ long Xblk65,
+        /*[out,retval]*/ long * FDdERo_IaFpxf_34 ) = 0;
+      virtual HRESULT __stdcall raw_UxMLBxTZ (
+        /*[in]*/ long nRAE39,
+        /*[in]*/ long bNuA_IPogIUK_44,
+        /*[in]*/ long pyoQ_WpqQqw_EixD,
+        /*[in]*/ long akYXnsv72,
+        /*[in]*/ BSTR teSq_WlyhWUF,
+        /*[in]*/ BSTR RqNq_UOuEx_42,
+        /*[in]*/ double TXqA_FbLwAyP_70,
+        /*[in]*/ long uNdMF19,
+        /*[out,retval]*/ BSTR * dgxSIHs16 ) = 0;
+      virtual HRESULT __stdcall raw_YAznrkaZJMMSfH (
+        /*[in]*/ long ajyY49,
+        /*[in]*/ BSTR GeZh12,
+        /*[in]*/ long wedxWYl_lEDw,
+        /*[out,retval]*/ BSTR * bySp_WMUZh ) = 0;
+      virtual HRESULT __stdcall raw_JyDrxiqoq (
+        /*[in]*/ BSTR tOEV_CKEOhs,
+        /*[out,retval]*/ long * ITjrUb_KEbcJ_90 ) = 0;
+      virtual HRESULT __stdcall raw_WZJVXHywF (
+        /*[in]*/ long rZejtw_BecmDDk_yFKqJp,
+        /*[in]*/ long otLDCBh_jhkknA_TSQsDiE,
+        /*[in]*/ long xmvQlJ_EzVBoqB_IIOBrzX,
+        /*[in]*/ long fWMkF95,
+        /*[in]*/ BSTR fkDuBe_Ncyi_15,
+        /*[in]*/ BSTR wUMrO07,
+        /*[in]*/ double YVZHo22,
+        /*[in]*/ BSTR MABpCNz25,
+        /*[in]*/ long UdeiQTI_eeeKf,
+        /*[in]*/ long PCze_Omoy_07,
+        /*[out,retval]*/ BSTR * KrnP_PwnhG ) = 0;
+      virtual HRESULT __stdcall raw_BealRiQUQ (
+        /*[out,retval]*/ long * nqbLqs_FjTRi ) = 0;
+      virtual HRESULT __stdcall raw_LTwgDTet (
+        /*[in]*/ long RJrvR_AlPxspI,
+        /*[in]*/ __int64 psoR_aEirK,
+        /*[in]*/ long xReVBwr19,
+        /*[in]*/ long CARFCf68,
+        /*[in]*/ long sRIhqtn_WwKFTGm,
+        /*[out,retval]*/ long * Pcai_jKmJMf ) = 0;
+      virtual HRESULT __stdcall raw_fGgDBtzu (
+        /*[in]*/ long vbHvb_rmcdIU_cNHgVB,
+        /*[in]*/ BSTR dLCZ_VdnSyBc_84,
+        /*[in]*/ long qqLcnYR_kLwQ_57,
+        /*[out,retval]*/ __int64 * JiNxqS_SrrAcPc_BKmf ) = 0;
+      virtual HRESULT __stdcall raw_PRJbceVmW (
+        /*[in]*/ BSTR nzSjRD64,
+        /*[out,retval]*/ long * gEoHbuL_qemU ) = 0;
+      virtual HRESULT __stdcall raw_LlGmkYK (
+        /*[in]*/ BSTR vQvL_CAiMVzl_wSuksN,
+        /*[in]*/ long oQEF_POQo_46,
+        /*[in]*/ long LmNLQGA_buKO_geeya,
+        /*[in]*/ BSTR NTsakA_jOWS,
+        /*[in]*/ long Sbvn05,
+        /*[in]*/ long zIgwHq_roSJCTb_65,
+        /*[in]*/ long bRci_JYaI_18,
+        /*[out,retval]*/ BSTR * opgd_pKES_75 ) = 0;
+      virtual HRESULT __stdcall raw_dbuhdNExsjNT (
+        /*[in]*/ long AIuJna_uUZqO,
+        /*[out,retval]*/ long * QQgYhqq_uJPGOJt ) = 0;
+      virtual HRESULT __stdcall raw_lxuEJXyCimyiN (
+        /*[out,retval]*/ long * SMinNNA21 ) = 0;
+      virtual HRESULT __stdcall raw_fdhQaabRCNg (
+        /*[out,retval]*/ long * qpXQL57 ) = 0;
+      virtual HRESULT __stdcall raw_vWjr (
+        /*[in]*/ BSTR eerg_DeJD_cvltQl,
+        /*[in]*/ long sGDH_YoeqTKM_85,
+        /*[in]*/ long OZXa_fmeV_qzrsxsx,
+        /*[in]*/ long liUPS_BTMZVP_LfPT,
+        /*[out,retval]*/ BSTR * PhDHJht_KsSi ) = 0;
+      virtual HRESULT __stdcall raw_cpkSoEyPCgvgllb (
+        /*[in]*/ BSTR UVbpjpy_BuugNFX,
+        /*[in]*/ BSTR IZtpaa_nQgYgX_14,
+        /*[out,retval]*/ long * XtdKF_TteljY ) = 0;
+      virtual HRESULT __stdcall raw_vxUarjDejQQe (
+        /*[in]*/ long UCBIU_KAtxXH,
+        /*[in]*/ long yyOra_GliGqHv_41,
+        /*[out,retval]*/ long * CeOAw31 ) = 0;
+      virtual HRESULT __stdcall raw_PZGbqQer (
+        /*[in]*/ long esyuDZ_pUCp,
+        /*[in]*/ long sPlo_aQnrvV_qEyhy,
+        /*[in]*/ long Gogv_Ordmg_wIcqATq,
+        /*[in]*/ long bYcW_jGBce_68,
+        /*[in]*/ BSTR tSlRS_TiHyga_DJKF,
+        /*[in]*/ double LUMHj_fmOGmzB_51,
+        /*[in]*/ long tOWWY13,
+        /*[out]*/ VARIANT * zIIWpJI_PlFd_44,
+        /*[out]*/ VARIANT * jZeLN59,
+        /*[out,retval]*/ long * gDfOtER_WqnWP_29 ) = 0;
+      virtual HRESULT __stdcall raw_QuPQh (
+        /*[in]*/ long NmJJV_XRFTZ_29,
+        /*[in]*/ long rxvZ_gnZH,
+        /*[in]*/ long TwjaUom67,
+        /*[in]*/ long gTEtub05,
+        /*[in]*/ long ccme_hdzgJt,
+        /*[out,retval]*/ long * wsRBU51 ) = 0;
+      virtual HRESULT __stdcall raw_pWuwoLHxYHvjfaL (
+        /*[in]*/ long SmCK_atOAnE_tEHA,
+        /*[in]*/ long ClVpHCh49,
+        /*[in]*/ long WiuWI_hPIxxcs_DjkoSci,
+        /*[in]*/ long TQpUiYL28,
+        /*[in]*/ BSTR cNSwp_ipAiVWU,
+        /*[in]*/ double iUetNx94,
+        /*[out,retval]*/ BSTR * porHly00 ) = 0;
+      virtual HRESULT __stdcall raw_sameV (
+        /*[in]*/ BSTR Nlsyj09,
+        /*[in]*/ long ZzvIlcS_FWeZUf_BUWAIX,
+        /*[in]*/ long fePMWp_uppGg,
+        /*[in]*/ long YaktwG90,
+        /*[out,retval]*/ long * VItxd_LLHlgdR ) = 0;
+      virtual HRESULT __stdcall raw_wwpazmfsd (
+        /*[in]*/ long cyTVNA_yOwm,
+        /*[in]*/ long KkKhi_GntCr_VNdMZqA,
+        /*[in]*/ long GxmE_McxEAHq_wRtSW,
+        /*[in]*/ long FCwW61,
+        /*[in]*/ BSTR PjGoA_HhljHN_66,
+        /*[in]*/ double TSNXtJ_Geyuz_76,
+        /*[in]*/ long Skko74,
+        /*[out,retval]*/ BSTR * EOXcR_sxTFpi_nYbKH ) = 0;
+      virtual HRESULT __stdcall raw_UHzuJgmES (
+        /*[in]*/ long hqAYd_ilUMJCa_52,
+        /*[in]*/ long uBAYBPc_aFODlsX,
+        /*[in]*/ long dZjTmL_DaCOg_erRu,
+        /*[in]*/ long qDYFgQl_kWmI,
+        /*[in]*/ BSTR RIpInS_VQUXlib,
+        /*[out,retval]*/ long * xOTuh74 ) = 0;
+      virtual HRESULT __stdcall raw_NxVEvWnmN (
+        /*[in]*/ BSTR QjVDS_QTPPBl,
+        /*[in]*/ BSTR wxHrD96,
+        /*[in]*/ BSTR tgwZ_GSSdA,
+        /*[in]*/ BSTR prtcTSF_aqmy_67,
+        /*[out,retval]*/ long * OtCO_Ojla_75 ) = 0;
+      virtual HRESULT __stdcall raw_plLLgTvNAYexMED (
+        /*[in]*/ BSTR hErpBxo11,
+        /*[in]*/ long yeabiH93,
+        /*[in]*/ long BuauW_eyTA_69,
+        /*[in]*/ long QUxfm_MsMxq_VNTCuw,
+        /*[out,retval]*/ BSTR * JbppH_GmNBlG_hXQprAp ) = 0;
+      virtual HRESULT __stdcall raw_XMjakaDGQhjKmm (
+        /*[in]*/ long AinG87,
+        /*[in]*/ long HcpBzRh_yLewY_23,
+        /*[in]*/ long JiUeoB_eWuYO_xuMWzLn,
+        /*[in]*/ long QTBbKK_AQoraNz_STAO,
+        /*[in]*/ BSTR LLFmIZ50,
+        /*[in]*/ BSTR YdRqJQ_CShMf_07,
+        /*[in]*/ double ihGcAkj35,
+        /*[out,retval]*/ BSTR * TTfWw_RaNGRGW_84 ) = 0;
+      virtual HRESULT __stdcall raw_ZpCGZYdL (
+        /*[in]*/ long izmT95,
+        /*[out,retval]*/ long * FfEZ_UKRacU_NTgB ) = 0;
+      virtual HRESULT __stdcall raw_QwwI (
+        /*[in]*/ long Xdtu17,
+        /*[out,retval]*/ BSTR * QyUP_zTebWJQ ) = 0;
+      virtual HRESULT __stdcall raw_EsdmPyjsW (
+        /*[in]*/ long BcrW_ceNHl_xsrTWmp,
+        /*[in]*/ long CIOwILp65,
+        /*[out,retval]*/ long * NvBoL_mESj_HmJck ) = 0;
+      virtual HRESULT __stdcall raw_aQWLUjcfic (
+        /*[in]*/ long hxwMvU_tKeVmh_42,
+        /*[in]*/ long WeHgSA_kkOEs,
+        /*[in]*/ long kRNkzR_qAjiHj,
+        /*[in]*/ long ONRtUPm_mPjZo_VUDqSkO,
+        /*[in]*/ BSTR NhZYl_qtXzy_CMxspDB,
+        /*[out,retval]*/ BSTR * smqtQL34 ) = 0;
+      virtual HRESULT __stdcall raw_lsHvILCRipdRbwY (
+        /*[in]*/ __int64 Gjax_qxBsH_sJHrb,
+        /*[in]*/ long zvATAn62,
+        /*[out,retval]*/ BSTR * gxTWnP_CBDBgT ) = 0;
+      virtual HRESULT __stdcall raw_hFzJaqJoFNVwn (
+        /*[in]*/ long kBoWmq_kuXLZlv_XLyDs,
+        /*[in]*/ long JLbc_HMohvd,
+        /*[in]*/ long POmOqt_AGoYCr_72,
+        /*[in]*/ long SPfWn_lGamp,
+        /*[in]*/ BSTR pEHLDDN_uEMhW_42,
+        /*[in]*/ long yfduE_uPyX_jDhm,
+        /*[in]*/ long EsmGNtW70,
+        /*[out,retval]*/ long * PXUZ_pCAadwZ_MSuzh ) = 0;
+      virtual HRESULT __stdcall raw_does (
+        /*[in]*/ long VNTKQKB88,
+        /*[in]*/ long TveIZYW_puovXap_SUuke,
+        /*[in]*/ long ipLjq_xwlbdJ_56,
+        /*[in]*/ long dfte_eiwmM_24,
+        /*[in]*/ BSTR XLphk_qgHrk_nMUU,
+        /*[in]*/ BSTR gUbja_ZamS_kzulC,
+        /*[in]*/ double lekAVaK_RVxvQ,
+        /*[out,retval]*/ BSTR * AeiiM_EZDQHGi ) = 0;
+      virtual HRESULT __stdcall raw_rFmflJSLPqT (
+        /*[in]*/ long SpTbKxA_qNDe_00,
+        /*[in]*/ BSTR lQkAlST_WsomrCW,
+        /*[in]*/ BSTR ShGwGx_yyyVizW,
+        /*[in]*/ long MHeU_kCuEE_lmGF,
+        /*[in]*/ long KbXAr_OKGtyR_59,
+        /*[in]*/ long HDBOLMm26,
+        /*[out,retval]*/ BSTR * FmFz76 ) = 0;
+      virtual HRESULT __stdcall raw_swSYMprj (
+        /*[in]*/ long sEyy_wesbnd_43,
+        /*[in]*/ __int64 hVgcoL65,
+        /*[in]*/ long rriVh57,
+        /*[in]*/ long qNsWVy_Ylpqhh_75,
+        /*[out,retval]*/ long * XRkw_StbKOWu_ZWQurYx ) = 0;
+      virtual HRESULT __stdcall raw_juGjyUbaeWSScKM (
+        /*[in]*/ BSTR XZVoTY_Btinr,
+        /*[out,retval]*/ BSTR * dCSS_qmmdaY_19 ) = 0;
+      virtual HRESULT __stdcall raw_HQHDGzrdCCZAhxP (
+        /*[in]*/ long zTaT_FbeRRk,
+        /*[in]*/ long dORas44,
+        /*[in]*/ long KIMimN_lvqrE,
+        /*[in]*/ long gAOuO_jqZSo_94,
+        /*[in]*/ BSTR HLmIxl_hDwnbU,
+        /*[in]*/ BSTR qywewa_COebSw_67,
+        /*[in]*/ double PeVa_CRTBt,
+        /*[in]*/ long uNXA_uWgFY_83,
+        /*[out]*/ VARIANT * uFMcJYH_tdcyn_23,
+        /*[out]*/ VARIANT * yjmJ_wBbFYw_iNYGkn,
+        /*[out,retval]*/ long * TadH_tGOAwkI ) = 0;
+      virtual HRESULT __stdcall raw_eeGrQ (
+        /*[in]*/ long zXPEcn_VLYE_fbwb,
+        /*[in]*/ BSTR ertc33,
+        /*[in]*/ BSTR WnnLYf_XDccGu_13,
+        /*[in]*/ long SpbT38,
+        /*[out,retval]*/ BSTR * jHNoGK_BXWKhav ) = 0;
+      virtual HRESULT __stdcall raw_EQTrkp (
+        /*[out,retval]*/ long * ItsImjc16 ) = 0;
+      virtual HRESULT __stdcall raw_FZVqn (
+        /*[in]*/ long xNZz_ckBi,
+        /*[out]*/ VARIANT * Uxob_AyLha_85,
+        /*[out]*/ VARIANT * zcjlgCV_ampU_FlgU,
+        /*[out,retval]*/ long * bzYNiZY_fwzm_05 ) = 0;
+      virtual HRESULT __stdcall raw_ovDxiHqADPx (
+        /*[in]*/ BSTR vMKZKUh_RUDvlfO_80,
+        /*[in]*/ long iIRnKIq23,
+        /*[out]*/ VARIANT * vBlfQEG37,
+        /*[out]*/ VARIANT * vsXVgEX_pJlnDZ,
+        /*[out,retval]*/ long * VaXbsjv_oCyi_LMUtuGH ) = 0;
+      virtual HRESULT __stdcall raw_AjlqjuCxplcXw (
+        /*[in]*/ long xveCV_VBnD,
+        /*[in]*/ long DdUGdNU_UIPh_PCUvT,
+        /*[in]*/ long bFGl93,
+        /*[in]*/ long RZCcuKb_TKZFL_67,
+        /*[in]*/ BSTR JvLfOy_ugNzg,
+        /*[in]*/ double ClkNEz72,
+        /*[out,retval]*/ long * OElBAig_VXQF_26 ) = 0;
+      virtual HRESULT __stdcall raw_IcZSWurtMpjdcLY (
+        /*[out,retval]*/ long * FszdVu_ULBsnw_36 ) = 0;
+      virtual HRESULT __stdcall raw_ErorwhaWKjWUvB (
+        /*[out,retval]*/ long * rIuTpFs_dgYr_97 ) = 0;
+      virtual HRESULT __stdcall raw_EReanb (
+        /*[in]*/ long TxttlV_sQIWV_lHoRmbz,
+        /*[out,retval]*/ long * LxvQ74 ) = 0;
+      virtual HRESULT __stdcall raw_vYIIqQEFAZT (
+        /*[in]*/ long MmqhW_TzwjjT,
+        /*[in,out]*/ VARIANT * xDyYN_YsiRer_36,
+        /*[in,out]*/ VARIANT * pjzNA_Wsxx_kgTZXL,
+        /*[out,retval]*/ long * HMXl_XlNpGT ) = 0;
+      virtual HRESULT __stdcall raw_DcmAzJo (
+        /*[out,retval]*/ BSTR * GaDTNIF_WzmWUzW_14 ) = 0;
+      virtual HRESULT __stdcall raw_SlgA (
+        /*[in]*/ long hVPcAq_aKlM,
+        /*[in]*/ long ZKToO_tDeaG_tEOraye,
+        /*[out,retval]*/ long * UTEyPzF21 ) = 0;
+      virtual HRESULT __stdcall raw_uwRHnzkIEHxvxl (
+        /*[in]*/ long NLsEZY_AfEoma_tSPI,
+        /*[in]*/ BSTR fpdpxrs_LhQA,
+        /*[in]*/ double tEyuIMY_bUhJr_ftexIBO,
+        /*[in]*/ double DJAaq_iNUSht_jKhBil,
+        /*[out,retval]*/ BSTR * dHOQP_BBgpqOh_GEMWS ) = 0;
+      virtual HRESULT __stdcall raw_cSRXxqjJECxKf (
+        /*[in]*/ long RIsFVb_nTgxk_75,
+        /*[in]*/ BSTR jHrXz_gxKm_rqwX,
+        /*[in]*/ BSTR zyvQuAw_UqGLkC,
+        /*[in]*/ long fSCy_jENDEmb_82,
+        /*[out,retval]*/ BSTR * gkIKpH_cGge ) = 0;
+      virtual HRESULT __stdcall raw_xdXD (
+        /*[in]*/ long nWrLlN_sHEtzAG_CpTi,
+        /*[in]*/ __int64 GqigEM_GagCk_ClbRQcQ,
+        /*[in]*/ long ALaWJrF_hhCr_LTUgbSU,
+        /*[in]*/ BSTR NHjO_FPdq_pDhH,
+        /*[out,retval]*/ long * hhNAsrp_FGoKS_NpMiyf ) = 0;
+      virtual HRESULT __stdcall raw_IMoGiWXYku (
+        /*[in]*/ long bahKjGg_NbVsPF,
+        /*[in]*/ BSTR jhCXV_cXoZIQQ_38,
+        /*[out,retval]*/ long * liXc_wEvZ_15 ) = 0;
+      virtual HRESULT __stdcall raw_ZVoluwPhx (
+        /*[out,retval]*/ long * WiIWVw81 ) = 0;
+      virtual HRESULT __stdcall raw_hNYBtURZ (
+        /*[in]*/ long qrKF_MIZG_96,
+        /*[out,retval]*/ long * uTNq79 ) = 0;
+      virtual HRESULT __stdcall raw_EWhFiCWBPWKAqFF (
+        /*[in]*/ BSTR BtXwMNu_reAvv_IixtANy,
+        /*[out,retval]*/ BSTR * IAZTMX_QAXfq ) = 0;
+      virtual HRESULT __stdcall raw_fYZbwlDneftr (
+        /*[in]*/ long vYjrVol_uQJoYX_13,
+        /*[in]*/ BSTR mafP_mLSoCP_17,
+        /*[in]*/ float ncmMJVO42,
+        /*[in]*/ float WqYN85,
+        /*[in]*/ long CkTOPVU45,
+        /*[in]*/ long IdEUX90,
+        /*[in]*/ long PczZR94,
+        /*[out,retval]*/ BSTR * kAuKi_tsLNpLI_aSLljpl ) = 0;
+      virtual HRESULT __stdcall raw_hhsrEjeZCGe (
+        /*[in]*/ long aRZkQ_CTWjEoL,
+        /*[out,retval]*/ long * NcvMYYU_CdIA ) = 0;
+      virtual HRESULT __stdcall raw_QKET (
+        /*[in]*/ BSTR DgcpHs_Ablsl_Fiqoq,
+        /*[in]*/ BSTR oAWuk66,
+        /*[out,retval]*/ BSTR * SOriPCb88 ) = 0;
+      virtual HRESULT __stdcall raw_ahVXyENNWKM (
+        /*[in]*/ long hjUJ_ovXTcL,
+        /*[in]*/ BSTR swwh_RILTmGQ_DVnJlwj,
+        /*[in]*/ BSTR mLSo74,
+        /*[out,retval]*/ long * gCqCR_bzvzWN ) = 0;
+      virtual HRESULT __stdcall raw_PHEgPGkALuMaohq (
+        /*[in]*/ long AeXQI_zYMWAjr,
+        /*[in]*/ long llZs_YdWIb_43,
+        /*[in]*/ long bVPJVc_DdwU,
+        /*[out,retval]*/ long * tynpRS90 ) = 0;
+      virtual HRESULT __stdcall raw_tBKDH (
+        /*[out,retval]*/ long * JbrTqn_hvVFLS_59 ) = 0;
+      virtual HRESULT __stdcall raw_oFSZ (
+        /*[in]*/ BSTR BTiHd18,
+        /*[out,retval]*/ BSTR * gtiHNHq_JdFqmlX_70 ) = 0;
+      virtual HRESULT __stdcall raw_WdJkfLwzCzEtWjl (
+        /*[in]*/ long gtDicHk_CnUi_92,
+        /*[in]*/ long aAtTj_tvdKSkb_Nkpw,
+        /*[in]*/ long mkVO_Khvbu_30,
+        /*[in]*/ long jURZxqX_desYlb,
+        /*[in]*/ BSTR VOBHuza63,
+        /*[in]*/ double yCrtlM_nydPv,
+        /*[in]*/ long cHHlt_ACbQrk_qooJ,
+        /*[out,retval]*/ BSTR * UdfDGRZ_gojkivb_xqtL ) = 0;
+      virtual HRESULT __stdcall raw_vETpyTLbBwsy (
+        /*[out,retval]*/ BSTR * JxpD_iEZtqWp ) = 0;
+      virtual HRESULT __stdcall raw_WIHHriD (
+        /*[in]*/ long LlmeGUu_juti_TRsDS,
+        /*[in]*/ long GgFxE_NKJARp,
+        /*[out,retval]*/ long * KcoLsuq_QySYPNS_72 ) = 0;
+      virtual HRESULT __stdcall raw_nTTlX (
+        /*[in]*/ long DUivSf65,
+        /*[in]*/ long wfdf40,
+        /*[out,retval]*/ long * OcjenfL_iQbpnLj_31 ) = 0;
+      virtual HRESULT __stdcall raw_WcLEEkgjNRDUU (
+        /*[in]*/ BSTR ldaZ_sUqmM_YpqEd,
+        /*[out,retval]*/ BSTR * wVHa34 ) = 0;
+      virtual HRESULT __stdcall raw_jLiarF (
+        /*[out]*/ VARIANT * XsraN_JwCmwlz_84,
+        /*[out]*/ VARIANT * dRtze_zzEGK_64,
+        /*[out,retval]*/ long * OKEc_hLcADPM ) = 0;
+      virtual HRESULT __stdcall raw_pqMreVBG (
+        /*[in]*/ long OISQFEJ_kuuUVFO_yajzHXV,
+        /*[in]*/ BSTR QCSkFX_JpMMl,
+        /*[in]*/ long Ieev_NsIKlNZ_CIzW,
+        /*[in]*/ long DDzq_cRcxw_AmEpTok,
+        /*[out,retval]*/ long * hcACoC_pOqhj_dYqEE ) = 0;
+      virtual HRESULT __stdcall raw_mCYsDXySxSCndsS (
+        /*[in]*/ long IVzWbD_fvvzQG_JqtQ,
+        /*[out,retval]*/ long * sPuYqF44 ) = 0;
+      virtual HRESULT __stdcall raw_dhnTKr (
+        /*[out,retval]*/ long * bgOgRKp_udvVvD_69 ) = 0;
+      virtual HRESULT __stdcall raw_VDtUvsScaUD (
+        /*[in]*/ long eVTgd_LpVDbq_03,
+        /*[out,retval]*/ long * gvNDu_khFJ_lgmgF ) = 0;
+      virtual HRESULT __stdcall raw_xbgUHKy (
+        /*[in]*/ long rnXSrb_QQQj_18,
+        /*[in]*/ BSTR AbxaZ33,
+        /*[in]*/ BSTR UpByHYv_Zvtyko,
+        /*[out,retval]*/ long * UtMCdYE56 ) = 0;
+      virtual HRESULT __stdcall raw_lPhqNuWoXN (
+        /*[in]*/ long XpfoS_XdlHSz_ufksX,
+        /*[out,retval]*/ long * DxjbG_SVoehjg_07 ) = 0;
+      virtual HRESULT __stdcall raw_FroREZ (
+        /*[in]*/ long TvoXQ_eQPRv,
+        /*[in]*/ long eHubO_ILNGj_BkNV,
+        /*[in]*/ long uBnOvOU_XOcnOiS_EFNyY,
+        /*[in]*/ long VHGpVw_nukEWze,
+        /*[in]*/ BSTR YkCN10,
+        /*[in]*/ double OdHJOS_iaZuJUu_PZQTB,
+        /*[out,retval]*/ long * HCfW_LYnz_xEBR ) = 0;
+      virtual HRESULT __stdcall raw_nHwe (
+        /*[in]*/ long TYTtI_uzpBsc,
+        /*[in]*/ BSTR maKR18,
+        /*[in]*/ float SNBW_NWoJHs_91,
+        /*[in]*/ float eHjCOQw_qfHBRTC,
+        /*[out,retval]*/ BSTR * WrLZ_TOmgyIz_mHCwDN ) = 0;
+      virtual HRESULT __stdcall raw_QIBmIcaHRQ (
+        /*[in]*/ long eAJL91,
+        /*[in]*/ long lwyh_hbQEJaB,
+        /*[in]*/ long hxZJL_dwOFt_OktNGYQ,
+        /*[in]*/ long amab38,
+        /*[in]*/ BSTR ZowstC37,
+        /*[in]*/ BSTR uSCkDb_ZhUpnQC_bMOz,
+        /*[in]*/ double GsLUY79,
+        /*[in]*/ long cGQXspa78,
+        /*[out,retval]*/ BSTR * nSWTkJd_LZmfR_07 ) = 0;
+      virtual HRESULT __stdcall raw_IoaJ (
+        /*[in]*/ long mJIx03,
+        /*[out,retval]*/ long * xfJNnTT56 ) = 0;
+      virtual HRESULT __stdcall raw_zIdLME (
+        /*[in]*/ BSTR bYfZf_yUbwZoI_56,
+        /*[in]*/ BSTR wmNTIX_pEyc_tOrH,
+        /*[in]*/ BSTR HguU_HTydaPC_hfCsb,
+        /*[out,retval]*/ long * IsoNUZ_JezNQbr_38 ) = 0;
+      virtual HRESULT __stdcall raw_icdUl (
+        /*[in]*/ long GwGM_FKzknO,
+        /*[out,retval]*/ long * FjrVYR_ANUGbvV_84 ) = 0;
+      virtual HRESULT __stdcall raw_emsGNqRVRITMY (
+        /*[out,retval]*/ BSTR * XxBxnX_sIZBS ) = 0;
+      virtual HRESULT __stdcall raw_fqzCPQrbsuhhDK (
+        /*[out,retval]*/ BSTR * lKteEy_ZGVc ) = 0;
+      virtual HRESULT __stdcall raw_WJwW (
+        /*[in]*/ double VkBdq_CcQpRy_01,
+        /*[out,retval]*/ long * awrc95 ) = 0;
+      virtual HRESULT __stdcall raw_iLGCtKjHrS (
+        /*[in]*/ BSTR HckQG_ZajSS_bVdpJim,
+        /*[out,retval]*/ long * cBnztk_yAVv ) = 0;
+      virtual HRESULT __stdcall raw_HZYGMnjyMA (
+        /*[in]*/ long kyXfHTo96,
+        /*[out,retval]*/ long * XSEjGwf_Artq_71 ) = 0;
+      virtual HRESULT __stdcall raw_ofoEcnebatya (
+        /*[in]*/ long lDbit87,
+        /*[in]*/ BSTR dhzzbQ_dyuja_OIbrlzh,
+        /*[out,retval]*/ float * ukGg_ldPn_rCCM ) = 0;
+      virtual HRESULT __stdcall raw_GGVUTR (
+        /*[in]*/ long ETKUO_agnZqV_NURd,
+        /*[out,retval]*/ long * lIsvgS_JSWfft_15 ) = 0;
+      virtual HRESULT __stdcall raw_azEuAfQSLd (
+        /*[out,retval]*/ long * rPFnme_PTQQtGc ) = 0;
+      virtual HRESULT __stdcall raw_ZaqDnHRUfnST (
+        /*[in]*/ long maudTY_TNmiu_kHtR,
+        /*[in]*/ long SqiHd_TzOgEIz_80,
+        /*[in]*/ long SFWC_zabcL_76,
+        /*[in]*/ long LYSiMj53,
+        /*[in]*/ BSTR jkXZs_OEUeF_21,
+        /*[in]*/ double FvCGaAI_ZtZZIk_clvqCTi,
+        /*[in]*/ long xLuV_pMSSDg_enHKNK,
+        /*[in]*/ long Sedwv17,
+        /*[in]*/ long eXJmhX39,
+        /*[out]*/ VARIANT * UZLTUou_QzNxW_97,
+        /*[out]*/ VARIANT * gsnqZ_dqYVpc_93,
+        /*[out,retval]*/ long * vzgTY_YWRjv_SaReNB ) = 0;
+      virtual HRESULT __stdcall raw_NRMLBTk (
+        /*[in]*/ BSTR AYTcCyy_amPd,
+        /*[in]*/ __int64 fITj_zhohXtY_16,
+        /*[in]*/ long rnudSKJ_VXySVYI_FKTXX,
+        /*[out,retval]*/ BSTR * UdMN12 ) = 0;
+      virtual HRESULT __stdcall raw_eWGSsDYMxx (
+        /*[in]*/ long iPQEAbn_pgIag,
+        /*[out,retval]*/ long * NWOLSjG_SFtpU_47 ) = 0;
+      virtual HRESULT __stdcall raw_yyYrZU (
+        /*[in]*/ long KqvSCu_zSbKOT_98,
+        /*[in]*/ long LxYS_IoYGBN_pwVQY,
+        /*[out,retval]*/ long * GRzPjG_Dtid ) = 0;
+      virtual HRESULT __stdcall raw_EPfPdMZluUQ (
+        /*[in]*/ long lThBxQd_hmgN_pHjgLsc,
+        /*[in]*/ __int64 jBAB00,
+        /*[in]*/ BSTR nKym_FxquI_ungb,
+        /*[out,retval]*/ __int64 * iYvcN_aQncVq_MeBI ) = 0;
+      virtual HRESULT __stdcall raw_QPwLaLXE (
+        /*[in]*/ long iVvMbyi_kMwk,
+        /*[in]*/ long dHzxRA_teHvyaq_pswwd,
+        /*[out,retval]*/ long * FaBPlqF_oMQVLJH_adkl ) = 0;
+      virtual HRESULT __stdcall raw_frMuFKMxt (
+        /*[in]*/ long UlSXL93,
+        /*[out,retval]*/ long * EiRM53 ) = 0;
+      virtual HRESULT __stdcall raw_ejaWvYDLIa (
+        /*[in]*/ BSTR JLWVxU_VEeJG_CCzKKt,
+        /*[out,retval]*/ long * dpfM_dNMedn ) = 0;
+      virtual HRESULT __stdcall raw_gHhUtP (
+        /*[in]*/ long aKbQPY04,
+        /*[in]*/ BSTR nDgp_dRUb_53,
+        /*[out,retval]*/ long * TDYCigs_GcwRgA_14 ) = 0;
+      virtual HRESULT __stdcall raw_wutdDQyrIDfLa (
+        /*[out,retval]*/ long * CPjJ_OwoJdp_mmIH ) = 0;
+      virtual HRESULT __stdcall raw_SetFindPicMultithreadCount (
+        /*[in]*/ long count,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_ubTYbvQcAhRhJG (
+        /*[in]*/ long qrlFm_RovVJ,
+        /*[in]*/ BSTR HardcJ85,
+        /*[in]*/ __int64 GQVyAy_wJzG_60,
+        /*[in]*/ __int64 LKFqcMJ_YBNoI_95,
+        /*[in]*/ long kaMT20,
+        /*[out,retval]*/ BSTR * rAwUg60 ) = 0;
+      virtual HRESULT __stdcall raw_GetSystemInfo (
+        /*[in]*/ BSTR type,
+        /*[in]*/ long method,
+        /*[out,retval]*/ BSTR * ret ) = 0;
+      virtual HRESULT __stdcall raw_omFlDljKXBzr (
+        /*[in]*/ long OoglwAj_beSfmbP_27,
+        /*[in]*/ long QCNL93,
+        /*[out,retval]*/ long * tojHcP_ZZxAlS ) = 0;
+      virtual HRESULT __stdcall raw_vJsM (
+        /*[in]*/ long CEDvvp79,
+        /*[in]*/ long vkvJ_rTkkyLl_56,
+        /*[in]*/ BSTR QsoVxM_wnAex_35,
+        /*[in]*/ double BxNJ94,
+        /*[out,retval]*/ long * wYoXY_iEmtD ) = 0;
+      virtual HRESULT __stdcall raw_lnsVQyQXtN (
+        /*[in]*/ BSTR lsAg_ToIuQ_hufxIc,
+        /*[in]*/ BSTR UbLN_yDop_PGtqq,
+        /*[in]*/ BSTR nkmlHz_GSec_47,
+        /*[in]*/ BSTR rSgJZdF_YRTg_pGMUrNr,
+        /*[in]*/ BSTR AnhKW63,
+        /*[out,retval]*/ long * SEWIYF_tGbqPcM_eQyeG ) = 0;
+      virtual HRESULT __stdcall raw_rRboNbaYp (
+        /*[in]*/ long HvdxD_uQMbWPJ_eEiQfKK,
+        /*[in]*/ long nqvc_FHDWvSq_53,
+        /*[in]*/ long vunhVG_IjEf_28,
+        /*[in]*/ long AZBHAG_YMHKQbO_42,
+        /*[in]*/ BSTR bMdz_BcLo_19,
+        /*[in]*/ BSTR vQZaY_McVRks_07,
+        /*[in]*/ double evsc78,
+        /*[out]*/ VARIANT * bspygG_GWjH_ZWgS,
+        /*[out]*/ VARIANT * yijxP_BQuEzKn,
+        /*[out,retval]*/ BSTR * fAYuJj_AbszdQl ) = 0;
+      virtual HRESULT __stdcall raw_ylmrWTewlkPVA (
+        /*[out,retval]*/ long * KhWFCm_OhVSCOv_20 ) = 0;
+      virtual HRESULT __stdcall raw_YnVceKVtCXUgG (
+        /*[in]*/ long HIZHKRe_jsdaAhZ_liNP,
+        /*[out,retval]*/ long * doun_oFDpNIm_QjUTQa ) = 0;
+      virtual HRESULT __stdcall raw_apSGYruRgRHSdc (
+        /*[out,retval]*/ long * zspwmJ95 ) = 0;
+      virtual HRESULT __stdcall raw_sxkMdn (
+        /*[in]*/ long ABjvfJo_VEqvJL,
+        /*[in]*/ __int64 sExkgq_pJEx,
+        /*[in]*/ float TtqXko54,
+        /*[out,retval]*/ long * kkWc_uMUC_98 ) = 0;
+      virtual HRESULT __stdcall raw_wTagaJRrLC (
+        /*[in]*/ long TeWw_mbDpZVO_09,
+        /*[in]*/ long Ikxj97,
+        /*[in]*/ long pKvOqKf_nRBQyLV_vxhFn,
+        /*[in]*/ long OdgPN56,
+        /*[in]*/ BSTR ACBnu_eDoqRTM_Qvqu,
+        /*[in]*/ double dUtcNmn_GiiHMr,
+        /*[out,retval]*/ BSTR * AdTnMhz_pYyZi_39 ) = 0;
+      virtual HRESULT __stdcall raw_ibKGEhIW (
+        /*[out,retval]*/ long * jwWED_ctgLN ) = 0;
+      virtual HRESULT __stdcall raw_JeugaNIMyZHzNT (
+        /*[in]*/ long iWkBMxb_pAEw_rFNbk,
+        /*[in]*/ BSTR bQsC_tVSrrnF,
+        /*[in]*/ double sFWWbDA_tkQfxZ_82,
+        /*[in]*/ double cImV_hkXXx,
+        /*[in]*/ long LbeswoI_XLbCyDq_46,
+        /*[in]*/ long oOscN_AHARuSs_94,
+        /*[in]*/ long wWoL_ZhADcTN,
+        /*[out,retval]*/ BSTR * pEOjH_KMEY_YfQIRTY ) = 0;
+      virtual HRESULT __stdcall raw_FindPicSimMemEx (
+        /*[in]*/ long x1,
+        /*[in]*/ long y1,
+        /*[in]*/ long x2,
+        /*[in]*/ long y2,
+        /*[in]*/ BSTR pic_info,
+        /*[in]*/ BSTR delta_color,
+        /*[in]*/ long sim,
+        /*[in]*/ long dir,
+        /*[out,retval]*/ BSTR * ret ) = 0;
+      virtual HRESULT __stdcall raw_AyPxFeIA (
+        /*[in]*/ long TrPO_nQjzQ_66,
+        /*[in]*/ long GUjIFMs_AjEKZ_30,
+        /*[in]*/ BSTR ZABpqM_IRkq_oeJln,
+        /*[out,retval]*/ long * HgTdXFP_Fhpp ) = 0;
+      virtual HRESULT __stdcall raw_ylWvyRZCpUBqh (
+        /*[in]*/ long BQEDg_LEMUle,
+        /*[in]*/ BSTR XOdxU_auCu_eWiLx,
+        /*[out,retval]*/ long * ticZ_luSBC_GNxAQ ) = 0;
+      virtual HRESULT __stdcall raw_iUiXNQIAu (
+        /*[in]*/ long qTIpt_jdwyGc_33,
+        /*[in]*/ BSTR ZMbndrg69,
+        /*[in]*/ long CTLnlq_Vwcu,
+        /*[out,retval]*/ long * Dvqjpw_aTAhk_DosV ) = 0;
+      virtual HRESULT __stdcall raw_AfAp (
+        /*[in]*/ BSTR NHvfCGP_siBuAeK_pTLi,
+        /*[out,retval]*/ long * mGNxGp_sxfBD ) = 0;
+      virtual HRESULT __stdcall raw_ErpTTmowuFpLgSo (
+        /*[in]*/ long hitKFOj_ZBjw_76,
+        /*[in]*/ __int64 rTBq_EaTEH_02,
+        /*[out,retval]*/ double * FpVW_nzTA_XlEihIE ) = 0;
+      virtual HRESULT __stdcall raw_mLgYfViL (
+        /*[in]*/ long shLW61,
+        /*[in]*/ long JMFP_pQWUvmJ_28,
+        /*[out,retval]*/ BSTR * yKXtSG_cSxXDz_wMtXJlf ) = 0;
+      virtual HRESULT __stdcall raw_xkVxZM (
+        /*[in]*/ long HlwHuPb_OpnObkh_73,
+        /*[in]*/ long gqHBx_tIske_wfPViJI,
+        /*[in]*/ long uxWTW12,
+        /*[in]*/ long DAaw_oahjoIC_02,
+        /*[in]*/ BSTR byktgYl_bzeBQbr_FgOf,
+        /*[in]*/ BSTR IOob_FaSYomi_76,
+        /*[in]*/ double AtDe_uyuLW,
+        /*[in]*/ long iLlUSY24,
+        /*[out,retval]*/ BSTR * sEjdwy81 ) = 0;
+      virtual HRESULT __stdcall raw_rFugGCYhsYL (
+        /*[in]*/ long jKnfXB_vxIBo,
+        /*[out,retval]*/ long * XJTVIcZ_qjtmvs_SvSt ) = 0;
+      virtual HRESULT __stdcall raw_dIHVAmWAaQtQmZo (
+        /*[in]*/ long CmDl_hTxT_96,
+        /*[in]*/ long PLRYCfk_LrlJAPn,
+        /*[in]*/ long WxBsAXT_lfpz_MFbnDpf,
+        /*[in]*/ long rFVvJ_KDwYg_lGIgvu,
+        /*[in]*/ BSTR pAPYd71,
+        /*[in]*/ long dfGB92,
+        /*[out,retval]*/ long * eJEZqfA_isHQzut_IJmD ) = 0;
+      virtual HRESULT __stdcall raw_AXHPt (
+        /*[in]*/ long dvuxW13,
+        /*[in]*/ long slYLhYO21,
+        /*[in]*/ long SftUnAf_xAhBZnx_aTeWtsP,
+        /*[in]*/ long hAira_MbDW,
+        /*[in]*/ BSTR SpAi_Vxbtdun_73,
+        /*[in]*/ BSTR sJvaIB14,
+        /*[in]*/ double kdsJwN52,
+        /*[in]*/ BSTR PQdGwL_zwEXK,
+        /*[in]*/ long tsrPxqv_Xkmm_qlhmU,
+        /*[in]*/ long FMJj_QmRJgqc_06,
+        /*[out,retval]*/ BSTR * okuS_gCxEE_ixseV ) = 0;
+      virtual HRESULT __stdcall raw_FWyUw (
+        /*[out,retval]*/ long * lPDj_AFDk_ltmfS ) = 0;
+      virtual HRESULT __stdcall raw_cqxWB (
+        /*[in]*/ BSTR pwxQ08,
+        /*[in]*/ BSTR Jndoe_JwCeXo,
+        /*[in]*/ long ChDvvi_xbVty_ykrDn,
+        /*[out,retval]*/ long * HDKMgBs_ciJqk_16 ) = 0;
+      virtual HRESULT __stdcall raw_kkhgiY (
+        /*[in]*/ __int64 BScO_eLKtX_44,
+        /*[in]*/ long sFxqszX_lXEo_GNpzUy,
+        /*[out,retval]*/ BSTR * lodqv_oqnDjtC_26 ) = 0;
+      virtual HRESULT __stdcall raw_SetShowAsmErrorMsg (
+        /*[in]*/ long show,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_ClVaaaQqDk (
+        /*[in]*/ long JsyMACN_uZadR,
+        /*[in]*/ long qGbw_WFQeal_09,
+        /*[out,retval]*/ long * DQwuM_VIfI ) = 0;
+      virtual HRESULT __stdcall raw_gcsWIzpk (
+        /*[in]*/ __int64 SPNJz_UfIO_81,
+        /*[out,retval]*/ long * gJjhVl_Rpyix_Woot ) = 0;
+      virtual HRESULT __stdcall raw_fLzmTra (
+        /*[in]*/ long Usnle15,
+        /*[out,retval]*/ long * piGmhKW_DryCita ) = 0;
+      virtual HRESULT __stdcall raw_gcXn (
+        /*[in]*/ long nonzSW_ZUwoB_99,
+        /*[in]*/ long ipPrgSd_mmrMpNo_QBZceJ,
+        /*[in]*/ long pzfVZl_PVAfw_70,
+        /*[in]*/ long kEVG_kplbfF_98,
+        /*[in]*/ BSTR IYgflVE_NKsikTg_GSkEa,
+        /*[in]*/ BSTR mgDv_YjHI_PCqic,
+        /*[in]*/ double ikSlF_nrHYEPk_52,
+        /*[in]*/ long nRmaNhF79,
+        /*[out]*/ VARIANT * ZBNUA_CqfpW_DgJnB,
+        /*[out]*/ VARIANT * wmzVs_dfNjQUe_KjItQb,
+        /*[out,retval]*/ long * Fcxxatp17 ) = 0;
+      virtual HRESULT __stdcall raw_CgcQEv (
+        /*[in]*/ long mvnL_JtcCPN_knxUsK,
+        /*[in]*/ BSTR qSueuLD_FnVE_HtfHcTk,
+        /*[in]*/ long qpLQQfA_tEICu,
+        /*[in]*/ BSTR mVosscC_gyUv_99,
+        /*[out,retval]*/ long * dCPx78 ) = 0;
+      virtual HRESULT __stdcall raw_mgDcnde (
+        /*[in]*/ long AXFHA_HRNcUZ_zLepwZD,
+        /*[in]*/ __int64 gScEKfa_rLpa_39,
+        /*[in]*/ long tifXYBz_uZsquH_56,
+        /*[in]*/ __int64 hQMXxX_ZEXE,
+        /*[out,retval]*/ long * zWadzK_TwFaZVN_82 ) = 0;
+      virtual HRESULT __stdcall raw_mvyy (
+        /*[in]*/ long gTIdAc_OtRqeum_58,
+        /*[out,retval]*/ long * rpVcrU69 ) = 0;
+      virtual HRESULT __stdcall raw_JIewozgKML (
+        /*[in]*/ BSTR FSABR_mZxtIl_SeVJuV,
+        /*[in]*/ long SNxsfXC33,
+        /*[in]*/ long sNvcx_pUqHFU_70,
+        /*[out,retval]*/ BSTR * LFQUFXk_UNlMLx_87 ) = 0;
+      virtual HRESULT __stdcall raw_QYMmvGPJRWkAli (
+        /*[in]*/ long zIJp28,
+        /*[in]*/ long Jdclm23,
+        /*[out,retval]*/ long * tvNrgTE_znGT ) = 0;
+      virtual HRESULT __stdcall raw_AmCT (
+        /*[in]*/ long HjcVzzK_JkSks_82,
+        /*[in]*/ __int64 vNwYWs55,
+        /*[in]*/ long KYSF74,
+        /*[out,retval]*/ __int64 * YdMM_TYgfTx_TAAAe ) = 0;
+      virtual HRESULT __stdcall raw_iqycmha (
+        /*[in]*/ BSTR EqemY_IRAKj_yrXupQw,
+        /*[out,retval]*/ long * kVYvF_gMpm_91 ) = 0;
+      virtual HRESULT __stdcall raw_aUdX (
+        /*[in]*/ long gsbuS79,
+        /*[out,retval]*/ long * HbeFgaJ_NRxbaCw ) = 0;
+      virtual HRESULT __stdcall raw_EmizmgUgWLnqosC (
+        /*[in]*/ long QrAXRQ85,
+        /*[in]*/ long SVPkhN_WSsq_jJqLnzN,
+        /*[out,retval]*/ __int64 * qZKY_SuVq_QWeqbG ) = 0;
+      virtual HRESULT __stdcall raw_eeatxMaIrNbef (
+        /*[out,retval]*/ BSTR * Gzijnj_ssll_10 ) = 0;
+      virtual HRESULT __stdcall raw_cddmICJHrzjQW (
+        /*[out,retval]*/ long * mKse_sSDUe_82 ) = 0;
+      virtual HRESULT __stdcall raw_hWlQBRflJ (
+        /*[out,retval]*/ long * fAuxsD63 ) = 0;
+      virtual HRESULT __stdcall raw_FindPicSimMem (
+        /*[in]*/ long x1,
+        /*[in]*/ long y1,
+        /*[in]*/ long x2,
+        /*[in]*/ long y2,
+        /*[in]*/ BSTR pic_info,
+        /*[in]*/ BSTR delta_color,
+        /*[in]*/ long sim,
+        /*[in]*/ long dir,
+        /*[out]*/ VARIANT * x,
+        /*[out]*/ VARIANT * y,
+        /*[out,retval]*/ long * ret ) = 0;
+      virtual HRESULT __stdcall raw_EfQWlTRACvG (
+        /*[in]*/ long EnamjRx_hZVYoKn,
+        /*[in]*/ long PgDOpE_crZv_15,
+        /*[in]*/ long RjrM_NNMV_92,
+        /*[in]*/ long BqEaGPg_jPjVCh,
+        /*[in]*/ BSTR zhUed_Covju,
+        /*[in]*/ BSTR XZwK_QvknXFG_62,
+        /*[in]*/ double dNEDk67,
+        /*[out,retval]*/ BSTR * kbycdjZ87 ) = 0;
+      virtual HRESULT __stdcall raw_CrSpXMQvVHSKr (
+        /*[in]*/ BSTR XzvqJuP_HQdhSmz_50,
+        /*[in]*/ BSTR EHyImT_uKGOlk,
+        /*[in]*/ BSTR pqWR_Fpfb,
+        /*[in]*/ BSTR PXjLq_SsQQPlY,
+        /*[out,retval]*/ BSTR * gIvfZW_FIxsbQQ_QnGxhAr ) = 0;
+      virtual HRESULT __stdcall raw_tNwQulLDoACupE (
+        /*[in]*/ long yBuyEI_dlkwAe_lrIQ,
+        /*[out,retval]*/ long * QXPr_ybWmXk_bMTloC ) = 0;
+      virtual HRESULT __stdcall raw_Zawhddc (
+        /*[in]*/ float NmCDZN_LjvnwQw_44,
+        /*[out,retval]*/ BSTR * rbFQDjf_OlJh ) = 0;
+      virtual HRESULT __stdcall raw_vfcha (
+        /*[in]*/ BSTR YjrXJx_yCwUqx_gVCP,
+        /*[out,retval]*/ long * tEnbuNQ_ropug_uTJY ) = 0;
+      virtual HRESULT __stdcall raw_ZMzHRYyWJBKjzD (
+        /*[in]*/ long ThiH84,
+        /*[in]*/ BSTR NOdg_Jtvi,
+        /*[in]*/ BSTR NzzCEZ_mTmxeeh_30,
+        /*[in]*/ long rsuUe_MQvEVdA_69,
+        /*[out,retval]*/ BSTR * xppj_gqwSfTc_45 ) = 0;
+      virtual HRESULT __stdcall raw_GIRCDKww (
+        /*[in]*/ long qHWO_JCshe_77,
+        /*[in]*/ long lyEmH26,
+        /*[in]*/ long IHkdbfX_Rxod_32,
+        /*[in]*/ long KfjAkB_DFSUSv_LdhkGRW,
+        /*[in]*/ BSTR oSZts_yspql_uSunuxj,
+        /*[in]*/ BSTR cBkBgV_xAwvX,
+        /*[out,retval]*/ BSTR * UVKN_ayUJ_ZXjbr ) = 0;
+      virtual HRESULT __stdcall raw_ybUknvZFjA (
+        /*[in]*/ long jzMrj57,
+        /*[in]*/ BSTR RSnQaq12,
+        /*[in]*/ BSTR wyrHAA_uhjO_69,
+        /*[out,retval]*/ BSTR * RWNLxi_PoziLgh ) = 0;
+      virtual HRESULT __stdcall raw_InHZIkxJxkBMqi (
+        /*[out,retval]*/ BSTR * MvdQS95 ) = 0;
+      virtual HRESULT __stdcall raw_neQPkrq (
+        /*[out,retval]*/ long * rOmZP_zTZXDwh ) = 0;
+      virtual HRESULT __stdcall raw_vJjM (
+        /*[out,retval]*/ long * MwzAo26 ) = 0;
+      virtual HRESULT __stdcall raw_jDBKzdeQaJGfsc (
+        /*[out,retval]*/ BSTR * JCoHE20 ) = 0;
+      virtual HRESULT __stdcall raw_bMjJ (
+        /*[in]*/ long ExFPe24,
+        /*[in]*/ __int64 PMkvGP_VjEaip_msGxeE,
+        /*[in]*/ long AWNjHeu_EQfDT,
+        /*[out,retval]*/ BSTR * uobOrZ06 ) = 0;
+      virtual HRESULT __stdcall raw_gkIkisUS (
+        /*[out,retval]*/ long * FEUNp_eNhJGs ) = 0;
+      virtual HRESULT __stdcall raw_uGiFqltIWjMoLFw (
+        /*[in]*/ long sErrVy_fzvYJX,
+        /*[in]*/ long VBQdI78,
+        /*[in]*/ long hNWC_OSWGb_cEvag,
+        /*[in]*/ long hyowyeR_Jasx,
+        /*[in]*/ BSTR AhFiVl_XFttb_WkTL,
+        /*[in]*/ BSTR FNeBHz_UVLR_24,
+        /*[in]*/ double AieFetY_roQzRKe_00,
+        /*[in]*/ BSTR lueR_dDtcte,
+        /*[in]*/ long QYHV_jFRL_53,
+        /*[in]*/ long yrwpAWe25,
+        /*[out]*/ VARIANT * NzaMulK_GLRVW_fjkm,
+        /*[out]*/ VARIANT * ArjYjz_RXYVDu_qvmGDgv,
+        /*[out,retval]*/ long * LdTFN_dtppBuo_YLTmv ) = 0;
+      virtual HRESULT __stdcall raw_oKjgMpYpMlwRxYh (
+        /*[in]*/ long bsrF_KmOSRqs_08,
+        /*[out,retval]*/ long * JBdM_oSlaN_99 ) = 0;
+      virtual HRESULT __stdcall raw_tBjSdvlP (
+        /*[in]*/ long lwqW09,
+        /*[out,retval]*/ BSTR * EXfFQC39 ) = 0;
+      virtual HRESULT __stdcall raw_FindPicSimEx (
+        /*[in]*/ long x1,
+        /*[in]*/ long y1,
+        /*[in]*/ long x2,
+        /*[in]*/ long y2,
+        /*[in]*/ BSTR pic_name,
+        /*[in]*/ BSTR delta_color,
+        /*[in]*/ long sim,
+        /*[in]*/ long dir,
+        /*[out,retval]*/ BSTR * ret ) = 0;
+      virtual HRESULT __stdcall raw_LbeqQKf (
+        /*[in]*/ long jnaSIUY_sAsn_92,
+        /*[in]*/ long xATY80,
+        /*[in]*/ long oHTgZh54,
+        /*[in]*/ long sTMq_WMooc_fTNNHO,
+        /*[in]*/ long AXgHB69,
+        /*[out,retval]*/ long * CvmB_cUsX_Itoez ) = 0;
+      virtual HRESULT __stdcall raw_wKCvPQdZSluXTfK (
+        /*[in]*/ BSTR apgKy_EQWOTmM_SulH,
+        /*[out,retval]*/ long * nPlJyL22 ) = 0;
+      virtual HRESULT __stdcall raw_fpojRfrBFgTXqm (
+        /*[in]*/ long AvaFSl_ZYiwYd_BcBkVw,
+        /*[in]*/ BSTR qHVDn35,
+        /*[in]*/ long SBYIuuV_EKit,
+        /*[in]*/ BSTR imhnqrm_qipNqR_24,
+        /*[out,retval]*/ long * hOriB_pOAMK_zDKlNmV ) = 0;
+      virtual HRESULT __stdcall raw_erQE (
+        /*[in]*/ long bdJWF_pGQSg_21,
+        /*[out,retval]*/ BSTR * gRSxrn_aVnCAFN_91 ) = 0;
+      virtual HRESULT __stdcall raw_tvHQxoTUfo (
+        /*[in]*/ long Dxzre_yznZ_QSCLECg,
+        /*[out,retval]*/ long * UIbNkJO_wmYPSg_bXsU ) = 0;
+      virtual HRESULT __stdcall raw_vMDetXF (
+        /*[in]*/ long LutUDe_FdizA,
+        /*[out,retval]*/ long * wxbQLV_QERK_65 ) = 0;
+      virtual HRESULT __stdcall raw_gyzqtup (
+        /*[in]*/ long OYUl_FlYIFcQ,
+        /*[in]*/ long ingUxDt31,
+        /*[in]*/ long elJjve33,
+        /*[in]*/ long ipmHGGK_DIPMh_NExLqp,
+        /*[in]*/ BSTR PvmKS_PWhusjN_jjbCGj,
+        /*[in]*/ double hSAIHm_zkyUyUE_NEyRG,
+        /*[in]*/ long hERB_rvCM_97,
+        /*[out]*/ VARIANT * NUhRSY54,
+        /*[out]*/ VARIANT * zXrQo_PPRIH_57,
+        /*[out,retval]*/ long * KmHDS_oNocRwz_59 ) = 0;
+      virtual HRESULT __stdcall raw_HcIblEajpY (
+        /*[in]*/ long ivpXPu_KTpoyK_DBbnpY,
+        /*[in]*/ BSTR vlWTwXK_BMxXg_61,
+        /*[in]*/ long xdYq_XzERWBL,
+        /*[in]*/ __int64 lnBO63,
+        /*[out,retval]*/ long * gyOr70 ) = 0;
+      virtual HRESULT __stdcall raw_GGnTCVFsG (
+        /*[in]*/ long oMDpmeE_ykYbRk,
+        /*[out,retval]*/ BSTR * mDvH_bqhiA ) = 0;
+      virtual HRESULT __stdcall raw_lKZNLLekQMAV (
+        /*[in]*/ BSTR Biob_Vsxcpm_egiyyy,
+        /*[in]*/ BSTR HaDUWvu_oLyVric_UwPvy,
+        /*[out,retval]*/ long * LWOO_KZMA_15 ) = 0;
+      virtual HRESULT __stdcall raw_sntzttkZ (
+        /*[out,retval]*/ long * zCuoXM69 ) = 0;
+      virtual HRESULT __stdcall raw_VFmJKysQ (
+        /*[in]*/ BSTR eXwYIB_QfSubz_40,
+        /*[in]*/ BSTR cCyyOn_pDBJNya_10,
+        /*[in]*/ BSTR eCGTS_JCSokwZ_CPjCKV,
+        /*[out,retval]*/ long * XYjD_xmJd_bOgYIMH ) = 0;
+      virtual HRESULT __stdcall raw_CXhsKTVP (
+        /*[in]*/ long ClOXPu53,
+        /*[in]*/ long Aocki_aeYE,
+        /*[in]*/ long BmHs_aQtRtnP_22,
+        /*[in]*/ BSTR SsZpRnw_dsonB_QZOMEK,
+        /*[in]*/ BSTR JTgb_BCSgrGf_50,
+        /*[in]*/ double qQscEz_QPHfu_jaUtXhF,
+        /*[out,retval]*/ long * YDJEkrY_vBoLE_fIAao ) = 0;
+      virtual HRESULT __stdcall raw_KlrglrBvLekD (
+        /*[out,retval]*/ long * MvdBqS_LQOxZ_62 ) = 0;
+      virtual HRESULT __stdcall raw_EvtzSIpcmPyJKP (
+        /*[in]*/ long plOM_jSflIc,
+        /*[in]*/ long kOtNh_UQHKK,
+        /*[in]*/ long mPcM_ZOxGr_wBYf,
+        /*[in]*/ long Ihbs_KVyUtx_cMNilj,
+        /*[in]*/ BSTR jxlEbEH_qqdS,
+        /*[in]*/ BSTR NCnIQkQ_YfcW_45,
+        /*[in]*/ double hJWUI_tZLml_50,
+        /*[in]*/ long AONW_XDUGeUC,
+        /*[out]*/ VARIANT * yGhNg_Embues_ikTWG,
+        /*[out]*/ VARIANT * jZlzrJ81,
+        /*[out,retval]*/ BSTR * qmXwHSa77 ) = 0;
+      virtual HRESULT __stdcall raw_UJBla (
+        /*[in]*/ BSTR jpUIk_yOMM_16,
+        /*[out,retval]*/ BSTR * giVwjq_IZIyC ) = 0;
+      virtual HRESULT __stdcall raw_xgJoHeJfu (
+        /*[out,retval]*/ long * HQCaXE12 ) = 0;
+      virtual HRESULT __stdcall raw_AuwdPQL (
+        /*[in]*/ long TRSimD_IiklV_35,
+        /*[in]*/ long eraFdR_EVkNBB,
+        /*[in]*/ long UOwFYPx_OKvRUJu_71,
+        /*[in]*/ long veKpMFQ_ZGgVD_54,
+        /*[in]*/ BSTR TqUL03,
+        /*[in]*/ double uQwm_kHQr_oqhe,
+        /*[in]*/ long WFzHnU_qcdK_RsEF,
+        /*[out,retval]*/ BSTR * kWeu_BAwfjX ) = 0;
+      virtual HRESULT __stdcall raw_JkgbWQCpeyoZS (
+        /*[in]*/ long bqKmoo_HyRfJ,
+        /*[out,retval]*/ long * sNBedM_lXZIIHb ) = 0;
+      virtual HRESULT __stdcall raw_onhkPtfHoDZRQYR (
+        /*[out,retval]*/ BSTR * APwz_GUQb_61 ) = 0;
+      virtual HRESULT __stdcall raw_pynkVVjezQytB (
+        /*[in]*/ long GGhv_KHzFB_hJIifek,
+        /*[in]*/ long wvSxF_PANox_jUMsqgk,
+        /*[out,retval]*/ BSTR * bfNPJ_PEPVg_30 ) = 0;
+      virtual HRESULT __stdcall raw_wAIvgnQkFJwVlnm (
+        /*[in]*/ BSTR ArbO_SstLm_KonZ,
+        /*[in]*/ BSTR BsTdM_evulUxd_JJAprSz,
+        /*[out,retval]*/ long * SePhNz_MnRhuV_60 ) = 0;
+      virtual HRESULT __stdcall raw_FindPicSimE (
+        /*[in]*/ long x1,
+        /*[in]*/ long y1,
+        /*[in]*/ long x2,
+        /*[in]*/ long y2,
+        /*[in]*/ BSTR pic_name,
+        /*[in]*/ BSTR delta_color,
+        /*[in]*/ long sim,
+        /*[in]*/ long dir,
+        /*[out,retval]*/ BSTR * ret ) = 0;
+      virtual HRESULT __stdcall raw_GoiXUXFgrCcYsb (
+        /*[in]*/ BSTR XtMo74,
+        /*[in]*/ long ecuBtj_sghKxY_20,
+        /*[in]*/ long uyoJRCU_GpIy_80,
+        /*[in]*/ long XSKV_UDeDs_hxxObGh,
+        /*[in]*/ long QdVpeSj_wnNKCd,
+        /*[in]*/ long hddaF90,
+        /*[out,retval]*/ BSTR * wcJv_AoQVw_XuqpSvK ) = 0;
+      virtual HRESULT __stdcall raw_FcrZhzlM (
+        /*[out,retval]*/ long * iTOfVt_lNytCCg ) = 0;
+      virtual HRESULT __stdcall raw_QuJVmQN (
+        /*[in]*/ long ardTDp16,
+        /*[in]*/ long VxqMr_CsYYqI,
+        /*[in]*/ long bfVH_zKXm_YuTxP,
+        /*[in]*/ long dBaJ_ymAOI,
+        /*[in]*/ BSTR bJSrjNj_lHxd_22,
+        /*[in]*/ long CjCTZ84,
+        /*[out,retval]*/ long * XgUbA_sGDD_kFdrRSN ) = 0;
+      virtual HRESULT __stdcall raw_NUdeKeBp (
+        /*[in]*/ long ypTi97,
+        /*[in]*/ long jgHCWSF88,
+        /*[in]*/ long uSmUqr_umoVp,
+        /*[in]*/ long UdfyCM_KlFEAu_xxrB,
+        /*[in]*/ BSTR rpPJPd_aQwgYW,
+        /*[in]*/ BSTR dxpdK06,
+        /*[in]*/ double ZXNJKB74,
+        /*[out]*/ VARIANT * odGdfR_CubOD,
+        /*[out]*/ VARIANT * cBIPorx_uPwrdgs_45,
+        /*[out,retval]*/ BSTR * WaEP70 ) = 0;
+      virtual HRESULT __stdcall raw_yFszcrWL (
+        /*[in]*/ BSTR UanuM_hOTHsx_20,
+        /*[out,retval]*/ BSTR * ryrO_dNaP_64 ) = 0;
+      virtual HRESULT __stdcall raw_JYql (
+        /*[in]*/ long QKxLUNG_LRVRD_hMOBx,
+        /*[in]*/ BSTR KvfBqH_iAWLm_XvOfKPI,
+        /*[in]*/ BSTR TWRmq12,
+        /*[out,retval]*/ long * cPOxN_CkKJO_VtzVyzT ) = 0;
+      virtual HRESULT __stdcall raw_kKYEIQpvNZzai (
+        /*[in]*/ long cplq_llHpdSg_Pcec,
+        /*[out,retval]*/ long * NWsIzn_dqrCwRl_90 ) = 0;
+      virtual HRESULT __stdcall raw_VSiZCsrDA (
+        /*[in]*/ long iNjOOL_gEFqeQ_UfLBarD,
+        /*[in]*/ long XMeM_MAfyaC_73,
+        /*[in]*/ long QYBizB40,
+        /*[in]*/ BSTR gxtGLcS_HZyTn_SGRTzFY,
+        /*[in]*/ long aHNgFUN_weBjm_olMjtQH,
+        /*[in]*/ long sPLsR_dTlrjA,
+        /*[out,retval]*/ long * IFMasjB50 ) = 0;
+      virtual HRESULT __stdcall raw_MmySBfQuBqI (
+        /*[out,retval]*/ long * iIqZx_Rqqd_WEHnlzc ) = 0;
+      virtual HRESULT __stdcall raw_qWgKzCkrMIo (
+        /*[in]*/ long xFSW_ELTqMAh_84,
+        /*[in]*/ BSTR RDeg_ajtaJ_exPnLi,
+        /*[in]*/ BSTR nMvecCi_zMLOzP_NRPMTp,
+        /*[in]*/ BSTR VyQjAEg19,
+        /*[in]*/ BSTR ftEeLn_BeTuK,
+        /*[in]*/ long mYFOm_zEeGw_40,
+        /*[out,retval]*/ long * weMKasB_dBpG_OFrfKDv ) = 0;
+      virtual HRESULT __stdcall raw_DnsBaJFsMyNFb (
+        /*[in]*/ long DLleUql_UVUS_34,
+        /*[out,retval]*/ BSTR * OtdxlL_SzArA_vxULkh ) = 0;
+      virtual HRESULT __stdcall raw_KseSTrzeDD (
+        /*[in]*/ BSTR AkXzqqZ05,
+        /*[in]*/ BSTR ruSMBip_CSNQG,
+        /*[in]*/ BSTR lOMXdp_omvBm_bMJFXhR,
+        /*[out,retval]*/ long * ZGJn23 ) = 0;
+      virtual HRESULT __stdcall raw_WRatR (
+        /*[in]*/ long FOMB59,
+        /*[in]*/ BSTR rtiwM_iaIZ,
+        /*[in]*/ long ImWj10,
+        /*[in]*/ long hQidy_xeRi_XDoXrie,
+        /*[out,retval]*/ BSTR * QehEwl_jlgcz_03 ) = 0;
+      virtual HRESULT __stdcall raw_enavVASTnso (
+        /*[in]*/ long CYMmKhH_yyCC_itZq,
+        /*[in]*/ long uDZcA_btfzd,
+        /*[in]*/ long uymwNS_OSJEC,
+        /*[out,retval]*/ long * DJfQ_HSbsJ_JBcA ) = 0;
+      virtual HRESULT __stdcall raw_ahrtFMyYfx (
+        /*[in]*/ long CTkLaXW98,
+        /*[out,retval]*/ BSTR * oPiqGx_odCnM_49 ) = 0;
+      virtual HRESULT __stdcall raw_GFVIhbXE (
+        /*[out,retval]*/ long * QEVSnmK_TEkvQ ) = 0;
+      virtual HRESULT __stdcall raw_VvZZwvQCIIq (
+        /*[out,retval]*/ long * DJcw33 ) = 0;
+      virtual HRESULT __stdcall raw_ZTKmlwzwBuQr (
+        /*[in]*/ BSTR MGEMEp59,
+        /*[out,retval]*/ long * ZDpcm_cYLK_hRYDp ) = 0;
+      virtual HRESULT __stdcall raw_GMTwNFDtSehjFc (
+        /*[in]*/ double CVjsA84,
+        /*[out,retval]*/ BSTR * yUzQC_SpjOiJ ) = 0;
+      virtual HRESULT __stdcall raw_bqFBeRg (
+        /*[in]*/ long OhFUyd_QKPf_43,
+        /*[in]*/ long ZBxu_syvJb_REBA,
+        /*[in]*/ long puIxsj19,
+        /*[in]*/ long pskb13,
+        /*[in]*/ BSTR RYiWpLH90,
+        /*[in]*/ BSTR lAAG97,
+        /*[in]*/ double vuhicr_bSzC_LwrHpdq,
+        /*[out,retval]*/ BSTR * VLwmO68 ) = 0;
+      virtual HRESULT __stdcall raw_stHJCFYxrMM (
+        /*[in]*/ long WLgmi_Lzmmjp,
+        /*[in]*/ BSTR iarS_iyTTwQ_Tllf,
+        /*[out,retval]*/ __int64 * NErPtj_FJWi_uqZjeNW ) = 0;
+      virtual HRESULT __stdcall raw_wcfiln (
+        /*[in]*/ long hoxseLf_vnReKN_mDBrec,
+        /*[out,retval]*/ BSTR * bdPH_WpMoe_AfSDDIv ) = 0;
+      virtual HRESULT __stdcall raw_NbjGVNpEU (
+        /*[in]*/ long jiWZorr67,
+        /*[in]*/ long dQWb_AcjRISu,
+        /*[in]*/ long kIiA_FpFsbkW,
+        /*[in]*/ BSTR wruBA99,
+        /*[in]*/ BSTR GgBAdn_RWdpWd_NHiJlc,
+        /*[out,retval]*/ long * GNWWo_HCDR_79 ) = 0;
+      virtual HRESULT __stdcall raw_CxpFENSLixLZvAu (
+        /*[in]*/ long OVln_uTXaZu_95,
+        /*[in]*/ long aRSiCde67,
+        /*[out,retval]*/ long * USzPl_dTTISg ) = 0;
+      virtual HRESULT __stdcall raw_UiZNNyxN (
+        /*[in]*/ long ajUB_LQTeWql_12,
+        /*[in]*/ long ILeNC86,
+        /*[out,retval]*/ BSTR * aonmcHJ_IehLw_65 ) = 0;
+      virtual HRESULT __stdcall raw_GYyLlbjoLralAK (
+        /*[in]*/ BSTR RBMDG39,
+        /*[in]*/ BSTR tHMchps_ioTE_38,
+        /*[in]*/ BSTR nmQQ_WOIlC,
+        /*[out,retval]*/ long * OgRb_JiIDzX ) = 0;
+      virtual HRESULT __stdcall raw_WUnrRHdLCwwrqJ (
+        /*[in]*/ BSTR OODAKAb_NuvVdh_claJ,
+        /*[in]*/ long juaT_HbpEeeP,
+        /*[out,retval]*/ long * yDZfzH_wVKyMkK_03 ) = 0;
+      virtual HRESULT __stdcall raw_crviiDaZLoxjsT (
+        /*[in]*/ BSTR MgZUzM98,
+        /*[out,retval]*/ long * DcEhAt71 ) = 0;
+      virtual HRESULT __stdcall raw_PvWElJYsVc (
+        /*[in]*/ long czDABu35,
+        /*[in]*/ long Topf_Bxxomn_87,
+        /*[out,retval]*/ BSTR * NASw_GwXHgk ) = 0;
+      virtual HRESULT __stdcall raw_xZnVFahBPEA (
+        /*[out,retval]*/ long * RyaL_kDItdof ) = 0;
+      virtual HRESULT __stdcall raw_QtagrsQ (
+        /*[in]*/ BSTR Fiurl15,
+        /*[in]*/ BSTR dOpP78,
+        /*[in]*/ BSTR HMrFL_IzayXj_62,
+        /*[out,retval]*/ BSTR * faKM_XbdrNL_zkhLy ) = 0;
+      virtual HRESULT __stdcall raw_xtrsiLJa (
+        /*[in]*/ BSTR VrBTxgR_hcov_fkMJ,
+        /*[in]*/ long rpjjjYH_TsfUP_lSehFo,
+        /*[in]*/ long GoXM_VgCGHhC_69,
+        /*[in]*/ long Bjeqy65,
+        /*[out,retval]*/ BSTR * LtyTEB_FTjLwAL_TTWrKf ) = 0;
+      virtual HRESULT __stdcall raw_azjxdrKS (
+        /*[in]*/ long ftUeDk_qAVeeiJ_gszx,
+        /*[in]*/ long jPyN_Bcgztb,
+        /*[in]*/ BSTR JZTAQT_wyXs_39,
+        /*[in]*/ double hfYNXUe_XqgRNf,
+        /*[out,retval]*/ long * Nccv_qtSQw ) = 0;
+      virtual HRESULT __stdcall raw_RHzJfGeMKNJRdcr (
+        /*[in]*/ long XQJx_whEN_PSMA,
+        /*[out,retval]*/ BSTR * IQHCahX_yjLDXe_FZwb ) = 0;
+};
+
+//
+// Wrapper method implementations
+//
+
+#include "aa328496536.tli"
+
+#pragma pack(pop)

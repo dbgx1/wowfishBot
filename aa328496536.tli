@@ -1,0 +1,2861 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.16.27045.0 (4d0b3c52).
+//
+// d:\重要文件\状态机示例\debug\aa328496536.tli
+//
+// Wrapper implementations for Win32 type library D:\\重要文件\\xsj\\xsj\\aa328496536.dll
+// compiler-generated file created 11/15/21 at 00:58:15 - DO NOT EDIT!
+
+#pragma once
+
+//
+// interface Iqwert wrapper method implementations
+//
+
+inline long Iqwert::gCKdPAaIxYM ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_gCKdPAaIxYM(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline __int64 Iqwert::pLwQvUeF ( long zHWb_Ynfoms_24, __int64 vYVyv_PmdieH, long LMyXuI_fRWbFG_20, long OUxMp_lFlp_upGjVb ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_pLwQvUeF(zHWb_Ynfoms_24, vYVyv_PmdieH, LMyXuI_fRWbFG_20, OUxMp_lFlp_upGjVb, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::FindPicSimMemE ( long x1, long y1, long x2, long y2, _bstr_t pic_info, _bstr_t delta_color, long sim, long dir ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_FindPicSimMemE(x1, y1, x2, y2, pic_info, delta_color, sim, dir, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::XYKEYjHtnBYwLlL ( long QTQwQuN_AmhqU_45, _bstr_t sOfWjj_QlnmG ) {
+    long _result = 0;
+    HRESULT _hr = raw_XYKEYjHtnBYwLlL(QTQwQuN_AmhqU_45, sOfWjj_QlnmG, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lZrcjRXCTyBTn ( long OjEKJm_duzsdo, _bstr_t tGUV_YEoJjMS_55, _bstr_t nrbjHrN_iKGRcXH_07 ) {
+    long _result = 0;
+    HRESULT _hr = raw_lZrcjRXCTyBTn(OjEKJm_duzsdo, tGUV_YEoJjMS_55, nrbjHrN_iKGRcXH_07, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::rblHUdKgfHeB ( long zgpumu_DabGZA_52, long GdbJ_GWGMQkh_57, long fjnB37, long FapwsE_helKqU_26, _bstr_t HKAZAP67, _bstr_t IFcG_eJIoA, double eIsqTiW_VCQvh, long kqhAa_ngFB_GvNNYh ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_rblHUdKgfHeB(zgpumu_DabGZA_52, GdbJ_GWGMQkh_57, fjnB37, FapwsE_helKqU_26, HKAZAP67, IFcG_eJIoA, eIsqTiW_VCQvh, kqhAa_ngFB_GvNNYh, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::VCaEmQVYycL ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_VCaEmQVYycL(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::qItKHDfIuLus ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_qItKHDfIuLus(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::aYjEUNTfe ( long SmsGy_rryFzv_72, long GhKVBN10, long jaqN48, long gqpL_fnqJdJa_fgsmgh, _bstr_t qDxpfn_ECLdu, _bstr_t aoHAfF_usVhu_23, double bACYuKy24, VARIANT * sNPst06, VARIANT * NapGZi_fbwxB ) {
+    long _result = 0;
+    HRESULT _hr = raw_aYjEUNTfe(SmsGy_rryFzv_72, GhKVBN10, jaqN48, gqpL_fnqJdJa_fgsmgh, qDxpfn_ECLdu, aoHAfF_usVhu_23, bACYuKy24, sNPst06, NapGZi_fbwxB, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::QPYAryBPP ( _bstr_t kKztR_Egja ) {
+    long _result = 0;
+    HRESULT _hr = raw_QPYAryBPP(kKztR_Egja, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::MudsayYht ( _bstr_t hVsvDoD_aUuBtHV_FRcmWto, long NCPBkVD_uWoO_TeaPYlI ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_MudsayYht(hVsvDoD_aUuBtHV_FRcmWto, NCPBkVD_uWoO_TeaPYlI, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::FBXGAfHSvE ( long qraHnSJ_zecqW, long PZpcQij_QmdRXd_mhtFS, long iOGvWI_pVlU_NvgzHD, _bstr_t zIDtl_XkrGQ_GhjkVcZ ) {
+    long _result = 0;
+    HRESULT _hr = raw_FBXGAfHSvE(qraHnSJ_zecqW, PZpcQij_QmdRXd_mhtFS, iOGvWI_pVlU_NvgzHD, zIDtl_XkrGQ_GhjkVcZ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::fuSubQatonRcf ( long mgoxCZ_mUUSBZ_83, long YCQhrV_mMpT_18, long Xycw_dlJvdgq_97, long jIatAF_WOFZ_LqUiR, _bstr_t WOjZVLn88, _bstr_t kYVdbOB11, double NjMb_UEJSdu ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_fuSubQatonRcf(mgoxCZ_mUUSBZ_83, YCQhrV_mMpT_18, Xycw_dlJvdgq_97, jIatAF_WOFZ_LqUiR, WOjZVLn88, kYVdbOB11, NjMb_UEJSdu, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::jYgmPEgAlnok ( long fjZIPX_AAzCxW, long bCQv_ebqRe_ZVUb, long SanV_YxCmWeQ_64, long GGRsFhn75, _bstr_t DOyYe_fHXtoB, _bstr_t dkjDNm_xPCWxU_11, double TLRRAD_QHLZly ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_jYgmPEgAlnok(fjZIPX_AAzCxW, bCQv_ebqRe_ZVUb, SanV_YxCmWeQ_64, GGRsFhn75, DOyYe_fHXtoB, dkjDNm_xPCWxU_11, TLRRAD_QHLZly, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::tNCWajNzRr ( long MObnb_BySaAE ) {
+    long _result = 0;
+    HRESULT _hr = raw_tNCWajNzRr(MObnb_BySaAE, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::fqDeQhArTYlI ( _bstr_t XxIuT_NiNBjg, long bHtt_XNpiOE_85, VARIANT * UCtdr_typbYS, VARIANT * DrYHv33 ) {
+    long _result = 0;
+    HRESULT _hr = raw_fqDeQhArTYlI(XxIuT_NiNBjg, bHtt_XNpiOE_85, UCtdr_typbYS, DrYHv33, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lFwR ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_lFwR(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ZcvgPaznKe ( long sxOgahS_pvDPq_wSMOam, _bstr_t Jsojlb55 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ZcvgPaznKe(sxOgahS_pvDPq_wSMOam, Jsojlb55, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::eCaQKCwzJYVgqvj ( _bstr_t XHkUs_ydPoJx_59, long UxAfwt_oNjtrm_WqZJAK ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_eCaQKCwzJYVgqvj(XHkUs_ydPoJx_59, UxAfwt_oNjtrm_WqZJAK, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::UvDc ( _bstr_t uxLPjWS_uiCDG_78, _bstr_t uWpSKT_mKNaIwp_LTqrsQ ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_UvDc(uxLPjWS_uiCDG_78, uWpSKT_mKNaIwp_LTqrsQ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::PcaI ( long RsAM_FBsOz_94, _bstr_t rlnWfo_CsgsXP_51, double NnBCF59 ) {
+    long _result = 0;
+    HRESULT _hr = raw_PcaI(RsAM_FBsOz_94, rlnWfo_CsgsXP_51, NnBCF59, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::PWStm ( _bstr_t ACOlt97 ) {
+    long _result = 0;
+    HRESULT _hr = raw_PWStm(ACOlt97, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::FindPicSim ( long x1, long y1, long x2, long y2, _bstr_t pic_name, _bstr_t delta_color, long sim, long dir, VARIANT * x, VARIANT * y ) {
+    long _result = 0;
+    HRESULT _hr = raw_FindPicSim(x1, y1, x2, y2, pic_name, delta_color, sim, dir, x, y, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::LWBQehxziRwt ( _bstr_t QMfqwz_ErMloYE_22 ) {
+    long _result = 0;
+    HRESULT _hr = raw_LWBQehxziRwt(QMfqwz_ErMloYE_22, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::tvqajshk ( _bstr_t UUTq_Ldbi_31, _bstr_t rVztCZ_IkHi_16 ) {
+    long _result = 0;
+    HRESULT _hr = raw_tvqajshk(UUTq_Ldbi_31, rVztCZ_IkHi_16, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::nRLF ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_nRLF(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::nkimLutGhGaNnH ( _bstr_t bZTFnd74 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_nkimLutGhGaNnH(bZTFnd74, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::PhERsrClpBgzI ( long HrfHvpD_qAQb_twtDbX, VARIANT * zxTuQzn_HDXBQSm, VARIANT * ggVX_KkBuQVy_PTQd, VARIANT * pMBm_YoAPA_Tsexl, VARIANT * IjfiX_NifT_mQoOgY ) {
+    long _result = 0;
+    HRESULT _hr = raw_PhERsrClpBgzI(HrfHvpD_qAQb_twtDbX, zxTuQzn_HDXBQSm, ggVX_KkBuQVy_PTQd, pMBm_YoAPA_Tsexl, IjfiX_NifT_mQoOgY, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::mGXZAKzmDhbv ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_mGXZAKzmDhbv(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::nTAI ( _bstr_t mDXYCYN_fZqkh_ZKucAgn ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_nTAI(mDXYCYN_fZqkh_ZKucAgn, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::opvdnxmrrLoU ( long oQLO_dHIyk_xpHU, long HYnst_ZMCrNGZ_Qzumv ) {
+    long _result = 0;
+    HRESULT _hr = raw_opvdnxmrrLoU(oQLO_dHIyk_xpHU, HYnst_ZMCrNGZ_Qzumv, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::EYGvZ ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_EYGvZ(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::AJdPJJGeB ( long lYWu_qPqqa, _bstr_t drjSxeO43 ) {
+    long _result = 0;
+    HRESULT _hr = raw_AJdPJJGeB(lYWu_qPqqa, drjSxeO43, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::KmoGRVBufLs ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_KmoGRVBufLs(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::phPXi ( _bstr_t VbOWia_rjwu_32 ) {
+    long _result = 0;
+    HRESULT _hr = raw_phPXi(VbOWia_rjwu_32, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::LVLSWHlB ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_LVLSWHlB(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::calc ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_calc(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::cvmvoQAYn ( long IcILvj_zZCu ) {
+    long _result = 0;
+    HRESULT _hr = raw_cvmvoQAYn(IcILvj_zZCu, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::BqiJACLXdqkyQAT ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_BqiJACLXdqkyQAT(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::wRQmXvipGLoBZRl ( long XtwMvUq20 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_wRQmXvipGLoBZRl(XtwMvUq20, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::LlXA ( _bstr_t ilEFam_HCqM, long xLBtm_ynWDwRJ_ebHY ) {
+    long _result = 0;
+    HRESULT _hr = raw_LlXA(ilEFam_HCqM, xLBtm_ynWDwRJ_ebHY, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gjsPx ( long onmEsh_HVXvbP_mFCKxr ) {
+    long _result = 0;
+    HRESULT _hr = raw_gjsPx(onmEsh_HVXvbP_mFCKxr, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::yWkp ( long BlIQTnC_lQqBpt_72, long ZcDde_uOKULjB_36, long JQDx_tAony, long Qdhv_MMtM_BMzUygw, _bstr_t zsbuYx_efPDYd, _bstr_t gRRSTYB_lpMGv, double sKgU_yRfTT_jsHGa, long qYbr_WCprrQ_58 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_yWkp(BlIQTnC_lQqBpt_72, ZcDde_uOKULjB_36, JQDx_tAony, Qdhv_MMtM_BMzUygw, zsbuYx_efPDYd, gRRSTYB_lpMGv, sKgU_yRfTT_jsHGa, qYbr_WCprrQ_58, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::LkYIDRkVfJTJ ( _bstr_t QOuheX93 ) {
+    long _result = 0;
+    HRESULT _hr = raw_LkYIDRkVfJTJ(QOuheX93, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::YjsBVcVT ( _bstr_t sgNDUR79, _bstr_t UqMAIv_vSCZxn, _bstr_t KNYXfvh_WqRRam_QvQCVhV, _bstr_t KzUd_hLeN ) {
+    long _result = 0;
+    HRESULT _hr = raw_YjsBVcVT(sgNDUR79, UqMAIv_vSCZxn, KNYXfvh_WqRRam_QvQCVhV, KzUd_hLeN, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::DmGuardExtract ( _bstr_t type, _bstr_t path ) {
+    long _result = 0;
+    HRESULT _hr = raw_DmGuardExtract(type, path, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::mrbYLFr ( long czryFrl_dWpV_fRfxQgq ) {
+    long _result = 0;
+    HRESULT _hr = raw_mrbYLFr(czryFrl_dWpV_fRfxQgq, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::mbkgovzNQ ( long GSJtYE_oYciW ) {
+    long _result = 0;
+    HRESULT _hr = raw_mbkgovzNQ(GSJtYE_oYciW, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::UaoDzUnJmg ( _bstr_t ujJJ_UFEOo_24, _bstr_t uwVX_IpGDp_23 ) {
+    long _result = 0;
+    HRESULT _hr = raw_UaoDzUnJmg(ujJJ_UFEOo_24, uwVX_IpGDp_23, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::PwYZbewpeQ ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_PwYZbewpeQ(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::XvqGbY ( long eLMYf01, long qPNUw_jpwgy_xEssy, long ZVCsuEM_RXsvpRd_psZj, long FxwZNBS15 ) {
+    long _result = 0;
+    HRESULT _hr = raw_XvqGbY(eLMYf01, qPNUw_jpwgy_xEssy, ZVCsuEM_RXsvpRd_psZj, FxwZNBS15, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::AsqXYdNqBMPUUv ( long hyZysVq_nSCI_05, long TAwLZs_ShkFTr_91, long VKTg22, long NYgk_jozJBEd_NvjoOR, _bstr_t bAomoKz_oYehwvl, _bstr_t IwxTZf_WyhYgeK_12, double EkltSR_WWSORJz, VARIANT * kaThlX80, VARIANT * ONsuEh_fGNc ) {
+    long _result = 0;
+    HRESULT _hr = raw_AsqXYdNqBMPUUv(hyZysVq_nSCI_05, TAwLZs_ShkFTr_91, VKTg22, NYgk_jozJBEd_NvjoOR, bAomoKz_oYehwvl, IwxTZf_WyhYgeK_12, EkltSR_WWSORJz, kaThlX80, ONsuEh_fGNc, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::xyADnWX ( _bstr_t GsqJCm_tIMRK, _bstr_t HBzyIQX_sQgz_84, _bstr_t pYRWcJ37 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_xyADnWX(GsqJCm_tIMRK, HBzyIQX_sQgz_84, pYRWcJ37, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::bXUUrf ( long sWNAMb_zdUw_17, _bstr_t rRKV_WRDew ) {
+    long _result = 0;
+    HRESULT _hr = raw_bXUUrf(sWNAMb_zdUw_17, rRKV_WRDew, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::zQXWK ( long qEXnSN58, long RChM_YfkGokM ) {
+    long _result = 0;
+    HRESULT _hr = raw_zQXWK(qEXnSN58, RChM_YfkGokM, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lpnyHvPvKkNph ( long YgYCGQI_LHasTM_61, long KonZk_mdIOxm_QadRhx, long eMain36, long WINeGKt_UetBW, long SnJF_gUenxd, _bstr_t FMwzRwL_GvwTR_27 ) {
+    long _result = 0;
+    HRESULT _hr = raw_lpnyHvPvKkNph(YgYCGQI_LHasTM_61, KonZk_mdIOxm_QadRhx, eMain36, WINeGKt_UetBW, SnJF_gUenxd, FMwzRwL_GvwTR_27, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::tvfKfFLkzD ( long rFIqpM_HPqX, long nHsK_oXhraXK_47, long RAGyY_EoYghgC, long gpGVnG_babPC, long FUSV_GHbtf_RdtyIGf, _bstr_t eFAqO_GlneF_SPwu, long HsTawq_AFZNE_aaLS, long FXtH_kbmPcnC_51 ) {
+    long _result = 0;
+    HRESULT _hr = raw_tvfKfFLkzD(rFIqpM_HPqX, nHsK_oXhraXK_47, RAGyY_EoYghgC, gpGVnG_babPC, FUSV_GHbtf_RdtyIGf, eFAqO_GlneF_SPwu, HsTawq_AFZNE_aaLS, FXtH_kbmPcnC_51, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gkvLMvxu ( long llyQm_lbNg_54, __int64 bLQs_icKsm, _bstr_t kgJJKE_kqrGOfp ) {
+    long _result = 0;
+    HRESULT _hr = raw_gkvLMvxu(llyQm_lbNg_54, bLQs_icKsm, kgJJKE_kqrGOfp, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::jxyZF ( long aZtb_LGgbQjB, _bstr_t AheddQ_mnurq_62 ) {
+    long _result = 0;
+    HRESULT _hr = raw_jxyZF(aZtb_LGgbQjB, AheddQ_mnurq_62, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::CHZSLUWHe ( _bstr_t cQbn_qXgWj_eoUlKX ) {
+    long _result = 0;
+    HRESULT _hr = raw_CHZSLUWHe(cQbn_qXgWj_eoUlKX, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::nPiwyuqkweb ( _bstr_t QMnz_NMMt_lojqa, _bstr_t PDVayC63, long vRlBRGw_XfYgVQ ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_nPiwyuqkweb(QMnz_NMMt_lojqa, PDVayC63, vRlBRGw_XfYgVQ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::ePkg ( long rsRuBk_RWHpTH, __int64 EBJBf_vRxLfR_58, long eRxvWu92, long QhfnOL_EMdjL_85 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_ePkg(rsRuBk_RWHpTH, EBJBf_vRxLfR_58, eRxvWu92, QhfnOL_EMdjL_85, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::FZIqkVPxGiCqCcv ( _bstr_t sEsmpk35, _bstr_t OiyPLt_yVAj ) {
+    long _result = 0;
+    HRESULT _hr = raw_FZIqkVPxGiCqCcv(sEsmpk35, OiyPLt_yVAj, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::WYWNzbmXJmNwRgx ( long yYxl_RpIw_TGoXi, long pjpMa_YStPrEg, long EXnkIL_XiwOmJL, long bdWDldO_TFvIvJ, long LbCFqun06 ) {
+    long _result = 0;
+    HRESULT _hr = raw_WYWNzbmXJmNwRgx(yYxl_RpIw_TGoXi, pjpMa_YStPrEg, EXnkIL_XiwOmJL, bdWDldO_TFvIvJ, LbCFqun06, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::aqEuKSfPGmn ( long iJNLVT_HSxV, _bstr_t yeae_gPRVNF, __int64 IMzCk_QkUrDiW_ZUPTDVl, __int64 PAAV_ZVbif, long wzvgk_KeXdRL_heXAHD, long NjlAud05, long xSmJSRL57, long EIvt_DTGd_38 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_aqEuKSfPGmn(iJNLVT_HSxV, yeae_gPRVNF, IMzCk_QkUrDiW_ZUPTDVl, PAAV_ZVbif, wzvgk_KeXdRL_heXAHD, NjlAud05, xSmJSRL57, EIvt_DTGd_38, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::QwujUAA ( _bstr_t mUHhh_ORoe ) {
+    long _result = 0;
+    HRESULT _hr = raw_QwujUAA(mUHhh_ORoe, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::zIgsdPEoEI ( long XujJ59, long srkvi19, long roMkDSr_GTTRK ) {
+    long _result = 0;
+    HRESULT _hr = raw_zIgsdPEoEI(XujJ59, srkvi19, roMkDSr_GTTRK, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::DSVQG ( long ldFSR71 ) {
+    long _result = 0;
+    HRESULT _hr = raw_DSVQG(ldFSR71, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::TlvMzLDwvyeAz ( long CmZh_DTHAb_gYkBWE ) {
+    long _result = 0;
+    HRESULT _hr = raw_TlvMzLDwvyeAz(CmZh_DTHAb_gYkBWE, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::jUFxBUEZ ( long vSnFErf20, long Pnyp_JyyGvWc_YqMC, long NNyc_fiqwPz_oNuX, long EdFc_TkGhRZr ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_jUFxBUEZ(vSnFErf20, Pnyp_JyyGvWc_YqMC, NNyc_fiqwPz_oNuX, EdFc_TkGhRZr, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::Lpml ( _bstr_t bXOARJ_FtfFuFk, _bstr_t kkxw_wyINsa_45, long FTSmOuY_oiEcMdR_lJfp, long SNIvfMA_MYOChz ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_Lpml(bXOARJ_FtfFuFk, kkxw_wyINsa_45, FTSmOuY_oiEcMdR_lJfp, SNIvfMA_MYOChz, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::xQWnKEHP ( long vQkA_VzlKaWy_69, long NtFu_naMr_73, long exKZrOP_lSrcTMk_dbObWb, long dvvPzK_dfjYND, _bstr_t TcBlXZw_rFCH_51, _bstr_t GOcZm_tnUX_nCpLv, double zfMjNT_OKmx_18, long KUAfU81, VARIANT * YbUMfUP08, VARIANT * oJwSWNJ_NqXGOpg_66 ) {
+    long _result = 0;
+    HRESULT _hr = raw_xQWnKEHP(vQkA_VzlKaWy_69, NtFu_naMr_73, exKZrOP_lSrcTMk_dbObWb, dvvPzK_dfjYND, TcBlXZw_rFCH_51, GOcZm_tnUX_nCpLv, zfMjNT_OKmx_18, KUAfU81, YbUMfUP08, oJwSWNJ_NqXGOpg_66, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::bSIUPh ( long ZTmTWz_XoxGtN, long neqXIy_uKMzqD_mVKD, long reeE_POFtJSM_SqmO, long EANwccX03, long qZxrZzA_LUgai_NXzQ, _bstr_t gEWE39, _bstr_t bPIP_BrQHiG_59, long NXxSw_EDheNV_84 ) {
+    long _result = 0;
+    HRESULT _hr = raw_bSIUPh(ZTmTWz_XoxGtN, neqXIy_uKMzqD_mVKD, reeE_POFtJSM_SqmO, EANwccX03, qZxrZzA_LUgai_NXzQ, gEWE39, bPIP_BrQHiG_59, NXxSw_EDheNV_84, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::UxvlDakLtmsxMy ( long NCozXjN40, _bstr_t FzvAZB76 ) {
+    long _result = 0;
+    HRESULT _hr = raw_UxvlDakLtmsxMy(NCozXjN40, FzvAZB76, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::RiWTlLsGxXAxbW ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_RiWTlLsGxXAxbW(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::XbJciA ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_XbJciA(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::HaGFFdseCWZGCW ( long gJoiIB_HShcu_OFOvP ) {
+    long _result = 0;
+    HRESULT _hr = raw_HaGFFdseCWZGCW(gJoiIB_HShcu_OFOvP, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::JTjEhkf ( _bstr_t saUZk_DWcXOb_essThaa ) {
+    long _result = 0;
+    HRESULT _hr = raw_JTjEhkf(saUZk_DWcXOb_essThaa, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::TqdmPKYXFYXhru ( long WiWDovx52, long nSxLku_ADXli_59, long yTmHB_pXSqo_AFeTcK, long pQYPbVv50, long Neci96 ) {
+    long _result = 0;
+    HRESULT _hr = raw_TqdmPKYXFYXhru(WiWDovx52, nSxLku_ADXli_59, yTmHB_pXSqo_AFeTcK, pQYPbVv50, Neci96, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::zkLnwF ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_zkLnwF(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::uSxmXqKibgcD ( _bstr_t dBUTuJo_CpJref_jNvfcQ ) {
+    long _result = 0;
+    HRESULT _hr = raw_uSxmXqKibgcD(dBUTuJo_CpJref_jNvfcQ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::GetWindowThreadId ( long hwnd ) {
+    long _result = 0;
+    HRESULT _hr = raw_GetWindowThreadId(hwnd, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::XuLWpyRitE ( long OvPfK_XNIJozW_muKR ) {
+    long _result = 0;
+    HRESULT _hr = raw_XuLWpyRitE(OvPfK_XNIJozW_muKR, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::hcPuRv ( long kOzxhO89, _bstr_t nVYW25, long nlIpm_YgBrZV, long xwydV_bMiC ) {
+    long _result = 0;
+    HRESULT _hr = raw_hcPuRv(kOzxhO89, nVYW25, nlIpm_YgBrZV, xwydV_bMiC, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::CnmxDmquAfr ( long fFVSG05 ) {
+    long _result = 0;
+    HRESULT _hr = raw_CnmxDmquAfr(fFVSG05, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::dSvMbY ( long yiPnox20 ) {
+    long _result = 0;
+    HRESULT _hr = raw_dSvMbY(yiPnox20, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::sjhGfLBrc ( long alhUPfy_JsNYA_YUtpx ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_sjhGfLBrc(alhUPfy_JsNYA_YUtpx, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::kLBPNsgwPWCRw ( _bstr_t Gxqa18 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_kLBPNsgwPWCRw(Gxqa18, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::DMWZyvEfdqUBkQc ( long xdtLi31 ) {
+    long _result = 0;
+    HRESULT _hr = raw_DMWZyvEfdqUBkQc(xdtLi31, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::bNgZhspo ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_bNgZhspo(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::Whbb ( long FVkWClI_dGCzvVz_dlIygly, __int64 ChLX_zfzhf_NwKJZvI ) {
+    long _result = 0;
+    HRESULT _hr = raw_Whbb(FVkWClI_dGCzvVz_dlIygly, ChLX_zfzhf_NwKJZvI, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::SetInputDm ( long input_dm, long rx, long ry ) {
+    long _result = 0;
+    HRESULT _hr = raw_SetInputDm(input_dm, rx, ry, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::SrlzcX ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_SrlzcX(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::aqbmCT ( long mXdKv_hGDzF ) {
+    long _result = 0;
+    HRESULT _hr = raw_aqbmCT(mXdKv_hGDzF, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::ComD ( __int64 tCMmSD_GrFY ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_ComD(tCMmSD_GrFY, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::IwHboMKYlchpwy ( _bstr_t yExOXu04, long qSkWwEy_NiQfU, long IQIR37 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_IwHboMKYlchpwy(yExOXu04, qSkWwEy_NiQfU, IQIR37, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::cnAxnKjNW ( long fynTkHE_LbwcrSV, long YIUdHS_ixSY, long rOGLZq64 ) {
+    long _result = 0;
+    HRESULT _hr = raw_cnAxnKjNW(fynTkHE_LbwcrSV, YIUdHS_ixSY, rOGLZq64, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::UXyouylDwrvAQQv ( long mFIF_DNmO_Muqt ) {
+    long _result = 0;
+    HRESULT _hr = raw_UXyouylDwrvAQQv(mFIF_DNmO_Muqt, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::xRyQpNxpaZoqANG ( long ZgIMgkO_AAtxjO_JLKQCCq, long GXJjYBP66, long SQMC_yObYa, long eVLWkO58 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_xRyQpNxpaZoqANG(ZgIMgkO_AAtxjO_JLKQCCq, GXJjYBP66, SQMC_yObYa, eVLWkO58, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::KWwenShd ( long Vxqnvqx_imqQeYO_muSBc ) {
+    long _result = 0;
+    HRESULT _hr = raw_KWwenShd(Vxqnvqx_imqQeYO_muSBc, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::QNioHz ( long WhZYxnQ_enqjRx_61, long mEJjS_nUHGNj_fOmZp, long iUZXh02, long aAQIBhx_hwDEIYZ_99, _bstr_t ixTSppe_ryzIMOY_tQps, double jlnhlL84, long kmgrCSo14 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_QNioHz(WhZYxnQ_enqjRx_61, mEJjS_nUHGNj_fOmZp, iUZXh02, aAQIBhx_hwDEIYZ_99, ixTSppe_ryzIMOY_tQps, jlnhlL84, kmgrCSo14, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::SFhHk ( long qnFJ82, long ZhLrv62, long aUHj_qfUHbv_ofsze, long CXWLVA_hoCWxG_89 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_SFhHk(qnFJ82, ZhLrv62, aUHj_qfUHbv_ofsze, CXWLVA_hoCWxG_89, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::UowMQbYJZJrKZ ( long iFKLjx_SRcn_59, _bstr_t nvCCCZ80, long EfRMfa21 ) {
+    long _result = 0;
+    HRESULT _hr = raw_UowMQbYJZJrKZ(iFKLjx_SRcn_59, nvCCCZ80, EfRMfa21, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::TLavoUI ( long lHXjUR_wYiKMa_NAZgKR, long nKXsHed_JXtaF ) {
+    long _result = 0;
+    HRESULT _hr = raw_TLavoUI(lHXjUR_wYiKMa_NAZgKR, nKXsHed_JXtaF, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::oYUqDbbJjCCGo ( _bstr_t Cytyquw_aLHCkx ) {
+    long _result = 0;
+    HRESULT _hr = raw_oYUqDbbJjCCGo(Cytyquw_aLHCkx, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::VBRQeCVrSABgWZ ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_VBRQeCVrSABgWZ(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::aruzfQXo ( long yQvLxjT_uxZpwqq_18 ) {
+    long _result = 0;
+    HRESULT _hr = raw_aruzfQXo(yQvLxjT_uxZpwqq_18, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::yZUhUYWrza ( long bYHbcrP_HPEBzx, VARIANT * TKGBHz_STyvZY_qtTQ, VARIANT * FCcih_FyRWKH ) {
+    long _result = 0;
+    HRESULT _hr = raw_yZUhUYWrza(bYHbcrP_HPEBzx, TKGBHz_STyvZY_qtTQ, FCcih_FyRWKH, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::RrCe ( long aOLPQe_OjSfR, long HsFwiCz_iGhnBGb, long OKXBd_lpmZhu_32, long qhluCJu25, long GmCfALn16, long yixB73, long kAasjtM75 ) {
+    long _result = 0;
+    HRESULT _hr = raw_RrCe(aOLPQe_OjSfR, HsFwiCz_iGhnBGb, OKXBd_lpmZhu_32, qhluCJu25, GmCfALn16, yixB73, kAasjtM75, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::vCyabL ( long QUVK89, long ZHNMEJk_TIgS_15 ) {
+    long _result = 0;
+    HRESULT _hr = raw_vCyabL(QUVK89, ZHNMEJk_TIgS_15, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gqBERsF ( _bstr_t WKTZrl22, _bstr_t Ghqan_Lgky_ktyLXb, long vAJCKz_bbzFllr_57 ) {
+    long _result = 0;
+    HRESULT _hr = raw_gqBERsF(WKTZrl22, Ghqan_Lgky_ktyLXb, vAJCKz_bbzFllr_57, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::JpbEH ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_JpbEH(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::RUBGaZRklERNf ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_RUBGaZRklERNf(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::GPqaYvqbVzalp ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_GPqaYvqbVzalp(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::cWqRmDfhELIFfr ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_cWqRmDfhELIFfr(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::fpSgglsjIS ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_fpSgglsjIS(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::cbah ( long HZfcFv16 ) {
+    long _result = 0;
+    HRESULT _hr = raw_cbah(HZfcFv16, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::TxiWbuTuF ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_TxiWbuTuF(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::knTVUHdzhop ( long gBrd96, __int64 VNNs55, double VApIImd_dNoLp_22 ) {
+    long _result = 0;
+    HRESULT _hr = raw_knTVUHdzhop(gBrd96, VNNs55, VApIImd_dNoLp_22, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::bIPxtRSe ( long elWsKJ_FOXZDm_57 ) {
+    long _result = 0;
+    HRESULT _hr = raw_bIPxtRSe(elWsKJ_FOXZDm_57, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::yBmvEr ( long jRZEKN_mpxL_93, VARIANT * eoayGP03, VARIANT * rFRHxu_YxEdYEh_GRRxfX, VARIANT * PEkYvBg_pGWbxG_06, VARIANT * paamzmg_pkPEMk_09 ) {
+    long _result = 0;
+    HRESULT _hr = raw_yBmvEr(jRZEKN_mpxL_93, eoayGP03, rFRHxu_YxEdYEh_GRRxfX, PEkYvBg_pGWbxG_06, paamzmg_pkPEMk_09, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::QeYklc ( long uZNE_IFSul ) {
+    long _result = 0;
+    HRESULT _hr = raw_QeYklc(uZNE_IFSul, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::RdKafntkNN ( long DQYyp_lylGw_95, long ugXUqd_JDDL ) {
+    long _result = 0;
+    HRESULT _hr = raw_RdKafntkNN(DQYyp_lylGw_95, ugXUqd_JDDL, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::CtuXEae ( _bstr_t OllKs_TVTS_10, _bstr_t tUGLVyd_BVJXvk_91 ) {
+    long _result = 0;
+    HRESULT _hr = raw_CtuXEae(OllKs_TVTS_10, tUGLVyd_BVJXvk_91, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::nukpnpta ( long bDDEmP40 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_nukpnpta(bDDEmP40, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::KbwbsoUcJnVj ( long RcsebV_DYeK_16 ) {
+    long _result = 0;
+    HRESULT _hr = raw_KbwbsoUcJnVj(RcsebV_DYeK_16, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::JUqDlI ( _bstr_t cmaDxH_ssOk ) {
+    long _result = 0;
+    HRESULT _hr = raw_JUqDlI(cmaDxH_ssOk, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::KWAlkMegfztet ( long vigdSow_GHIAKx_Jfdv ) {
+    long _result = 0;
+    HRESULT _hr = raw_KWAlkMegfztet(vigdSow_GHIAKx_Jfdv, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::IKQAKSFTXLCx ( long wOObarr84 ) {
+    long _result = 0;
+    HRESULT _hr = raw_IKQAKSFTXLCx(wOObarr84, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::LrQz ( long Iwvz_gueoex, long tgWHQj_zdgT_46 ) {
+    long _result = 0;
+    HRESULT _hr = raw_LrQz(Iwvz_gueoex, tgWHQj_zdgT_46, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::qcTNuVEAnbckYY ( long eAbbvR32 ) {
+    long _result = 0;
+    HRESULT _hr = raw_qcTNuVEAnbckYY(eAbbvR32, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::VkxdXwMcBFo ( long iBVoo_zfjJJda, long TgOA_abGUoiM_68, long KYctDSB_pMmlo, long qZpt_INiMBq_07, _bstr_t vpdYvQG_CaMFiIj_WXEmw ) {
+    long _result = 0;
+    HRESULT _hr = raw_VkxdXwMcBFo(iBVoo_zfjJJda, TgOA_abGUoiM_68, KYctDSB_pMmlo, qZpt_INiMBq_07, vpdYvQG_CaMFiIj_WXEmw, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::FqYFenBYaAZnUPQ ( long wqVsa00, _bstr_t IBMsscu_oLtH_foUSU, _bstr_t ndRNg_trBddfI_06, _bstr_t AMkAQ_kIax_10, long riHun_gMvn_10 ) {
+    long _result = 0;
+    HRESULT _hr = raw_FqYFenBYaAZnUPQ(wqVsa00, IBMsscu_oLtH_foUSU, ndRNg_trBddfI_06, AMkAQ_kIax_10, riHun_gMvn_10, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::QRwCTv ( long rJOB_URvkSIi_JIgO, long sUwMi_oqKQPr_CFghgt, long ghfpu61, long LEAdGTb_SpFHXs_14, _bstr_t IDUNLkH_BrnzVng_FiCPquh, _bstr_t AVTq_VpsdI_tDAy, double XvlwlC_jZtC_12, long wDFZv_unQBl ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_QRwCTv(rJOB_URvkSIi_JIgO, sUwMi_oqKQPr_CFghgt, ghfpu61, LEAdGTb_SpFHXs_14, IDUNLkH_BrnzVng_FiCPquh, AVTq_VpsdI_tDAy, XvlwlC_jZtC_12, wDFZv_unQBl, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::KSkajYuh ( long yVlWAN_siAa_FnQu, _bstr_t jsKUYDV70 ) {
+    long _result = 0;
+    HRESULT _hr = raw_KSkajYuh(yVlWAN_siAa_FnQu, jsKUYDV70, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::jVkb ( long ccFXXOX_NcmN_72, _bstr_t OPwx_FMJcc_78 ) {
+    long _result = 0;
+    HRESULT _hr = raw_jVkb(ccFXXOX_NcmN_72, OPwx_FMJcc_78, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::wuJIGnNUjMBaP ( long iGjau_AcUkU, long vptMvF_gMMSJa ) {
+    long _result = 0;
+    HRESULT _hr = raw_wuJIGnNUjMBaP(iGjau_AcUkU, vptMvF_gMMSJa, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ueWMluyylll ( long Ovwa_ZwFPWY_tgPw ) {
+    long _result = 0;
+    HRESULT _hr = raw_ueWMluyylll(Ovwa_ZwFPWY_tgPw, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::trRSuIfTy ( long cdpxaXE_gPKNi_zXQA, long GBAHTQ_rnIiSv_RUFf, long gHmt_irdd_01, long zrBd_DLOzn_IlfQbK, _bstr_t KcyQDGd62, double OijD_MnTqK, long vcMR_YVee, long tJEWq72, long uMIL74 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_trRSuIfTy(cdpxaXE_gPKNi_zXQA, GBAHTQ_rnIiSv_RUFf, gHmt_irdd_01, zrBd_DLOzn_IlfQbK, KcyQDGd62, OijD_MnTqK, vcMR_YVee, tJEWq72, uMIL74, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::mEukRUpBhMk ( long slBUoZD_ahQBsgO_48, long tVqBPx49, long fXgOoDO_VBIO_OyyGg, long rsLBV_dhsNHMt_zkMuvb, _bstr_t pySG37, double rKTXUH97 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_mEukRUpBhMk(slBUoZD_ahQBsgO_48, tVqBPx49, fXgOoDO_VBIO_OyyGg, rsLBV_dhsNHMt_zkMuvb, pySG37, rKTXUH97, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::pyRMWmA ( long EmhQ_mJKab_YhSHVH, long WwiL82, long sqDdMh57 ) {
+    long _result = 0;
+    HRESULT _hr = raw_pyRMWmA(EmhQ_mJKab_YhSHVH, WwiL82, sqDdMh57, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::jHJvjrbkwhy ( long prejp_wPsy_MKjbqnl ) {
+    long _result = 0;
+    HRESULT _hr = raw_jHJvjrbkwhy(prejp_wPsy_MKjbqnl, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lelxiTTDu ( _bstr_t WGYb11 ) {
+    long _result = 0;
+    HRESULT _hr = raw_lelxiTTDu(WGYb11, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::szmUcVJmhynCqGx ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_szmUcVJmhynCqGx(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::vNcLi ( long YoqTpH_JylmF_44 ) {
+    long _result = 0;
+    HRESULT _hr = raw_vNcLi(YoqTpH_JylmF_44, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline __int64 Iqwert::gcKS ( long eJHevpQ15, long yGneA_foTN, _bstr_t Lumirj_AdQzzI_hFrrQvS ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_gcKS(eJHevpQ15, yGneA_foTN, Lumirj_AdQzzI_hFrrQvS, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::uLIcjerEI ( _bstr_t leQatS_axNrF ) {
+    long _result = 0;
+    HRESULT _hr = raw_uLIcjerEI(leQatS_axNrF, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::LKEkLvHmkq ( long TJuMz_sBZvmF_11 ) {
+    long _result = 0;
+    HRESULT _hr = raw_LKEkLvHmkq(TJuMz_sBZvmF_11, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline double Iqwert::FoEHMtHxoZS ( long IuEV_tPxs_tYRIkdI, _bstr_t wKPPjni96 ) {
+    double _result = 0;
+    HRESULT _hr = raw_FoEHMtHxoZS(IuEV_tPxs_tYRIkdI, wKPPjni96, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::jBlpncAgA ( long fZvP_ufUnLA_klaZcFQ ) {
+    long _result = 0;
+    HRESULT _hr = raw_jBlpncAgA(fZvP_ufUnLA_klaZcFQ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::SvPBFqxW ( long lLXLNbP_xOlRMph_80, long CNWcDG_hLMK_30, long RdQySG_YRlR, long dwwuP_eHlIbgW_dWyVys, _bstr_t oxwTW_taINulF, _bstr_t dlnbzh_LuMbRcg_EYwVCrv, double Pvqff_bNlT_bCQdKYB ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_SvPBFqxW(lLXLNbP_xOlRMph_80, CNWcDG_hLMK_30, RdQySG_YRlR, dwwuP_eHlIbgW_dWyVys, oxwTW_taINulF, dlnbzh_LuMbRcg_EYwVCrv, Pvqff_bNlT_bCQdKYB, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::HVpkJ ( _bstr_t TqtCW_aiSaQM, _bstr_t MwPlVxg_fzZFQ, _bstr_t palWP_oMUtN_ZCaE ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_HVpkJ(TqtCW_aiSaQM, MwPlVxg_fzZFQ, palWP_oMUtN_ZCaE, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::RTzeQLYgZbFmLE ( _bstr_t PxmZM_ZtObXQn_25 ) {
+    long _result = 0;
+    HRESULT _hr = raw_RTzeQLYgZbFmLE(PxmZM_ZtObXQn_25, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::DmGuardLoadCustom ( _bstr_t type, _bstr_t path ) {
+    long _result = 0;
+    HRESULT _hr = raw_DmGuardLoadCustom(type, path, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::XsDLBt ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_XsDLBt(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::hMDHgMJwwUKIXD ( _bstr_t JzRtpvJ_NzAR, _bstr_t xEJLkKy38 ) {
+    long _result = 0;
+    HRESULT _hr = raw_hMDHgMJwwUKIXD(JzRtpvJ_NzAR, xEJLkKy38, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::XRqKMHmJzbBAF ( _bstr_t SHYhUS_xwfbicH, long Ahxt_ittPCp ) {
+    long _result = 0;
+    HRESULT _hr = raw_XRqKMHmJzbBAF(SHYhUS_xwfbicH, Ahxt_ittPCp, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::LqIhxRYPuhwct ( long chnf_EOvgv_31 ) {
+    long _result = 0;
+    HRESULT _hr = raw_LqIhxRYPuhwct(chnf_EOvgv_31, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::jqHygYjq ( _bstr_t IJKBdI_wObGWE_yXKa, long IYwviNF_qGlI_CcNoF ) {
+    long _result = 0;
+    HRESULT _hr = raw_jqHygYjq(IJKBdI_wObGWE_yXKa, IYwviNF_qGlI_CcNoF, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::iBlikUQt ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_iBlikUQt(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::TuDSKX ( long SiKFTjM_OCCiQO, long hsdeUDM58, long sdDNN_LCjFBkD_96, long phLKYIK43, _bstr_t RQOv_zsOaulf, _bstr_t OjtWGq65, double QpMKx82, long pqzbyB_VzSxya_90 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_TuDSKX(SiKFTjM_OCCiQO, hsdeUDM58, sdDNN_LCjFBkD_96, phLKYIK43, RQOv_zsOaulf, OjtWGq65, QpMKx82, pqzbyB_VzSxya_90, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::Zwvr ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_Zwvr(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::mCdMp ( _bstr_t QOai96, _bstr_t pCOkDeB_jdelJQ, _bstr_t okyH_ocYp_34, long ArCMPf_rNvjPdi_KYhDBuv ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_mCdMp(QOai96, pCOkDeB_jdelJQ, okyH_ocYp_34, ArCMPf_rNvjPdi_KYhDBuv, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::yCzXp ( long gRjyJBo_ntyNof_agqgUT ) {
+    long _result = 0;
+    HRESULT _hr = raw_yCzXp(gRjyJBo_ntyNof_agqgUT, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline float Iqwert::QejxZ ( long QIFfu_PYLjM, __int64 glHQW_vqbL ) {
+    float _result = 0;
+    HRESULT _hr = raw_QejxZ(QIFfu_PYLjM, glHQW_vqbL, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::zekVPxatol ( long bHlbm_SFkVSr_bvcf, _bstr_t LtTy49, float MssfvT24 ) {
+    long _result = 0;
+    HRESULT _hr = raw_zekVPxatol(bHlbm_SFkVSr_bvcf, LtTy49, MssfvT24, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gVzzyUpecE ( long OwmiLR_VZdvLs_IQoa, long PFyP_TmnlhlS_24, long MEvhjoF_Inblw_LBUHDUP, long CNKOiVr_SAvCnYK ) {
+    long _result = 0;
+    HRESULT _hr = raw_gVzzyUpecE(OwmiLR_VZdvLs_IQoa, PFyP_TmnlhlS_24, MEvhjoF_Inblw_LBUHDUP, CNKOiVr_SAvCnYK, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::CLvHYQPPzpyWZA ( long SQWEPHv_hSvdmW_GiLfvwr, long cPoIXbJ74, long wFsLj_hvqg_84, long hNQTS_wwzgVMp, _bstr_t CKrEyk70, _bstr_t lLfUoo_IllF_fSZgw ) {
+    long _result = 0;
+    HRESULT _hr = raw_CLvHYQPPzpyWZA(SQWEPHv_hSvdmW_GiLfvwr, cPoIXbJ74, wFsLj_hvqg_84, hNQTS_wwzgVMp, CKrEyk70, lLfUoo_IllF_fSZgw, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::xLruz ( long YIZUaY_OJDfaX ) {
+    long _result = 0;
+    HRESULT _hr = raw_xLruz(YIZUaY_OJDfaX, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::BiZrdA ( long NfQg_LwnvSsq_hCFWsN ) {
+    long _result = 0;
+    HRESULT _hr = raw_BiZrdA(NfQg_LwnvSsq_hCFWsN, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::AQcbwm ( long fqPMv_mqwX ) {
+    long _result = 0;
+    HRESULT _hr = raw_AQcbwm(fqPMv_mqwX, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::plhqvBxvoLSu ( long YAQYA_YlcoWpI_39, _bstr_t CaxYKdp_VeXC, _bstr_t dsYaLz_drBaNg, long PSOK_nPrVJmC_kpyJIoe, long IshSuf_oSap_38, long byrv_bYCpT, long wMMgTra49 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_plhqvBxvoLSu(YAQYA_YlcoWpI_39, CaxYKdp_VeXC, dsYaLz_drBaNg, PSOK_nPrVJmC_kpyJIoe, IshSuf_oSap_38, byrv_bYCpT, wMMgTra49, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::lfnqiBdcBegUyWA ( long IdNuOx_rtwCtWO_ZoqhS, __int64 smLWDVP_bDanh, long XmPQ_nvYnne ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_lfnqiBdcBegUyWA(IdNuOx_rtwCtWO_ZoqhS, smLWDVP_bDanh, XmPQ_nvYnne, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::qBihDy ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_qBihDy(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ufgApm ( long xOAiDo_IpXsbn_51, long SnhYJe_xuoiV, long ltxISZ_qyRDHIu_78, long XbSByoe56, VARIANT * gervhct_xowRV_zIdKnq, VARIANT * hLCJY96 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ufgApm(xOAiDo_IpXsbn_51, SnhYJe_xuoiV, ltxISZ_qyRDHIu_78, XbSByoe56, gervhct_xowRV_zIdKnq, hLCJY96, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::raXNoHJFLLJ ( long ZkZiX53, long XyiGQ27, long iqPAZjq18, long oNNxI_VeGxu_16, long OZHZT_FQynF, long XeMjWc81, long ePJAO18 ) {
+    long _result = 0;
+    HRESULT _hr = raw_raXNoHJFLLJ(ZkZiX53, XyiGQ27, iqPAZjq18, oNNxI_VeGxu_16, OZHZT_FQynF, XeMjWc81, ePJAO18, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::aTThJgbPmH ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_aTThJgbPmH(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::qaCqehfQdTvXA ( long bOZsrW36, __int64 sPPmo_FMJv_vAbDM, long VoTVXdV_Acpyw ) {
+    long _result = 0;
+    HRESULT _hr = raw_qaCqehfQdTvXA(bOZsrW36, sPPmo_FMJv_vAbDM, VoTVXdV_Acpyw, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ZcpibzwTg ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_ZcpibzwTg(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::oHSixRcpoY ( long prgRv_NvFLp ) {
+    long _result = 0;
+    HRESULT _hr = raw_oHSixRcpoY(prgRv_NvFLp, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::TLEIxQifgMo ( long sokjb_vLEZx_yxcgrvZ ) {
+    long _result = 0;
+    HRESULT _hr = raw_TLEIxQifgMo(sokjb_vLEZx_yxcgrvZ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::ffWovea ( long UQZWlG_MpPnoxc_HIRbu, long hcKMvpQ_GMHulUE, long ihloG_vujI_FjHq, long BFtED_bXioMG, _bstr_t CrKJtD99, double CbrnH_ukOiRem_44 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_ffWovea(UQZWlG_MpPnoxc_HIRbu, hcKMvpQ_GMHulUE, ihloG_vujI_FjHq, BFtED_bXioMG, CrKJtD99, CbrnH_ukOiRem_44, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::XLLudf ( _bstr_t OSPn_qnCp_rpPblpG, long iIjzxOF_DiHF_kkzaC, long MddJ_Whztok_24, _bstr_t vGYROY27, long atcQa_cPNGoUF, long NnDjd_fOgRpz_97 ) {
+    long _result = 0;
+    HRESULT _hr = raw_XLLudf(OSPn_qnCp_rpPblpG, iIjzxOF_DiHF_kkzaC, MddJ_Whztok_24, vGYROY27, atcQa_cPNGoUF, NnDjd_fOgRpz_97, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lwpawver ( long UJeep88 ) {
+    long _result = 0;
+    HRESULT _hr = raw_lwpawver(UJeep88, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::kSwZckyM ( _bstr_t tpdna48 ) {
+    long _result = 0;
+    HRESULT _hr = raw_kSwZckyM(tpdna48, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::xvmALnf ( long YoWUgC_rbMg, _bstr_t NGcZWQ_ztisd_85 ) {
+    long _result = 0;
+    HRESULT _hr = raw_xvmALnf(YoWUgC_rbMg, NGcZWQ_ztisd_85, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::eztP ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_eztP(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::aMcAZwRjeDU ( long knIJV38 ) {
+    long _result = 0;
+    HRESULT _hr = raw_aMcAZwRjeDU(knIJV38, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::flNhAq ( _bstr_t szojs_cVJfbao_RNNH ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_flNhAq(szojs_cVJfbao_RNNH, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::ITYH ( long eXTUArN_OtDeMk_03, long vwbf_dYMj_FnDhw, long Xblk65 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ITYH(eXTUArN_OtDeMk_03, vwbf_dYMj_FnDhw, Xblk65, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::UxMLBxTZ ( long nRAE39, long bNuA_IPogIUK_44, long pyoQ_WpqQqw_EixD, long akYXnsv72, _bstr_t teSq_WlyhWUF, _bstr_t RqNq_UOuEx_42, double TXqA_FbLwAyP_70, long uNdMF19 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_UxMLBxTZ(nRAE39, bNuA_IPogIUK_44, pyoQ_WpqQqw_EixD, akYXnsv72, teSq_WlyhWUF, RqNq_UOuEx_42, TXqA_FbLwAyP_70, uNdMF19, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::YAznrkaZJMMSfH ( long ajyY49, _bstr_t GeZh12, long wedxWYl_lEDw ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_YAznrkaZJMMSfH(ajyY49, GeZh12, wedxWYl_lEDw, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::JyDrxiqoq ( _bstr_t tOEV_CKEOhs ) {
+    long _result = 0;
+    HRESULT _hr = raw_JyDrxiqoq(tOEV_CKEOhs, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::WZJVXHywF ( long rZejtw_BecmDDk_yFKqJp, long otLDCBh_jhkknA_TSQsDiE, long xmvQlJ_EzVBoqB_IIOBrzX, long fWMkF95, _bstr_t fkDuBe_Ncyi_15, _bstr_t wUMrO07, double YVZHo22, _bstr_t MABpCNz25, long UdeiQTI_eeeKf, long PCze_Omoy_07 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_WZJVXHywF(rZejtw_BecmDDk_yFKqJp, otLDCBh_jhkknA_TSQsDiE, xmvQlJ_EzVBoqB_IIOBrzX, fWMkF95, fkDuBe_Ncyi_15, wUMrO07, YVZHo22, MABpCNz25, UdeiQTI_eeeKf, PCze_Omoy_07, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::BealRiQUQ ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_BealRiQUQ(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::LTwgDTet ( long RJrvR_AlPxspI, __int64 psoR_aEirK, long xReVBwr19, long CARFCf68, long sRIhqtn_WwKFTGm ) {
+    long _result = 0;
+    HRESULT _hr = raw_LTwgDTet(RJrvR_AlPxspI, psoR_aEirK, xReVBwr19, CARFCf68, sRIhqtn_WwKFTGm, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline __int64 Iqwert::fGgDBtzu ( long vbHvb_rmcdIU_cNHgVB, _bstr_t dLCZ_VdnSyBc_84, long qqLcnYR_kLwQ_57 ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_fGgDBtzu(vbHvb_rmcdIU_cNHgVB, dLCZ_VdnSyBc_84, qqLcnYR_kLwQ_57, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::PRJbceVmW ( _bstr_t nzSjRD64 ) {
+    long _result = 0;
+    HRESULT _hr = raw_PRJbceVmW(nzSjRD64, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::LlGmkYK ( _bstr_t vQvL_CAiMVzl_wSuksN, long oQEF_POQo_46, long LmNLQGA_buKO_geeya, _bstr_t NTsakA_jOWS, long Sbvn05, long zIgwHq_roSJCTb_65, long bRci_JYaI_18 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_LlGmkYK(vQvL_CAiMVzl_wSuksN, oQEF_POQo_46, LmNLQGA_buKO_geeya, NTsakA_jOWS, Sbvn05, zIgwHq_roSJCTb_65, bRci_JYaI_18, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::dbuhdNExsjNT ( long AIuJna_uUZqO ) {
+    long _result = 0;
+    HRESULT _hr = raw_dbuhdNExsjNT(AIuJna_uUZqO, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lxuEJXyCimyiN ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_lxuEJXyCimyiN(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::fdhQaabRCNg ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_fdhQaabRCNg(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::vWjr ( _bstr_t eerg_DeJD_cvltQl, long sGDH_YoeqTKM_85, long OZXa_fmeV_qzrsxsx, long liUPS_BTMZVP_LfPT ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_vWjr(eerg_DeJD_cvltQl, sGDH_YoeqTKM_85, OZXa_fmeV_qzrsxsx, liUPS_BTMZVP_LfPT, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::cpkSoEyPCgvgllb ( _bstr_t UVbpjpy_BuugNFX, _bstr_t IZtpaa_nQgYgX_14 ) {
+    long _result = 0;
+    HRESULT _hr = raw_cpkSoEyPCgvgllb(UVbpjpy_BuugNFX, IZtpaa_nQgYgX_14, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::vxUarjDejQQe ( long UCBIU_KAtxXH, long yyOra_GliGqHv_41 ) {
+    long _result = 0;
+    HRESULT _hr = raw_vxUarjDejQQe(UCBIU_KAtxXH, yyOra_GliGqHv_41, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::PZGbqQer ( long esyuDZ_pUCp, long sPlo_aQnrvV_qEyhy, long Gogv_Ordmg_wIcqATq, long bYcW_jGBce_68, _bstr_t tSlRS_TiHyga_DJKF, double LUMHj_fmOGmzB_51, long tOWWY13, VARIANT * zIIWpJI_PlFd_44, VARIANT * jZeLN59 ) {
+    long _result = 0;
+    HRESULT _hr = raw_PZGbqQer(esyuDZ_pUCp, sPlo_aQnrvV_qEyhy, Gogv_Ordmg_wIcqATq, bYcW_jGBce_68, tSlRS_TiHyga_DJKF, LUMHj_fmOGmzB_51, tOWWY13, zIIWpJI_PlFd_44, jZeLN59, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::QuPQh ( long NmJJV_XRFTZ_29, long rxvZ_gnZH, long TwjaUom67, long gTEtub05, long ccme_hdzgJt ) {
+    long _result = 0;
+    HRESULT _hr = raw_QuPQh(NmJJV_XRFTZ_29, rxvZ_gnZH, TwjaUom67, gTEtub05, ccme_hdzgJt, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::pWuwoLHxYHvjfaL ( long SmCK_atOAnE_tEHA, long ClVpHCh49, long WiuWI_hPIxxcs_DjkoSci, long TQpUiYL28, _bstr_t cNSwp_ipAiVWU, double iUetNx94 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_pWuwoLHxYHvjfaL(SmCK_atOAnE_tEHA, ClVpHCh49, WiuWI_hPIxxcs_DjkoSci, TQpUiYL28, cNSwp_ipAiVWU, iUetNx94, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::sameV ( _bstr_t Nlsyj09, long ZzvIlcS_FWeZUf_BUWAIX, long fePMWp_uppGg, long YaktwG90 ) {
+    long _result = 0;
+    HRESULT _hr = raw_sameV(Nlsyj09, ZzvIlcS_FWeZUf_BUWAIX, fePMWp_uppGg, YaktwG90, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::wwpazmfsd ( long cyTVNA_yOwm, long KkKhi_GntCr_VNdMZqA, long GxmE_McxEAHq_wRtSW, long FCwW61, _bstr_t PjGoA_HhljHN_66, double TSNXtJ_Geyuz_76, long Skko74 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_wwpazmfsd(cyTVNA_yOwm, KkKhi_GntCr_VNdMZqA, GxmE_McxEAHq_wRtSW, FCwW61, PjGoA_HhljHN_66, TSNXtJ_Geyuz_76, Skko74, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::UHzuJgmES ( long hqAYd_ilUMJCa_52, long uBAYBPc_aFODlsX, long dZjTmL_DaCOg_erRu, long qDYFgQl_kWmI, _bstr_t RIpInS_VQUXlib ) {
+    long _result = 0;
+    HRESULT _hr = raw_UHzuJgmES(hqAYd_ilUMJCa_52, uBAYBPc_aFODlsX, dZjTmL_DaCOg_erRu, qDYFgQl_kWmI, RIpInS_VQUXlib, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::NxVEvWnmN ( _bstr_t QjVDS_QTPPBl, _bstr_t wxHrD96, _bstr_t tgwZ_GSSdA, _bstr_t prtcTSF_aqmy_67 ) {
+    long _result = 0;
+    HRESULT _hr = raw_NxVEvWnmN(QjVDS_QTPPBl, wxHrD96, tgwZ_GSSdA, prtcTSF_aqmy_67, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::plLLgTvNAYexMED ( _bstr_t hErpBxo11, long yeabiH93, long BuauW_eyTA_69, long QUxfm_MsMxq_VNTCuw ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_plLLgTvNAYexMED(hErpBxo11, yeabiH93, BuauW_eyTA_69, QUxfm_MsMxq_VNTCuw, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::XMjakaDGQhjKmm ( long AinG87, long HcpBzRh_yLewY_23, long JiUeoB_eWuYO_xuMWzLn, long QTBbKK_AQoraNz_STAO, _bstr_t LLFmIZ50, _bstr_t YdRqJQ_CShMf_07, double ihGcAkj35 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_XMjakaDGQhjKmm(AinG87, HcpBzRh_yLewY_23, JiUeoB_eWuYO_xuMWzLn, QTBbKK_AQoraNz_STAO, LLFmIZ50, YdRqJQ_CShMf_07, ihGcAkj35, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::ZpCGZYdL ( long izmT95 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ZpCGZYdL(izmT95, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::QwwI ( long Xdtu17 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_QwwI(Xdtu17, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::EsdmPyjsW ( long BcrW_ceNHl_xsrTWmp, long CIOwILp65 ) {
+    long _result = 0;
+    HRESULT _hr = raw_EsdmPyjsW(BcrW_ceNHl_xsrTWmp, CIOwILp65, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::aQWLUjcfic ( long hxwMvU_tKeVmh_42, long WeHgSA_kkOEs, long kRNkzR_qAjiHj, long ONRtUPm_mPjZo_VUDqSkO, _bstr_t NhZYl_qtXzy_CMxspDB ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_aQWLUjcfic(hxwMvU_tKeVmh_42, WeHgSA_kkOEs, kRNkzR_qAjiHj, ONRtUPm_mPjZo_VUDqSkO, NhZYl_qtXzy_CMxspDB, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::lsHvILCRipdRbwY ( __int64 Gjax_qxBsH_sJHrb, long zvATAn62 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_lsHvILCRipdRbwY(Gjax_qxBsH_sJHrb, zvATAn62, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::hFzJaqJoFNVwn ( long kBoWmq_kuXLZlv_XLyDs, long JLbc_HMohvd, long POmOqt_AGoYCr_72, long SPfWn_lGamp, _bstr_t pEHLDDN_uEMhW_42, long yfduE_uPyX_jDhm, long EsmGNtW70 ) {
+    long _result = 0;
+    HRESULT _hr = raw_hFzJaqJoFNVwn(kBoWmq_kuXLZlv_XLyDs, JLbc_HMohvd, POmOqt_AGoYCr_72, SPfWn_lGamp, pEHLDDN_uEMhW_42, yfduE_uPyX_jDhm, EsmGNtW70, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::does ( long VNTKQKB88, long TveIZYW_puovXap_SUuke, long ipLjq_xwlbdJ_56, long dfte_eiwmM_24, _bstr_t XLphk_qgHrk_nMUU, _bstr_t gUbja_ZamS_kzulC, double lekAVaK_RVxvQ ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_does(VNTKQKB88, TveIZYW_puovXap_SUuke, ipLjq_xwlbdJ_56, dfte_eiwmM_24, XLphk_qgHrk_nMUU, gUbja_ZamS_kzulC, lekAVaK_RVxvQ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::rFmflJSLPqT ( long SpTbKxA_qNDe_00, _bstr_t lQkAlST_WsomrCW, _bstr_t ShGwGx_yyyVizW, long MHeU_kCuEE_lmGF, long KbXAr_OKGtyR_59, long HDBOLMm26 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_rFmflJSLPqT(SpTbKxA_qNDe_00, lQkAlST_WsomrCW, ShGwGx_yyyVizW, MHeU_kCuEE_lmGF, KbXAr_OKGtyR_59, HDBOLMm26, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::swSYMprj ( long sEyy_wesbnd_43, __int64 hVgcoL65, long rriVh57, long qNsWVy_Ylpqhh_75 ) {
+    long _result = 0;
+    HRESULT _hr = raw_swSYMprj(sEyy_wesbnd_43, hVgcoL65, rriVh57, qNsWVy_Ylpqhh_75, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::juGjyUbaeWSScKM ( _bstr_t XZVoTY_Btinr ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_juGjyUbaeWSScKM(XZVoTY_Btinr, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::HQHDGzrdCCZAhxP ( long zTaT_FbeRRk, long dORas44, long KIMimN_lvqrE, long gAOuO_jqZSo_94, _bstr_t HLmIxl_hDwnbU, _bstr_t qywewa_COebSw_67, double PeVa_CRTBt, long uNXA_uWgFY_83, VARIANT * uFMcJYH_tdcyn_23, VARIANT * yjmJ_wBbFYw_iNYGkn ) {
+    long _result = 0;
+    HRESULT _hr = raw_HQHDGzrdCCZAhxP(zTaT_FbeRRk, dORas44, KIMimN_lvqrE, gAOuO_jqZSo_94, HLmIxl_hDwnbU, qywewa_COebSw_67, PeVa_CRTBt, uNXA_uWgFY_83, uFMcJYH_tdcyn_23, yjmJ_wBbFYw_iNYGkn, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::eeGrQ ( long zXPEcn_VLYE_fbwb, _bstr_t ertc33, _bstr_t WnnLYf_XDccGu_13, long SpbT38 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_eeGrQ(zXPEcn_VLYE_fbwb, ertc33, WnnLYf_XDccGu_13, SpbT38, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::EQTrkp ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_EQTrkp(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::FZVqn ( long xNZz_ckBi, VARIANT * Uxob_AyLha_85, VARIANT * zcjlgCV_ampU_FlgU ) {
+    long _result = 0;
+    HRESULT _hr = raw_FZVqn(xNZz_ckBi, Uxob_AyLha_85, zcjlgCV_ampU_FlgU, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ovDxiHqADPx ( _bstr_t vMKZKUh_RUDvlfO_80, long iIRnKIq23, VARIANT * vBlfQEG37, VARIANT * vsXVgEX_pJlnDZ ) {
+    long _result = 0;
+    HRESULT _hr = raw_ovDxiHqADPx(vMKZKUh_RUDvlfO_80, iIRnKIq23, vBlfQEG37, vsXVgEX_pJlnDZ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::AjlqjuCxplcXw ( long xveCV_VBnD, long DdUGdNU_UIPh_PCUvT, long bFGl93, long RZCcuKb_TKZFL_67, _bstr_t JvLfOy_ugNzg, double ClkNEz72 ) {
+    long _result = 0;
+    HRESULT _hr = raw_AjlqjuCxplcXw(xveCV_VBnD, DdUGdNU_UIPh_PCUvT, bFGl93, RZCcuKb_TKZFL_67, JvLfOy_ugNzg, ClkNEz72, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::IcZSWurtMpjdcLY ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_IcZSWurtMpjdcLY(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ErorwhaWKjWUvB ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_ErorwhaWKjWUvB(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::EReanb ( long TxttlV_sQIWV_lHoRmbz ) {
+    long _result = 0;
+    HRESULT _hr = raw_EReanb(TxttlV_sQIWV_lHoRmbz, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::vYIIqQEFAZT ( long MmqhW_TzwjjT, VARIANT * xDyYN_YsiRer_36, VARIANT * pjzNA_Wsxx_kgTZXL ) {
+    long _result = 0;
+    HRESULT _hr = raw_vYIIqQEFAZT(MmqhW_TzwjjT, xDyYN_YsiRer_36, pjzNA_Wsxx_kgTZXL, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::DcmAzJo ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_DcmAzJo(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::SlgA ( long hVPcAq_aKlM, long ZKToO_tDeaG_tEOraye ) {
+    long _result = 0;
+    HRESULT _hr = raw_SlgA(hVPcAq_aKlM, ZKToO_tDeaG_tEOraye, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::uwRHnzkIEHxvxl ( long NLsEZY_AfEoma_tSPI, _bstr_t fpdpxrs_LhQA, double tEyuIMY_bUhJr_ftexIBO, double DJAaq_iNUSht_jKhBil ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_uwRHnzkIEHxvxl(NLsEZY_AfEoma_tSPI, fpdpxrs_LhQA, tEyuIMY_bUhJr_ftexIBO, DJAaq_iNUSht_jKhBil, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::cSRXxqjJECxKf ( long RIsFVb_nTgxk_75, _bstr_t jHrXz_gxKm_rqwX, _bstr_t zyvQuAw_UqGLkC, long fSCy_jENDEmb_82 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_cSRXxqjJECxKf(RIsFVb_nTgxk_75, jHrXz_gxKm_rqwX, zyvQuAw_UqGLkC, fSCy_jENDEmb_82, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::xdXD ( long nWrLlN_sHEtzAG_CpTi, __int64 GqigEM_GagCk_ClbRQcQ, long ALaWJrF_hhCr_LTUgbSU, _bstr_t NHjO_FPdq_pDhH ) {
+    long _result = 0;
+    HRESULT _hr = raw_xdXD(nWrLlN_sHEtzAG_CpTi, GqigEM_GagCk_ClbRQcQ, ALaWJrF_hhCr_LTUgbSU, NHjO_FPdq_pDhH, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::IMoGiWXYku ( long bahKjGg_NbVsPF, _bstr_t jhCXV_cXoZIQQ_38 ) {
+    long _result = 0;
+    HRESULT _hr = raw_IMoGiWXYku(bahKjGg_NbVsPF, jhCXV_cXoZIQQ_38, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ZVoluwPhx ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_ZVoluwPhx(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::hNYBtURZ ( long qrKF_MIZG_96 ) {
+    long _result = 0;
+    HRESULT _hr = raw_hNYBtURZ(qrKF_MIZG_96, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::EWhFiCWBPWKAqFF ( _bstr_t BtXwMNu_reAvv_IixtANy ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_EWhFiCWBPWKAqFF(BtXwMNu_reAvv_IixtANy, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::fYZbwlDneftr ( long vYjrVol_uQJoYX_13, _bstr_t mafP_mLSoCP_17, float ncmMJVO42, float WqYN85, long CkTOPVU45, long IdEUX90, long PczZR94 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_fYZbwlDneftr(vYjrVol_uQJoYX_13, mafP_mLSoCP_17, ncmMJVO42, WqYN85, CkTOPVU45, IdEUX90, PczZR94, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::hhsrEjeZCGe ( long aRZkQ_CTWjEoL ) {
+    long _result = 0;
+    HRESULT _hr = raw_hhsrEjeZCGe(aRZkQ_CTWjEoL, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::QKET ( _bstr_t DgcpHs_Ablsl_Fiqoq, _bstr_t oAWuk66 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_QKET(DgcpHs_Ablsl_Fiqoq, oAWuk66, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::ahVXyENNWKM ( long hjUJ_ovXTcL, _bstr_t swwh_RILTmGQ_DVnJlwj, _bstr_t mLSo74 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ahVXyENNWKM(hjUJ_ovXTcL, swwh_RILTmGQ_DVnJlwj, mLSo74, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::PHEgPGkALuMaohq ( long AeXQI_zYMWAjr, long llZs_YdWIb_43, long bVPJVc_DdwU ) {
+    long _result = 0;
+    HRESULT _hr = raw_PHEgPGkALuMaohq(AeXQI_zYMWAjr, llZs_YdWIb_43, bVPJVc_DdwU, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::tBKDH ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_tBKDH(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::oFSZ ( _bstr_t BTiHd18 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_oFSZ(BTiHd18, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::WdJkfLwzCzEtWjl ( long gtDicHk_CnUi_92, long aAtTj_tvdKSkb_Nkpw, long mkVO_Khvbu_30, long jURZxqX_desYlb, _bstr_t VOBHuza63, double yCrtlM_nydPv, long cHHlt_ACbQrk_qooJ ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_WdJkfLwzCzEtWjl(gtDicHk_CnUi_92, aAtTj_tvdKSkb_Nkpw, mkVO_Khvbu_30, jURZxqX_desYlb, VOBHuza63, yCrtlM_nydPv, cHHlt_ACbQrk_qooJ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::vETpyTLbBwsy ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_vETpyTLbBwsy(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::WIHHriD ( long LlmeGUu_juti_TRsDS, long GgFxE_NKJARp ) {
+    long _result = 0;
+    HRESULT _hr = raw_WIHHriD(LlmeGUu_juti_TRsDS, GgFxE_NKJARp, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::nTTlX ( long DUivSf65, long wfdf40 ) {
+    long _result = 0;
+    HRESULT _hr = raw_nTTlX(DUivSf65, wfdf40, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::WcLEEkgjNRDUU ( _bstr_t ldaZ_sUqmM_YpqEd ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_WcLEEkgjNRDUU(ldaZ_sUqmM_YpqEd, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::jLiarF ( VARIANT * XsraN_JwCmwlz_84, VARIANT * dRtze_zzEGK_64 ) {
+    long _result = 0;
+    HRESULT _hr = raw_jLiarF(XsraN_JwCmwlz_84, dRtze_zzEGK_64, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::pqMreVBG ( long OISQFEJ_kuuUVFO_yajzHXV, _bstr_t QCSkFX_JpMMl, long Ieev_NsIKlNZ_CIzW, long DDzq_cRcxw_AmEpTok ) {
+    long _result = 0;
+    HRESULT _hr = raw_pqMreVBG(OISQFEJ_kuuUVFO_yajzHXV, QCSkFX_JpMMl, Ieev_NsIKlNZ_CIzW, DDzq_cRcxw_AmEpTok, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::mCYsDXySxSCndsS ( long IVzWbD_fvvzQG_JqtQ ) {
+    long _result = 0;
+    HRESULT _hr = raw_mCYsDXySxSCndsS(IVzWbD_fvvzQG_JqtQ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::dhnTKr ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_dhnTKr(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::VDtUvsScaUD ( long eVTgd_LpVDbq_03 ) {
+    long _result = 0;
+    HRESULT _hr = raw_VDtUvsScaUD(eVTgd_LpVDbq_03, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::xbgUHKy ( long rnXSrb_QQQj_18, _bstr_t AbxaZ33, _bstr_t UpByHYv_Zvtyko ) {
+    long _result = 0;
+    HRESULT _hr = raw_xbgUHKy(rnXSrb_QQQj_18, AbxaZ33, UpByHYv_Zvtyko, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lPhqNuWoXN ( long XpfoS_XdlHSz_ufksX ) {
+    long _result = 0;
+    HRESULT _hr = raw_lPhqNuWoXN(XpfoS_XdlHSz_ufksX, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::FroREZ ( long TvoXQ_eQPRv, long eHubO_ILNGj_BkNV, long uBnOvOU_XOcnOiS_EFNyY, long VHGpVw_nukEWze, _bstr_t YkCN10, double OdHJOS_iaZuJUu_PZQTB ) {
+    long _result = 0;
+    HRESULT _hr = raw_FroREZ(TvoXQ_eQPRv, eHubO_ILNGj_BkNV, uBnOvOU_XOcnOiS_EFNyY, VHGpVw_nukEWze, YkCN10, OdHJOS_iaZuJUu_PZQTB, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::nHwe ( long TYTtI_uzpBsc, _bstr_t maKR18, float SNBW_NWoJHs_91, float eHjCOQw_qfHBRTC ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_nHwe(TYTtI_uzpBsc, maKR18, SNBW_NWoJHs_91, eHjCOQw_qfHBRTC, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::QIBmIcaHRQ ( long eAJL91, long lwyh_hbQEJaB, long hxZJL_dwOFt_OktNGYQ, long amab38, _bstr_t ZowstC37, _bstr_t uSCkDb_ZhUpnQC_bMOz, double GsLUY79, long cGQXspa78 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_QIBmIcaHRQ(eAJL91, lwyh_hbQEJaB, hxZJL_dwOFt_OktNGYQ, amab38, ZowstC37, uSCkDb_ZhUpnQC_bMOz, GsLUY79, cGQXspa78, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::IoaJ ( long mJIx03 ) {
+    long _result = 0;
+    HRESULT _hr = raw_IoaJ(mJIx03, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::zIdLME ( _bstr_t bYfZf_yUbwZoI_56, _bstr_t wmNTIX_pEyc_tOrH, _bstr_t HguU_HTydaPC_hfCsb ) {
+    long _result = 0;
+    HRESULT _hr = raw_zIdLME(bYfZf_yUbwZoI_56, wmNTIX_pEyc_tOrH, HguU_HTydaPC_hfCsb, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::icdUl ( long GwGM_FKzknO ) {
+    long _result = 0;
+    HRESULT _hr = raw_icdUl(GwGM_FKzknO, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::emsGNqRVRITMY ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_emsGNqRVRITMY(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::fqzCPQrbsuhhDK ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_fqzCPQrbsuhhDK(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::WJwW ( double VkBdq_CcQpRy_01 ) {
+    long _result = 0;
+    HRESULT _hr = raw_WJwW(VkBdq_CcQpRy_01, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::iLGCtKjHrS ( _bstr_t HckQG_ZajSS_bVdpJim ) {
+    long _result = 0;
+    HRESULT _hr = raw_iLGCtKjHrS(HckQG_ZajSS_bVdpJim, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::HZYGMnjyMA ( long kyXfHTo96 ) {
+    long _result = 0;
+    HRESULT _hr = raw_HZYGMnjyMA(kyXfHTo96, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline float Iqwert::ofoEcnebatya ( long lDbit87, _bstr_t dhzzbQ_dyuja_OIbrlzh ) {
+    float _result = 0;
+    HRESULT _hr = raw_ofoEcnebatya(lDbit87, dhzzbQ_dyuja_OIbrlzh, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::GGVUTR ( long ETKUO_agnZqV_NURd ) {
+    long _result = 0;
+    HRESULT _hr = raw_GGVUTR(ETKUO_agnZqV_NURd, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::azEuAfQSLd ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_azEuAfQSLd(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ZaqDnHRUfnST ( long maudTY_TNmiu_kHtR, long SqiHd_TzOgEIz_80, long SFWC_zabcL_76, long LYSiMj53, _bstr_t jkXZs_OEUeF_21, double FvCGaAI_ZtZZIk_clvqCTi, long xLuV_pMSSDg_enHKNK, long Sedwv17, long eXJmhX39, VARIANT * UZLTUou_QzNxW_97, VARIANT * gsnqZ_dqYVpc_93 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ZaqDnHRUfnST(maudTY_TNmiu_kHtR, SqiHd_TzOgEIz_80, SFWC_zabcL_76, LYSiMj53, jkXZs_OEUeF_21, FvCGaAI_ZtZZIk_clvqCTi, xLuV_pMSSDg_enHKNK, Sedwv17, eXJmhX39, UZLTUou_QzNxW_97, gsnqZ_dqYVpc_93, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::NRMLBTk ( _bstr_t AYTcCyy_amPd, __int64 fITj_zhohXtY_16, long rnudSKJ_VXySVYI_FKTXX ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_NRMLBTk(AYTcCyy_amPd, fITj_zhohXtY_16, rnudSKJ_VXySVYI_FKTXX, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::eWGSsDYMxx ( long iPQEAbn_pgIag ) {
+    long _result = 0;
+    HRESULT _hr = raw_eWGSsDYMxx(iPQEAbn_pgIag, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::yyYrZU ( long KqvSCu_zSbKOT_98, long LxYS_IoYGBN_pwVQY ) {
+    long _result = 0;
+    HRESULT _hr = raw_yyYrZU(KqvSCu_zSbKOT_98, LxYS_IoYGBN_pwVQY, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline __int64 Iqwert::EPfPdMZluUQ ( long lThBxQd_hmgN_pHjgLsc, __int64 jBAB00, _bstr_t nKym_FxquI_ungb ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_EPfPdMZluUQ(lThBxQd_hmgN_pHjgLsc, jBAB00, nKym_FxquI_ungb, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::QPwLaLXE ( long iVvMbyi_kMwk, long dHzxRA_teHvyaq_pswwd ) {
+    long _result = 0;
+    HRESULT _hr = raw_QPwLaLXE(iVvMbyi_kMwk, dHzxRA_teHvyaq_pswwd, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::frMuFKMxt ( long UlSXL93 ) {
+    long _result = 0;
+    HRESULT _hr = raw_frMuFKMxt(UlSXL93, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ejaWvYDLIa ( _bstr_t JLWVxU_VEeJG_CCzKKt ) {
+    long _result = 0;
+    HRESULT _hr = raw_ejaWvYDLIa(JLWVxU_VEeJG_CCzKKt, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gHhUtP ( long aKbQPY04, _bstr_t nDgp_dRUb_53 ) {
+    long _result = 0;
+    HRESULT _hr = raw_gHhUtP(aKbQPY04, nDgp_dRUb_53, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::wutdDQyrIDfLa ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_wutdDQyrIDfLa(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::SetFindPicMultithreadCount ( long count ) {
+    long _result = 0;
+    HRESULT _hr = raw_SetFindPicMultithreadCount(count, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::ubTYbvQcAhRhJG ( long qrlFm_RovVJ, _bstr_t HardcJ85, __int64 GQVyAy_wJzG_60, __int64 LKFqcMJ_YBNoI_95, long kaMT20 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_ubTYbvQcAhRhJG(qrlFm_RovVJ, HardcJ85, GQVyAy_wJzG_60, LKFqcMJ_YBNoI_95, kaMT20, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::GetSystemInfo ( _bstr_t type, long method ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_GetSystemInfo(type, method, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::omFlDljKXBzr ( long OoglwAj_beSfmbP_27, long QCNL93 ) {
+    long _result = 0;
+    HRESULT _hr = raw_omFlDljKXBzr(OoglwAj_beSfmbP_27, QCNL93, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::vJsM ( long CEDvvp79, long vkvJ_rTkkyLl_56, _bstr_t QsoVxM_wnAex_35, double BxNJ94 ) {
+    long _result = 0;
+    HRESULT _hr = raw_vJsM(CEDvvp79, vkvJ_rTkkyLl_56, QsoVxM_wnAex_35, BxNJ94, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::lnsVQyQXtN ( _bstr_t lsAg_ToIuQ_hufxIc, _bstr_t UbLN_yDop_PGtqq, _bstr_t nkmlHz_GSec_47, _bstr_t rSgJZdF_YRTg_pGMUrNr, _bstr_t AnhKW63 ) {
+    long _result = 0;
+    HRESULT _hr = raw_lnsVQyQXtN(lsAg_ToIuQ_hufxIc, UbLN_yDop_PGtqq, nkmlHz_GSec_47, rSgJZdF_YRTg_pGMUrNr, AnhKW63, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::rRboNbaYp ( long HvdxD_uQMbWPJ_eEiQfKK, long nqvc_FHDWvSq_53, long vunhVG_IjEf_28, long AZBHAG_YMHKQbO_42, _bstr_t bMdz_BcLo_19, _bstr_t vQZaY_McVRks_07, double evsc78, VARIANT * bspygG_GWjH_ZWgS, VARIANT * yijxP_BQuEzKn ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_rRboNbaYp(HvdxD_uQMbWPJ_eEiQfKK, nqvc_FHDWvSq_53, vunhVG_IjEf_28, AZBHAG_YMHKQbO_42, bMdz_BcLo_19, vQZaY_McVRks_07, evsc78, bspygG_GWjH_ZWgS, yijxP_BQuEzKn, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::ylmrWTewlkPVA ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_ylmrWTewlkPVA(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::YnVceKVtCXUgG ( long HIZHKRe_jsdaAhZ_liNP ) {
+    long _result = 0;
+    HRESULT _hr = raw_YnVceKVtCXUgG(HIZHKRe_jsdaAhZ_liNP, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::apSGYruRgRHSdc ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_apSGYruRgRHSdc(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::sxkMdn ( long ABjvfJo_VEqvJL, __int64 sExkgq_pJEx, float TtqXko54 ) {
+    long _result = 0;
+    HRESULT _hr = raw_sxkMdn(ABjvfJo_VEqvJL, sExkgq_pJEx, TtqXko54, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::wTagaJRrLC ( long TeWw_mbDpZVO_09, long Ikxj97, long pKvOqKf_nRBQyLV_vxhFn, long OdgPN56, _bstr_t ACBnu_eDoqRTM_Qvqu, double dUtcNmn_GiiHMr ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_wTagaJRrLC(TeWw_mbDpZVO_09, Ikxj97, pKvOqKf_nRBQyLV_vxhFn, OdgPN56, ACBnu_eDoqRTM_Qvqu, dUtcNmn_GiiHMr, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::ibKGEhIW ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_ibKGEhIW(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::JeugaNIMyZHzNT ( long iWkBMxb_pAEw_rFNbk, _bstr_t bQsC_tVSrrnF, double sFWWbDA_tkQfxZ_82, double cImV_hkXXx, long LbeswoI_XLbCyDq_46, long oOscN_AHARuSs_94, long wWoL_ZhADcTN ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_JeugaNIMyZHzNT(iWkBMxb_pAEw_rFNbk, bQsC_tVSrrnF, sFWWbDA_tkQfxZ_82, cImV_hkXXx, LbeswoI_XLbCyDq_46, oOscN_AHARuSs_94, wWoL_ZhADcTN, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::FindPicSimMemEx ( long x1, long y1, long x2, long y2, _bstr_t pic_info, _bstr_t delta_color, long sim, long dir ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_FindPicSimMemEx(x1, y1, x2, y2, pic_info, delta_color, sim, dir, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::AyPxFeIA ( long TrPO_nQjzQ_66, long GUjIFMs_AjEKZ_30, _bstr_t ZABpqM_IRkq_oeJln ) {
+    long _result = 0;
+    HRESULT _hr = raw_AyPxFeIA(TrPO_nQjzQ_66, GUjIFMs_AjEKZ_30, ZABpqM_IRkq_oeJln, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ylWvyRZCpUBqh ( long BQEDg_LEMUle, _bstr_t XOdxU_auCu_eWiLx ) {
+    long _result = 0;
+    HRESULT _hr = raw_ylWvyRZCpUBqh(BQEDg_LEMUle, XOdxU_auCu_eWiLx, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::iUiXNQIAu ( long qTIpt_jdwyGc_33, _bstr_t ZMbndrg69, long CTLnlq_Vwcu ) {
+    long _result = 0;
+    HRESULT _hr = raw_iUiXNQIAu(qTIpt_jdwyGc_33, ZMbndrg69, CTLnlq_Vwcu, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::AfAp ( _bstr_t NHvfCGP_siBuAeK_pTLi ) {
+    long _result = 0;
+    HRESULT _hr = raw_AfAp(NHvfCGP_siBuAeK_pTLi, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline double Iqwert::ErpTTmowuFpLgSo ( long hitKFOj_ZBjw_76, __int64 rTBq_EaTEH_02 ) {
+    double _result = 0;
+    HRESULT _hr = raw_ErpTTmowuFpLgSo(hitKFOj_ZBjw_76, rTBq_EaTEH_02, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::mLgYfViL ( long shLW61, long JMFP_pQWUvmJ_28 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_mLgYfViL(shLW61, JMFP_pQWUvmJ_28, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::xkVxZM ( long HlwHuPb_OpnObkh_73, long gqHBx_tIske_wfPViJI, long uxWTW12, long DAaw_oahjoIC_02, _bstr_t byktgYl_bzeBQbr_FgOf, _bstr_t IOob_FaSYomi_76, double AtDe_uyuLW, long iLlUSY24 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_xkVxZM(HlwHuPb_OpnObkh_73, gqHBx_tIske_wfPViJI, uxWTW12, DAaw_oahjoIC_02, byktgYl_bzeBQbr_FgOf, IOob_FaSYomi_76, AtDe_uyuLW, iLlUSY24, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::rFugGCYhsYL ( long jKnfXB_vxIBo ) {
+    long _result = 0;
+    HRESULT _hr = raw_rFugGCYhsYL(jKnfXB_vxIBo, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::dIHVAmWAaQtQmZo ( long CmDl_hTxT_96, long PLRYCfk_LrlJAPn, long WxBsAXT_lfpz_MFbnDpf, long rFVvJ_KDwYg_lGIgvu, _bstr_t pAPYd71, long dfGB92 ) {
+    long _result = 0;
+    HRESULT _hr = raw_dIHVAmWAaQtQmZo(CmDl_hTxT_96, PLRYCfk_LrlJAPn, WxBsAXT_lfpz_MFbnDpf, rFVvJ_KDwYg_lGIgvu, pAPYd71, dfGB92, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::AXHPt ( long dvuxW13, long slYLhYO21, long SftUnAf_xAhBZnx_aTeWtsP, long hAira_MbDW, _bstr_t SpAi_Vxbtdun_73, _bstr_t sJvaIB14, double kdsJwN52, _bstr_t PQdGwL_zwEXK, long tsrPxqv_Xkmm_qlhmU, long FMJj_QmRJgqc_06 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_AXHPt(dvuxW13, slYLhYO21, SftUnAf_xAhBZnx_aTeWtsP, hAira_MbDW, SpAi_Vxbtdun_73, sJvaIB14, kdsJwN52, PQdGwL_zwEXK, tsrPxqv_Xkmm_qlhmU, FMJj_QmRJgqc_06, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::FWyUw ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_FWyUw(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::cqxWB ( _bstr_t pwxQ08, _bstr_t Jndoe_JwCeXo, long ChDvvi_xbVty_ykrDn ) {
+    long _result = 0;
+    HRESULT _hr = raw_cqxWB(pwxQ08, Jndoe_JwCeXo, ChDvvi_xbVty_ykrDn, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::kkhgiY ( __int64 BScO_eLKtX_44, long sFxqszX_lXEo_GNpzUy ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_kkhgiY(BScO_eLKtX_44, sFxqszX_lXEo_GNpzUy, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::SetShowAsmErrorMsg ( long show ) {
+    long _result = 0;
+    HRESULT _hr = raw_SetShowAsmErrorMsg(show, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ClVaaaQqDk ( long JsyMACN_uZadR, long qGbw_WFQeal_09 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ClVaaaQqDk(JsyMACN_uZadR, qGbw_WFQeal_09, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gcsWIzpk ( __int64 SPNJz_UfIO_81 ) {
+    long _result = 0;
+    HRESULT _hr = raw_gcsWIzpk(SPNJz_UfIO_81, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::fLzmTra ( long Usnle15 ) {
+    long _result = 0;
+    HRESULT _hr = raw_fLzmTra(Usnle15, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gcXn ( long nonzSW_ZUwoB_99, long ipPrgSd_mmrMpNo_QBZceJ, long pzfVZl_PVAfw_70, long kEVG_kplbfF_98, _bstr_t IYgflVE_NKsikTg_GSkEa, _bstr_t mgDv_YjHI_PCqic, double ikSlF_nrHYEPk_52, long nRmaNhF79, VARIANT * ZBNUA_CqfpW_DgJnB, VARIANT * wmzVs_dfNjQUe_KjItQb ) {
+    long _result = 0;
+    HRESULT _hr = raw_gcXn(nonzSW_ZUwoB_99, ipPrgSd_mmrMpNo_QBZceJ, pzfVZl_PVAfw_70, kEVG_kplbfF_98, IYgflVE_NKsikTg_GSkEa, mgDv_YjHI_PCqic, ikSlF_nrHYEPk_52, nRmaNhF79, ZBNUA_CqfpW_DgJnB, wmzVs_dfNjQUe_KjItQb, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::CgcQEv ( long mvnL_JtcCPN_knxUsK, _bstr_t qSueuLD_FnVE_HtfHcTk, long qpLQQfA_tEICu, _bstr_t mVosscC_gyUv_99 ) {
+    long _result = 0;
+    HRESULT _hr = raw_CgcQEv(mvnL_JtcCPN_knxUsK, qSueuLD_FnVE_HtfHcTk, qpLQQfA_tEICu, mVosscC_gyUv_99, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::mgDcnde ( long AXFHA_HRNcUZ_zLepwZD, __int64 gScEKfa_rLpa_39, long tifXYBz_uZsquH_56, __int64 hQMXxX_ZEXE ) {
+    long _result = 0;
+    HRESULT _hr = raw_mgDcnde(AXFHA_HRNcUZ_zLepwZD, gScEKfa_rLpa_39, tifXYBz_uZsquH_56, hQMXxX_ZEXE, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::mvyy ( long gTIdAc_OtRqeum_58 ) {
+    long _result = 0;
+    HRESULT _hr = raw_mvyy(gTIdAc_OtRqeum_58, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::JIewozgKML ( _bstr_t FSABR_mZxtIl_SeVJuV, long SNxsfXC33, long sNvcx_pUqHFU_70 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_JIewozgKML(FSABR_mZxtIl_SeVJuV, SNxsfXC33, sNvcx_pUqHFU_70, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::QYMmvGPJRWkAli ( long zIJp28, long Jdclm23 ) {
+    long _result = 0;
+    HRESULT _hr = raw_QYMmvGPJRWkAli(zIJp28, Jdclm23, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline __int64 Iqwert::AmCT ( long HjcVzzK_JkSks_82, __int64 vNwYWs55, long KYSF74 ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_AmCT(HjcVzzK_JkSks_82, vNwYWs55, KYSF74, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::iqycmha ( _bstr_t EqemY_IRAKj_yrXupQw ) {
+    long _result = 0;
+    HRESULT _hr = raw_iqycmha(EqemY_IRAKj_yrXupQw, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::aUdX ( long gsbuS79 ) {
+    long _result = 0;
+    HRESULT _hr = raw_aUdX(gsbuS79, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline __int64 Iqwert::EmizmgUgWLnqosC ( long QrAXRQ85, long SVPkhN_WSsq_jJqLnzN ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_EmizmgUgWLnqosC(QrAXRQ85, SVPkhN_WSsq_jJqLnzN, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::eeatxMaIrNbef ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_eeatxMaIrNbef(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::cddmICJHrzjQW ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_cddmICJHrzjQW(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::hWlQBRflJ ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_hWlQBRflJ(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::FindPicSimMem ( long x1, long y1, long x2, long y2, _bstr_t pic_info, _bstr_t delta_color, long sim, long dir, VARIANT * x, VARIANT * y ) {
+    long _result = 0;
+    HRESULT _hr = raw_FindPicSimMem(x1, y1, x2, y2, pic_info, delta_color, sim, dir, x, y, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::EfQWlTRACvG ( long EnamjRx_hZVYoKn, long PgDOpE_crZv_15, long RjrM_NNMV_92, long BqEaGPg_jPjVCh, _bstr_t zhUed_Covju, _bstr_t XZwK_QvknXFG_62, double dNEDk67 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_EfQWlTRACvG(EnamjRx_hZVYoKn, PgDOpE_crZv_15, RjrM_NNMV_92, BqEaGPg_jPjVCh, zhUed_Covju, XZwK_QvknXFG_62, dNEDk67, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::CrSpXMQvVHSKr ( _bstr_t XzvqJuP_HQdhSmz_50, _bstr_t EHyImT_uKGOlk, _bstr_t pqWR_Fpfb, _bstr_t PXjLq_SsQQPlY ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_CrSpXMQvVHSKr(XzvqJuP_HQdhSmz_50, EHyImT_uKGOlk, pqWR_Fpfb, PXjLq_SsQQPlY, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::tNwQulLDoACupE ( long yBuyEI_dlkwAe_lrIQ ) {
+    long _result = 0;
+    HRESULT _hr = raw_tNwQulLDoACupE(yBuyEI_dlkwAe_lrIQ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::Zawhddc ( float NmCDZN_LjvnwQw_44 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_Zawhddc(NmCDZN_LjvnwQw_44, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::vfcha ( _bstr_t YjrXJx_yCwUqx_gVCP ) {
+    long _result = 0;
+    HRESULT _hr = raw_vfcha(YjrXJx_yCwUqx_gVCP, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::ZMzHRYyWJBKjzD ( long ThiH84, _bstr_t NOdg_Jtvi, _bstr_t NzzCEZ_mTmxeeh_30, long rsuUe_MQvEVdA_69 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_ZMzHRYyWJBKjzD(ThiH84, NOdg_Jtvi, NzzCEZ_mTmxeeh_30, rsuUe_MQvEVdA_69, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::GIRCDKww ( long qHWO_JCshe_77, long lyEmH26, long IHkdbfX_Rxod_32, long KfjAkB_DFSUSv_LdhkGRW, _bstr_t oSZts_yspql_uSunuxj, _bstr_t cBkBgV_xAwvX ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_GIRCDKww(qHWO_JCshe_77, lyEmH26, IHkdbfX_Rxod_32, KfjAkB_DFSUSv_LdhkGRW, oSZts_yspql_uSunuxj, cBkBgV_xAwvX, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::ybUknvZFjA ( long jzMrj57, _bstr_t RSnQaq12, _bstr_t wyrHAA_uhjO_69 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_ybUknvZFjA(jzMrj57, RSnQaq12, wyrHAA_uhjO_69, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::InHZIkxJxkBMqi ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_InHZIkxJxkBMqi(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::neQPkrq ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_neQPkrq(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::vJjM ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_vJjM(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::jDBKzdeQaJGfsc ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_jDBKzdeQaJGfsc(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::bMjJ ( long ExFPe24, __int64 PMkvGP_VjEaip_msGxeE, long AWNjHeu_EQfDT ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_bMjJ(ExFPe24, PMkvGP_VjEaip_msGxeE, AWNjHeu_EQfDT, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::gkIkisUS ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_gkIkisUS(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::uGiFqltIWjMoLFw ( long sErrVy_fzvYJX, long VBQdI78, long hNWC_OSWGb_cEvag, long hyowyeR_Jasx, _bstr_t AhFiVl_XFttb_WkTL, _bstr_t FNeBHz_UVLR_24, double AieFetY_roQzRKe_00, _bstr_t lueR_dDtcte, long QYHV_jFRL_53, long yrwpAWe25, VARIANT * NzaMulK_GLRVW_fjkm, VARIANT * ArjYjz_RXYVDu_qvmGDgv ) {
+    long _result = 0;
+    HRESULT _hr = raw_uGiFqltIWjMoLFw(sErrVy_fzvYJX, VBQdI78, hNWC_OSWGb_cEvag, hyowyeR_Jasx, AhFiVl_XFttb_WkTL, FNeBHz_UVLR_24, AieFetY_roQzRKe_00, lueR_dDtcte, QYHV_jFRL_53, yrwpAWe25, NzaMulK_GLRVW_fjkm, ArjYjz_RXYVDu_qvmGDgv, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::oKjgMpYpMlwRxYh ( long bsrF_KmOSRqs_08 ) {
+    long _result = 0;
+    HRESULT _hr = raw_oKjgMpYpMlwRxYh(bsrF_KmOSRqs_08, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::tBjSdvlP ( long lwqW09 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_tBjSdvlP(lwqW09, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::FindPicSimEx ( long x1, long y1, long x2, long y2, _bstr_t pic_name, _bstr_t delta_color, long sim, long dir ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_FindPicSimEx(x1, y1, x2, y2, pic_name, delta_color, sim, dir, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::LbeqQKf ( long jnaSIUY_sAsn_92, long xATY80, long oHTgZh54, long sTMq_WMooc_fTNNHO, long AXgHB69 ) {
+    long _result = 0;
+    HRESULT _hr = raw_LbeqQKf(jnaSIUY_sAsn_92, xATY80, oHTgZh54, sTMq_WMooc_fTNNHO, AXgHB69, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::wKCvPQdZSluXTfK ( _bstr_t apgKy_EQWOTmM_SulH ) {
+    long _result = 0;
+    HRESULT _hr = raw_wKCvPQdZSluXTfK(apgKy_EQWOTmM_SulH, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::fpojRfrBFgTXqm ( long AvaFSl_ZYiwYd_BcBkVw, _bstr_t qHVDn35, long SBYIuuV_EKit, _bstr_t imhnqrm_qipNqR_24 ) {
+    long _result = 0;
+    HRESULT _hr = raw_fpojRfrBFgTXqm(AvaFSl_ZYiwYd_BcBkVw, qHVDn35, SBYIuuV_EKit, imhnqrm_qipNqR_24, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::erQE ( long bdJWF_pGQSg_21 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_erQE(bdJWF_pGQSg_21, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::tvHQxoTUfo ( long Dxzre_yznZ_QSCLECg ) {
+    long _result = 0;
+    HRESULT _hr = raw_tvHQxoTUfo(Dxzre_yznZ_QSCLECg, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::vMDetXF ( long LutUDe_FdizA ) {
+    long _result = 0;
+    HRESULT _hr = raw_vMDetXF(LutUDe_FdizA, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::gyzqtup ( long OYUl_FlYIFcQ, long ingUxDt31, long elJjve33, long ipmHGGK_DIPMh_NExLqp, _bstr_t PvmKS_PWhusjN_jjbCGj, double hSAIHm_zkyUyUE_NEyRG, long hERB_rvCM_97, VARIANT * NUhRSY54, VARIANT * zXrQo_PPRIH_57 ) {
+    long _result = 0;
+    HRESULT _hr = raw_gyzqtup(OYUl_FlYIFcQ, ingUxDt31, elJjve33, ipmHGGK_DIPMh_NExLqp, PvmKS_PWhusjN_jjbCGj, hSAIHm_zkyUyUE_NEyRG, hERB_rvCM_97, NUhRSY54, zXrQo_PPRIH_57, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::HcIblEajpY ( long ivpXPu_KTpoyK_DBbnpY, _bstr_t vlWTwXK_BMxXg_61, long xdYq_XzERWBL, __int64 lnBO63 ) {
+    long _result = 0;
+    HRESULT _hr = raw_HcIblEajpY(ivpXPu_KTpoyK_DBbnpY, vlWTwXK_BMxXg_61, xdYq_XzERWBL, lnBO63, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::GGnTCVFsG ( long oMDpmeE_ykYbRk ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_GGnTCVFsG(oMDpmeE_ykYbRk, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::lKZNLLekQMAV ( _bstr_t Biob_Vsxcpm_egiyyy, _bstr_t HaDUWvu_oLyVric_UwPvy ) {
+    long _result = 0;
+    HRESULT _hr = raw_lKZNLLekQMAV(Biob_Vsxcpm_egiyyy, HaDUWvu_oLyVric_UwPvy, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::sntzttkZ ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_sntzttkZ(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::VFmJKysQ ( _bstr_t eXwYIB_QfSubz_40, _bstr_t cCyyOn_pDBJNya_10, _bstr_t eCGTS_JCSokwZ_CPjCKV ) {
+    long _result = 0;
+    HRESULT _hr = raw_VFmJKysQ(eXwYIB_QfSubz_40, cCyyOn_pDBJNya_10, eCGTS_JCSokwZ_CPjCKV, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::CXhsKTVP ( long ClOXPu53, long Aocki_aeYE, long BmHs_aQtRtnP_22, _bstr_t SsZpRnw_dsonB_QZOMEK, _bstr_t JTgb_BCSgrGf_50, double qQscEz_QPHfu_jaUtXhF ) {
+    long _result = 0;
+    HRESULT _hr = raw_CXhsKTVP(ClOXPu53, Aocki_aeYE, BmHs_aQtRtnP_22, SsZpRnw_dsonB_QZOMEK, JTgb_BCSgrGf_50, qQscEz_QPHfu_jaUtXhF, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::KlrglrBvLekD ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_KlrglrBvLekD(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::EvtzSIpcmPyJKP ( long plOM_jSflIc, long kOtNh_UQHKK, long mPcM_ZOxGr_wBYf, long Ihbs_KVyUtx_cMNilj, _bstr_t jxlEbEH_qqdS, _bstr_t NCnIQkQ_YfcW_45, double hJWUI_tZLml_50, long AONW_XDUGeUC, VARIANT * yGhNg_Embues_ikTWG, VARIANT * jZlzrJ81 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_EvtzSIpcmPyJKP(plOM_jSflIc, kOtNh_UQHKK, mPcM_ZOxGr_wBYf, Ihbs_KVyUtx_cMNilj, jxlEbEH_qqdS, NCnIQkQ_YfcW_45, hJWUI_tZLml_50, AONW_XDUGeUC, yGhNg_Embues_ikTWG, jZlzrJ81, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::UJBla ( _bstr_t jpUIk_yOMM_16 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_UJBla(jpUIk_yOMM_16, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::xgJoHeJfu ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_xgJoHeJfu(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::AuwdPQL ( long TRSimD_IiklV_35, long eraFdR_EVkNBB, long UOwFYPx_OKvRUJu_71, long veKpMFQ_ZGgVD_54, _bstr_t TqUL03, double uQwm_kHQr_oqhe, long WFzHnU_qcdK_RsEF ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_AuwdPQL(TRSimD_IiklV_35, eraFdR_EVkNBB, UOwFYPx_OKvRUJu_71, veKpMFQ_ZGgVD_54, TqUL03, uQwm_kHQr_oqhe, WFzHnU_qcdK_RsEF, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::JkgbWQCpeyoZS ( long bqKmoo_HyRfJ ) {
+    long _result = 0;
+    HRESULT _hr = raw_JkgbWQCpeyoZS(bqKmoo_HyRfJ, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::onhkPtfHoDZRQYR ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_onhkPtfHoDZRQYR(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::pynkVVjezQytB ( long GGhv_KHzFB_hJIifek, long wvSxF_PANox_jUMsqgk ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_pynkVVjezQytB(GGhv_KHzFB_hJIifek, wvSxF_PANox_jUMsqgk, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::wAIvgnQkFJwVlnm ( _bstr_t ArbO_SstLm_KonZ, _bstr_t BsTdM_evulUxd_JJAprSz ) {
+    long _result = 0;
+    HRESULT _hr = raw_wAIvgnQkFJwVlnm(ArbO_SstLm_KonZ, BsTdM_evulUxd_JJAprSz, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::FindPicSimE ( long x1, long y1, long x2, long y2, _bstr_t pic_name, _bstr_t delta_color, long sim, long dir ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_FindPicSimE(x1, y1, x2, y2, pic_name, delta_color, sim, dir, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::GoiXUXFgrCcYsb ( _bstr_t XtMo74, long ecuBtj_sghKxY_20, long uyoJRCU_GpIy_80, long XSKV_UDeDs_hxxObGh, long QdVpeSj_wnNKCd, long hddaF90 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_GoiXUXFgrCcYsb(XtMo74, ecuBtj_sghKxY_20, uyoJRCU_GpIy_80, XSKV_UDeDs_hxxObGh, QdVpeSj_wnNKCd, hddaF90, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::FcrZhzlM ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_FcrZhzlM(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::QuJVmQN ( long ardTDp16, long VxqMr_CsYYqI, long bfVH_zKXm_YuTxP, long dBaJ_ymAOI, _bstr_t bJSrjNj_lHxd_22, long CjCTZ84 ) {
+    long _result = 0;
+    HRESULT _hr = raw_QuJVmQN(ardTDp16, VxqMr_CsYYqI, bfVH_zKXm_YuTxP, dBaJ_ymAOI, bJSrjNj_lHxd_22, CjCTZ84, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::NUdeKeBp ( long ypTi97, long jgHCWSF88, long uSmUqr_umoVp, long UdfyCM_KlFEAu_xxrB, _bstr_t rpPJPd_aQwgYW, _bstr_t dxpdK06, double ZXNJKB74, VARIANT * odGdfR_CubOD, VARIANT * cBIPorx_uPwrdgs_45 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_NUdeKeBp(ypTi97, jgHCWSF88, uSmUqr_umoVp, UdfyCM_KlFEAu_xxrB, rpPJPd_aQwgYW, dxpdK06, ZXNJKB74, odGdfR_CubOD, cBIPorx_uPwrdgs_45, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::yFszcrWL ( _bstr_t UanuM_hOTHsx_20 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_yFszcrWL(UanuM_hOTHsx_20, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::JYql ( long QKxLUNG_LRVRD_hMOBx, _bstr_t KvfBqH_iAWLm_XvOfKPI, _bstr_t TWRmq12 ) {
+    long _result = 0;
+    HRESULT _hr = raw_JYql(QKxLUNG_LRVRD_hMOBx, KvfBqH_iAWLm_XvOfKPI, TWRmq12, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::kKYEIQpvNZzai ( long cplq_llHpdSg_Pcec ) {
+    long _result = 0;
+    HRESULT _hr = raw_kKYEIQpvNZzai(cplq_llHpdSg_Pcec, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::VSiZCsrDA ( long iNjOOL_gEFqeQ_UfLBarD, long XMeM_MAfyaC_73, long QYBizB40, _bstr_t gxtGLcS_HZyTn_SGRTzFY, long aHNgFUN_weBjm_olMjtQH, long sPLsR_dTlrjA ) {
+    long _result = 0;
+    HRESULT _hr = raw_VSiZCsrDA(iNjOOL_gEFqeQ_UfLBarD, XMeM_MAfyaC_73, QYBizB40, gxtGLcS_HZyTn_SGRTzFY, aHNgFUN_weBjm_olMjtQH, sPLsR_dTlrjA, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::MmySBfQuBqI ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_MmySBfQuBqI(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::qWgKzCkrMIo ( long xFSW_ELTqMAh_84, _bstr_t RDeg_ajtaJ_exPnLi, _bstr_t nMvecCi_zMLOzP_NRPMTp, _bstr_t VyQjAEg19, _bstr_t ftEeLn_BeTuK, long mYFOm_zEeGw_40 ) {
+    long _result = 0;
+    HRESULT _hr = raw_qWgKzCkrMIo(xFSW_ELTqMAh_84, RDeg_ajtaJ_exPnLi, nMvecCi_zMLOzP_NRPMTp, VyQjAEg19, ftEeLn_BeTuK, mYFOm_zEeGw_40, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::DnsBaJFsMyNFb ( long DLleUql_UVUS_34 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_DnsBaJFsMyNFb(DLleUql_UVUS_34, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::KseSTrzeDD ( _bstr_t AkXzqqZ05, _bstr_t ruSMBip_CSNQG, _bstr_t lOMXdp_omvBm_bMJFXhR ) {
+    long _result = 0;
+    HRESULT _hr = raw_KseSTrzeDD(AkXzqqZ05, ruSMBip_CSNQG, lOMXdp_omvBm_bMJFXhR, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::WRatR ( long FOMB59, _bstr_t rtiwM_iaIZ, long ImWj10, long hQidy_xeRi_XDoXrie ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_WRatR(FOMB59, rtiwM_iaIZ, ImWj10, hQidy_xeRi_XDoXrie, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::enavVASTnso ( long CYMmKhH_yyCC_itZq, long uDZcA_btfzd, long uymwNS_OSJEC ) {
+    long _result = 0;
+    HRESULT _hr = raw_enavVASTnso(CYMmKhH_yyCC_itZq, uDZcA_btfzd, uymwNS_OSJEC, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::ahrtFMyYfx ( long CTkLaXW98 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_ahrtFMyYfx(CTkLaXW98, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::GFVIhbXE ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_GFVIhbXE(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::VvZZwvQCIIq ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_VvZZwvQCIIq(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::ZTKmlwzwBuQr ( _bstr_t MGEMEp59 ) {
+    long _result = 0;
+    HRESULT _hr = raw_ZTKmlwzwBuQr(MGEMEp59, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::GMTwNFDtSehjFc ( double CVjsA84 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_GMTwNFDtSehjFc(CVjsA84, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::bqFBeRg ( long OhFUyd_QKPf_43, long ZBxu_syvJb_REBA, long puIxsj19, long pskb13, _bstr_t RYiWpLH90, _bstr_t lAAG97, double vuhicr_bSzC_LwrHpdq ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_bqFBeRg(OhFUyd_QKPf_43, ZBxu_syvJb_REBA, puIxsj19, pskb13, RYiWpLH90, lAAG97, vuhicr_bSzC_LwrHpdq, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline __int64 Iqwert::stHJCFYxrMM ( long WLgmi_Lzmmjp, _bstr_t iarS_iyTTwQ_Tllf ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_stHJCFYxrMM(WLgmi_Lzmmjp, iarS_iyTTwQ_Tllf, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::wcfiln ( long hoxseLf_vnReKN_mDBrec ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_wcfiln(hoxseLf_vnReKN_mDBrec, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::NbjGVNpEU ( long jiWZorr67, long dQWb_AcjRISu, long kIiA_FpFsbkW, _bstr_t wruBA99, _bstr_t GgBAdn_RWdpWd_NHiJlc ) {
+    long _result = 0;
+    HRESULT _hr = raw_NbjGVNpEU(jiWZorr67, dQWb_AcjRISu, kIiA_FpFsbkW, wruBA99, GgBAdn_RWdpWd_NHiJlc, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::CxpFENSLixLZvAu ( long OVln_uTXaZu_95, long aRSiCde67 ) {
+    long _result = 0;
+    HRESULT _hr = raw_CxpFENSLixLZvAu(OVln_uTXaZu_95, aRSiCde67, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::UiZNNyxN ( long ajUB_LQTeWql_12, long ILeNC86 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_UiZNNyxN(ajUB_LQTeWql_12, ILeNC86, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::GYyLlbjoLralAK ( _bstr_t RBMDG39, _bstr_t tHMchps_ioTE_38, _bstr_t nmQQ_WOIlC ) {
+    long _result = 0;
+    HRESULT _hr = raw_GYyLlbjoLralAK(RBMDG39, tHMchps_ioTE_38, nmQQ_WOIlC, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::WUnrRHdLCwwrqJ ( _bstr_t OODAKAb_NuvVdh_claJ, long juaT_HbpEeeP ) {
+    long _result = 0;
+    HRESULT _hr = raw_WUnrRHdLCwwrqJ(OODAKAb_NuvVdh_claJ, juaT_HbpEeeP, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long Iqwert::crviiDaZLoxjsT ( _bstr_t MgZUzM98 ) {
+    long _result = 0;
+    HRESULT _hr = raw_crviiDaZLoxjsT(MgZUzM98, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::PvWElJYsVc ( long czDABu35, long Topf_Bxxomn_87 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_PvWElJYsVc(czDABu35, Topf_Bxxomn_87, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::xZnVFahBPEA ( ) {
+    long _result = 0;
+    HRESULT _hr = raw_xZnVFahBPEA(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::QtagrsQ ( _bstr_t Fiurl15, _bstr_t dOpP78, _bstr_t HMrFL_IzayXj_62 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_QtagrsQ(Fiurl15, dOpP78, HMrFL_IzayXj_62, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _bstr_t Iqwert::xtrsiLJa ( _bstr_t VrBTxgR_hcov_fkMJ, long rpjjjYH_TsfUP_lSehFo, long GoXM_VgCGHhC_69, long Bjeqy65 ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_xtrsiLJa(VrBTxgR_hcov_fkMJ, rpjjjYH_TsfUP_lSehFo, GoXM_VgCGHhC_69, Bjeqy65, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline long Iqwert::azjxdrKS ( long ftUeDk_qAVeeiJ_gszx, long jPyN_Bcgztb, _bstr_t JZTAQT_wyXs_39, double hfYNXUe_XqgRNf ) {
+    long _result = 0;
+    HRESULT _hr = raw_azjxdrKS(ftUeDk_qAVeeiJ_gszx, jPyN_Bcgztb, JZTAQT_wyXs_39, hfYNXUe_XqgRNf, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t Iqwert::RHzJfGeMKNJRdcr ( long XQJx_whEN_PSMA ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_RHzJfGeMKNJRdcr(XQJx_whEN_PSMA, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
